@@ -1,0 +1,2501 @@
+ID_INCIDENTE,PRIORIDAD,TIEMPO_RESOLUCION_MIN,TIPO_INCUMPLIMIENTO,ES_CAMBIO_AUTORIZADO,RIESGO_CRITICIDAD,NIVEL_MADUREZ,FECHA_REGISTRO
+INC-17D852A7,Media,1201.98,Falla de Hardware,1,Medio,Nivel 3,2025-08-18
+INC-C3455976,Baja,3331.02,Falla de Hardware,1,Bajo,Nivel 3,2025-07-14
+INC-B3DACB09,Baja,2528.82,Error de Aplicación,1,Bajo,Nivel 3,2025-07-19
+INC-9F45D9BD,Media,1379.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-09
+INC-6CDCBBCA,Alta,120.21,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-25
+INC-BB441671,Alta,79.17,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-12
+INC-95E413E6,Alta,414.28,Falla de Hardware,1,Alto,Nivel 3,2025-06-06
+INC-259E6331,Baja,1964.43,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-07
+INC-52EB1209,Media,1228.82,Falla de Hardware,1,Medio,Nivel 3,2025-09-17
+INC-DDFC9D15,Baja,3870.98,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-24
+INC-6B5DD9FD,Alta,58.11,Petición de Servicio,1,Alto,Nivel 3,2025-09-28
+INC-B07CED01,Baja,3830.55,Falla de Hardware,1,Bajo,Nivel 3,2025-08-15
+INC-8EE2045F,Baja,2002.94,Falla de Hardware,1,Bajo,Nivel 3,2025-09-18
+INC-BF6C44E5,Alta,259.69,Falla de Hardware,1,Alto,Nivel 3,2025-10-06
+INC-74832EA4,Alta,311.97,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-20
+INC-948FB10F,Alta,446.87,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-11
+INC-D471F541,Media,86.38,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-22
+INC-C1AF868D,Media,718.04,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-04
+INC-8FB321D5,Media,1009.06,Falla de Hardware,1,Medio,Nivel 3,2025-07-24
+INC-1F959BBA,Media,1057.34,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-23
+INC-3619D684,Media,1015.69,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-26
+INC-57825287,Alta,90.5,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-19
+INC-3384C124,Media,473.17,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-05-17
+INC-CCCB5D3C,Media,555.03,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-19
+INC-D6F0023A,Media,1170.12,Petición de Servicio,1,Medio,Nivel 3,2025-04-28
+INC-69A9861C,Baja,1290.79,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-27
+INC-BB4425EB,Alta,124.82,Error de Aplicación,1,Alto,Nivel 3,2025-07-13
+INC-FF389130,Media,1381.28,Falla de Hardware,1,Medio,Nivel 3,2025-06-27
+INC-7664B960,Media,72.23,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-18
+INC-4F95DFEF,Alta,479.02,Petición de Servicio,1,Alto,Nivel 3,2025-06-12
+INC-AE5AF052,Media,994.01,Error de Aplicación,1,Medio,Nivel 3,2025-09-29
+INC-D14BA705,Alta,402.81,Error de Aplicación,1,Alto,Nivel 3,2025-07-11
+INC-E1015977,Alta,162.58,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-05
+INC-00C890F8,Baja,180.12,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-10
+INC-34224604,Baja,3219.05,Error de Aplicación,1,Bajo,Nivel 3,2025-04-30
+INC-F8C0953F,Baja,3623.41,Falla de Hardware,1,Bajo,Nivel 3,2025-05-19
+INC-2BB26CA9,Media,1081.86,Falla de Hardware,1,Medio,Nivel 3,2025-04-26
+INC-19B1072A,Alta,94.28,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-07-05
+INC-F3146EFB,Media,1099.73,Falla de Hardware,1,Medio,Nivel 3,2025-06-19
+INC-CC88DA81,Media,1121.11,Error de Aplicación,1,Medio,Nivel 3,2025-06-23
+INC-038556C9,Alta,326.34,Error de Aplicación,1,Alto,Nivel 3,2025-07-17
+INC-780B01B3,Media,1117.24,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-19
+INC-8F320E3B,Alta,410.66,Error de Aplicación,1,Alto,Nivel 3,2025-10-04
+INC-07A9E358,Baja,2697.14,Falla de Hardware,1,Bajo,Nivel 3,2025-07-05
+INC-C0D8AF0B,Media,182.27,Petición de Servicio,1,Medio,Nivel 3,2025-06-14
+INC-3E9E9AD4,Media,732.93,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-13
+INC-CBB868F0,Media,167.16,Falla de Hardware,1,Medio,Nivel 3,2025-07-22
+INC-54D16D44,Media,622.41,Petición de Servicio,1,Medio,Nivel 3,2025-05-05
+INC-DE60A955,Media,621.81,Falla de Hardware,1,Medio,Nivel 3,2025-09-12
+INC-DD59D48C,Alta,59.7,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-08
+INC-409921C8,Baja,1585.05,Error de Aplicación,1,Bajo,Nivel 3,2025-04-25
+INC-31BC49F0,Baja,586.19,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-25
+INC-9EE91F6C,Baja,3514.59,Error de Aplicación,1,Bajo,Nivel 3,2025-05-13
+INC-B032FB08,Baja,4100.29,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-03
+INC-65A33ACA,Media,159.8,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-05
+INC-E7316C69,Baja,4131.48,Falla de Hardware,1,Bajo,Nivel 3,2025-05-31
+INC-EE5DAF33,Alta,265.16,Falla de Hardware,1,Alto,Nivel 3,2025-04-24
+INC-D7CA15FA,Alta,164.8,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-09
+INC-06CB8248,Alta,64.59,Error de Aplicación,1,Alto,Nivel 3,2025-08-19
+INC-76607C96,Media,750.86,Falla de Hardware,1,Medio,Nivel 3,2025-08-17
+INC-E079F6C9,Media,1156.43,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-19
+INC-B3B680F8,Media,1035.78,Falla de Hardware,1,Medio,Nivel 3,2025-04-17
+INC-F5CC13C6,Baja,330.95,Petición de Servicio,1,Bajo,Nivel 3,2025-04-22
+INC-971A1E42,Media,160.6,Error de Aplicación,1,Medio,Nivel 3,2025-05-27
+INC-5CBA6A22,Media,615.97,Petición de Servicio,1,Medio,Nivel 3,2025-04-21
+INC-76BC4287,Media,467.5,Error de Aplicación,1,Medio,Nivel 3,2025-07-05
+INC-BB205B28,Alta,134.57,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-04
+INC-960FF8A7,Baja,1300.22,Error de Aplicación,1,Bajo,Nivel 3,2025-10-10
+INC-4631732E,Alta,391.57,Error de Aplicación,1,Alto,Nivel 3,2025-07-07
+INC-F72D8878,Baja,4022.76,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-20
+INC-BB652414,Baja,1821.43,Error de Aplicación,1,Bajo,Nivel 3,2025-07-08
+INC-FC3EC29E,Alta,437.75,Falla de Hardware,1,Alto,Nivel 3,2025-08-30
+INC-8C9F0D01,Alta,174.67,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-25
+INC-79E8350B,Baja,2121.04,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-11
+INC-E812145D,Baja,1069.32,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-06-24
+INC-87D0A625,Baja,2810.0,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-01
+INC-244C9D78,Baja,4231.72,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-07
+INC-1D95F6D9,Alta,301.57,Petición de Servicio,1,Alto,Nivel 3,2025-10-11
+INC-F2D03DBE,Media,553.78,Petición de Servicio,1,Medio,Nivel 3,2025-08-11
+INC-BC642C75,Alta,321.52,Error de Aplicación,1,Alto,Nivel 3,2025-07-20
+INC-A92CCE7C,Baja,636.27,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-19
+INC-355106ED,Media,1286.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-05
+INC-D03618DF,Media,754.26,Error de Aplicación,1,Medio,Nivel 3,2025-09-09
+INC-EB213877,Alta,232.21,Falla de Hardware,1,Alto,Nivel 3,2025-08-19
+INC-5EE7BE6F,Media,868.49,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-02
+INC-7F7FCB75,Media,922.2,Falla de Hardware,1,Medio,Nivel 3,2025-07-05
+INC-13693360,Baja,421.46,Error de Aplicación,1,Bajo,Nivel 3,2025-05-24
+INC-AF757CE8,Media,1002.01,Petición de Servicio,1,Medio,Nivel 3,2025-10-02
+INC-46E6A122,Baja,1136.11,Error de Aplicación,1,Bajo,Nivel 3,2025-08-29
+INC-5B0F8B00,Media,1045.25,Falla de Hardware,1,Medio,Nivel 3,2025-07-03
+INC-BC320250,Alta,400.14,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-18
+INC-E0AF5061,Baja,3496.63,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-06
+INC-B0DDD207,Baja,2440.5,Error de Aplicación,1,Bajo,Nivel 3,2025-07-14
+INC-EF6B09CB,Media,777.83,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-23
+INC-FBEE8009,Baja,720.08,Petición de Servicio,1,Bajo,Nivel 3,2025-05-24
+INC-A57E15C6,Media,1129.98,Petición de Servicio,1,Medio,Nivel 3,2025-09-13
+INC-6ABFFFFB,Media,434.54,Petición de Servicio,1,Medio,Nivel 3,2025-09-07
+INC-ECCA5F03,Media,745.44,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-07
+INC-E48388F3,Alta,157.92,Error de Aplicación,1,Alto,Nivel 3,2025-05-15
+INC-CCD29348,Alta,90.22,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-07
+INC-F1873E2C,Alta,313.3,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-01
+INC-6D4308FB,Media,134.98,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-08
+INC-DD3E05A8,Media,1093.13,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-19
+INC-C73621C8,Media,498.27,Error de Aplicación,1,Medio,Nivel 3,2025-07-16
+INC-C3DEDBF6,Baja,120.57,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-14
+INC-D1876DEB,Alta,260.01,Petición de Servicio,1,Alto,Nivel 3,2025-04-29
+INC-39C57697,Media,124.66,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-27
+INC-62F88409,Baja,1279.91,Petición de Servicio,1,Bajo,Nivel 3,2025-04-21
+INC-5EC5D280,Alta,348.14,Error de Aplicación,1,Alto,Nivel 3,2025-04-28
+INC-249032BE,Alta,58.21,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-10-02
+INC-9B84CCBF,Media,1218.29,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-04-19
+INC-77558AC6,Alta,31.72,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-19
+INC-7D8089C7,Baja,1156.66,Petición de Servicio,1,Bajo,Nivel 3,2025-08-15
+INC-ADD3993B,Baja,3231.8,Falla de Hardware,1,Bajo,Nivel 3,2025-06-05
+INC-34837872,Media,496.45,Falla de Hardware,1,Medio,Nivel 3,2025-08-31
+INC-18853BD0,Baja,547.95,Falla de Hardware,1,Bajo,Nivel 3,2025-10-11
+INC-E739F4EE,Baja,1632.98,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-15
+INC-719DDEA8,Alta,151.68,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-25
+INC-5EABD97E,Baja,3659.39,Petición de Servicio,1,Bajo,Nivel 3,2025-07-16
+INC-79E33DBA,Media,492.42,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-25
+INC-4058215D,Baja,3433.52,Falla de Hardware,1,Bajo,Nivel 3,2025-10-06
+INC-9C2B8DDE,Baja,3865.86,Petición de Servicio,1,Bajo,Nivel 3,2025-05-03
+INC-4C02C219,Media,658.67,Petición de Servicio,1,Medio,Nivel 3,2025-06-11
+INC-3496B442,Alta,439.47,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-01
+INC-79A65577,Alta,199.79,Petición de Servicio,1,Alto,Nivel 3,2025-06-22
+INC-27F21AB6,Media,1390.43,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-05
+INC-DA6C94D7,Baja,495.02,Error de Aplicación,1,Bajo,Nivel 3,2025-06-22
+INC-46148EBB,Baja,3005.48,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-09
+INC-1EA4B9E5,Alta,252.22,Falla de Hardware,1,Alto,Nivel 3,2025-07-19
+INC-FFC5B8EB,Media,594.96,Falla de Hardware,1,Medio,Nivel 3,2025-09-14
+INC-329AF1B8,Media,933.14,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-18
+INC-24399F9D,Alta,346.74,Error de Aplicación,1,Alto,Nivel 3,2025-06-09
+INC-BAF2F9B7,Alta,31.96,Error de Aplicación,1,Alto,Nivel 3,2025-09-01
+INC-95B5E60D,Media,290.4,Falla de Hardware,1,Medio,Nivel 3,2025-07-02
+INC-3CB66ABD,Baja,3114.79,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-05-02
+INC-2A07E63D,Media,979.61,Petición de Servicio,1,Medio,Nivel 3,2025-05-27
+INC-D6BE746F,Media,1393.15,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-23
+INC-144321DF,Baja,3316.36,Petición de Servicio,1,Bajo,Nivel 3,2025-08-22
+INC-B8081CFD,Media,1372.07,Falla de Hardware,1,Medio,Nivel 3,2025-06-16
+INC-3EABBE33,Baja,3070.67,Error de Aplicación,1,Bajo,Nivel 3,2025-07-11
+INC-A73CBF98,Baja,1371.82,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-12
+INC-437CD997,Media,205.4,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-25
+INC-B6D601F5,Media,1138.92,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-04
+INC-24869799,Media,948.93,Falla de Hardware,1,Medio,Nivel 3,2025-10-13
+INC-261A9735,Media,126.5,Error de Aplicación,1,Medio,Nivel 3,2025-04-18
+INC-FDA9AD5B,Alta,192.02,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-14
+INC-5CB069F5,Media,1380.38,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-11
+INC-8FBF1D86,Media,750.55,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-17
+INC-B1776990,Alta,224.73,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-11
+INC-20F26B83,Media,691.63,Error de Aplicación,1,Medio,Nivel 3,2025-10-04
+INC-5ACFBB90,Baja,997.31,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-02
+INC-227CE0D7,Alta,195.92,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-30
+INC-CF1F3210,Alta,196.42,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-14
+INC-D64C864B,Media,132.25,Falla de Hardware,1,Medio,Nivel 3,2025-04-28
+INC-7A94A5BF,Baja,3343.78,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-20
+INC-715A1062,Alta,217.43,Error de Aplicación,1,Alto,Nivel 3,2025-08-11
+INC-AAAE0CAF,Media,1194.61,Petición de Servicio,1,Medio,Nivel 3,2025-07-20
+INC-345549C3,Baja,3691.46,Falla de Hardware,1,Bajo,Nivel 3,2025-08-19
+INC-9A5D02C5,Alta,125.4,Falla de Hardware,1,Alto,Nivel 3,2025-05-27
+INC-7E147860,Baja,2880.88,Error de Aplicación,1,Bajo,Nivel 3,2025-08-17
+INC-0AF71B9F,Media,711.75,Error de Aplicación,1,Medio,Nivel 3,2025-04-23
+INC-6160267D,Media,1274.62,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-24
+INC-F6CB7DB7,Media,357.72,Falla de Hardware,1,Medio,Nivel 3,2025-06-24
+INC-D4A21571,Media,995.38,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-06
+INC-EC737F43,Alta,303.49,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-16
+INC-FDD1FB69,Baja,1360.27,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-06-28
+INC-3B32C362,Media,248.51,Falla de Hardware,1,Medio,Nivel 3,2025-04-22
+INC-B79AEE8C,Alta,323.24,Petición de Servicio,1,Alto,Nivel 3,2025-07-14
+INC-213050B9,Alta,362.37,Falla de Hardware,1,Alto,Nivel 3,2025-09-10
+INC-06DE19E5,Media,495.57,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-21
+INC-0EED5D40,Media,949.87,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-26
+INC-56B8278F,Alta,207.81,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-07
+INC-4297F72D,Media,1044.23,Petición de Servicio,1,Medio,Nivel 3,2025-05-23
+INC-301D58C8,Alta,119.65,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-02
+INC-285C61D8,Media,1288.5,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-02
+INC-C481989E,Alta,159.33,Error de Aplicación,1,Alto,Nivel 3,2025-05-18
+INC-56D076CC,Media,567.54,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-02
+INC-F59BC76D,Media,140.17,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-04
+INC-D1399F91,Baja,588.35,Petición de Servicio,1,Bajo,Nivel 3,2025-10-04
+INC-984280D9,Alta,262.14,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-14
+INC-931A2389,Media,429.28,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-27
+INC-59529A59,Alta,405.97,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-17
+INC-D8076EF2,Baja,181.71,Error de Aplicación,1,Bajo,Nivel 3,2025-04-26
+INC-CCCACFFA,Baja,1712.2,Petición de Servicio,1,Bajo,Nivel 3,2025-09-22
+INC-6D611FA9,Media,525.54,Error de Aplicación,1,Medio,Nivel 3,2025-07-22
+INC-303EC0BF,Media,86.67,Petición de Servicio,1,Medio,Nivel 3,2025-09-20
+INC-D642D352,Baja,642.35,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-21
+INC-E5D20FF1,Media,630.83,Petición de Servicio,1,Medio,Nivel 3,2025-07-02
+INC-EE7E7523,Media,740.15,Falla de Hardware,1,Medio,Nivel 3,2025-04-17
+INC-AEA392D4,Alta,211.93,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-25
+INC-2588DEAB,Alta,268.92,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-22
+INC-874203BE,Baja,2619.55,Falla de Hardware,1,Bajo,Nivel 3,2025-09-26
+INC-7E641B96,Baja,161.68,Error de Aplicación,1,Bajo,Nivel 3,2025-05-01
+INC-4F054A2E,Media,700.45,Falla de Hardware,1,Medio,Nivel 3,2025-07-18
+INC-E312991F,Media,1389.63,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-16
+INC-20A5242F,Media,776.26,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-28
+INC-4600C5AE,Baja,2965.68,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-07
+INC-51CF286A,Baja,1429.83,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-30
+INC-49D13D70,Baja,3370.76,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-04
+INC-87CC3323,Baja,3366.27,Falla de Hardware,1,Bajo,Nivel 3,2025-06-15
+INC-0AD8DEA5,Media,779.39,Falla de Hardware,1,Medio,Nivel 3,2025-05-26
+INC-7A092E77,Alta,469.21,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-09-20
+INC-23F481D9,Alta,86.5,Falla de Hardware,1,Alto,Nivel 3,2025-06-29
+INC-378E113C,Baja,191.18,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-15
+INC-B7E603EF,Media,1122.82,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-09-10
+INC-B4B247B3,Alta,393.22,Falla de Hardware,1,Alto,Nivel 3,2025-04-19
+INC-DB7E5633,Alta,84.09,Error de Aplicación,1,Alto,Nivel 3,2025-05-22
+INC-926C7BF8,Media,426.5,Falla de Hardware,1,Medio,Nivel 3,2025-05-29
+INC-65172C64,Alta,37.9,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-06
+INC-088E1A86,Alta,161.99,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-02
+INC-0BE7E77B,Media,1126.94,Error de Aplicación,1,Medio,Nivel 3,2025-08-09
+INC-438AF979,Media,774.79,Petición de Servicio,1,Medio,Nivel 3,2025-08-03
+INC-B7A4C148,Media,540.37,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-15
+INC-DD754676,Alta,197.28,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-27
+INC-283C9B0D,Baja,125.69,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-09
+INC-0B8491A1,Alta,164.91,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-02
+INC-783F2698,Media,952.11,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-24
+INC-1F52BCD8,Baja,4211.62,Petición de Servicio,1,Bajo,Nivel 3,2025-04-21
+INC-594D4230,Media,1228.94,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-03
+INC-3EAA36E7,Baja,219.1,Petición de Servicio,1,Bajo,Nivel 3,2025-07-16
+INC-9147AB4C,Media,1300.01,Petición de Servicio,1,Medio,Nivel 3,2025-07-12
+INC-543BE914,Media,1140.81,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-30
+INC-A5619873,Alta,381.17,Falla de Hardware,1,Alto,Nivel 3,2025-07-29
+INC-4B11BB5E,Media,692.03,Falla de Hardware,1,Medio,Nivel 3,2025-07-08
+INC-8A86788F,Media,609.25,Petición de Servicio,1,Medio,Nivel 3,2025-10-08
+INC-B6AFDF26,Alta,166.31,Error de Aplicación,1,Alto,Nivel 3,2025-06-09
+INC-CD644C21,Baja,395.92,Petición de Servicio,1,Bajo,Nivel 3,2025-08-26
+INC-24058357,Media,374.96,Petición de Servicio,1,Medio,Nivel 3,2025-07-20
+INC-D85E8F4E,Baja,1155.74,Petición de Servicio,1,Bajo,Nivel 3,2025-04-25
+INC-FFC3DD8F,Media,728.03,Falla de Hardware,1,Medio,Nivel 3,2025-06-08
+INC-0DECE841,Baja,3259.27,Falla de Hardware,1,Bajo,Nivel 3,2025-07-02
+INC-30A0E1E2,Media,713.86,Falla de Hardware,1,Medio,Nivel 3,2025-06-15
+INC-4F38BF4A,Media,139.83,Petición de Servicio,1,Medio,Nivel 3,2025-06-01
+INC-6FC0F81B,Media,1381.75,Error de Aplicación,1,Medio,Nivel 3,2025-06-09
+INC-3DB9D5F1,Alta,454.23,Falla de Hardware,1,Alto,Nivel 3,2025-06-29
+INC-E5AE3E24,Baja,3417.8,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-06
+INC-D3C7CED6,Media,1428.03,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-20
+INC-15C43509,Alta,275.02,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-28
+INC-83E48D43,Media,1388.62,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-09
+INC-C037E3E1,Alta,64.02,Petición de Servicio,1,Alto,Nivel 3,2025-05-13
+INC-970ABDCA,Baja,1655.86,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-06-25
+INC-E2E39F12,Baja,1066.6,Petición de Servicio,1,Bajo,Nivel 3,2025-08-03
+INC-20E4E79E,Baja,942.5,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-02
+INC-6E401E03,Media,254.31,Error de Aplicación,1,Medio,Nivel 3,2025-10-12
+INC-DECAAB0A,Alta,310.09,Petición de Servicio,1,Alto,Nivel 3,2025-06-05
+INC-906F5A58,Baja,3401.55,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-18
+INC-BF7C6A20,Media,858.05,Falla de Hardware,1,Medio,Nivel 3,2025-05-05
+INC-9CB6714E,Baja,737.24,Petición de Servicio,1,Bajo,Nivel 3,2025-04-17
+INC-C07F7927,Baja,3526.72,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-26
+INC-1A09E348,Baja,2791.01,Falla de Hardware,1,Bajo,Nivel 3,2025-09-23
+INC-31825BCA,Media,595.67,Falla de Hardware,1,Medio,Nivel 3,2025-05-08
+INC-A6D3CF9B,Media,990.3,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-08-06
+INC-BF4A9E8A,Baja,1211.6,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-26
+INC-907732B1,Media,536.37,Falla de Hardware,1,Medio,Nivel 3,2025-05-24
+INC-EFB577D9,Alta,442.87,Falla de Hardware,1,Alto,Nivel 3,2025-06-03
+INC-4F48F9B4,Media,460.9,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-30
+INC-AC13FD97,Baja,2093.95,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-12
+INC-0BA23A56,Media,1288.39,Petición de Servicio,1,Medio,Nivel 3,2025-08-01
+INC-A78D3C42,Media,1036.66,Petición de Servicio,1,Medio,Nivel 3,2025-04-24
+INC-1A7C4632,Alta,57.99,Petición de Servicio,1,Alto,Nivel 3,2025-07-11
+INC-B3591E30,Media,263.28,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-23
+INC-7670798B,Baja,152.93,Petición de Servicio,1,Bajo,Nivel 3,2025-06-30
+INC-693650B7,Alta,313.91,Falla de Hardware,1,Alto,Nivel 3,2025-08-31
+INC-640793D0,Media,677.79,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-15
+INC-C489858C,Baja,683.95,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-08-24
+INC-4B6C1202,Baja,4143.32,Falla de Hardware,1,Bajo,Nivel 3,2025-07-05
+INC-ACB1B8ED,Media,790.93,Petición de Servicio,1,Medio,Nivel 3,2025-07-20
+INC-DEF8A990,Baja,1135.95,Error de Aplicación,1,Bajo,Nivel 3,2025-06-25
+INC-E281386B,Media,750.83,Petición de Servicio,1,Medio,Nivel 3,2025-07-15
+INC-30D6F2E3,Media,997.88,Error de Aplicación,1,Medio,Nivel 3,2025-06-14
+INC-9EE91609,Baja,440.2,Petición de Servicio,1,Bajo,Nivel 3,2025-09-10
+INC-85B6A947,Baja,1273.76,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-14
+INC-8FFC33A7,Baja,3509.26,Petición de Servicio,1,Bajo,Nivel 3,2025-06-27
+INC-C5283615,Baja,2050.59,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-30
+INC-BEAF28BD,Media,814.28,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-10
+INC-B5D7C07D,Media,657.29,Error de Aplicación,1,Medio,Nivel 3,2025-08-06
+INC-AC5F4133,Baja,304.38,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-30
+INC-C953D2CB,Media,288.73,Falla de Hardware,1,Medio,Nivel 3,2025-06-11
+INC-9748628E,Baja,1991.27,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-14
+INC-1CBA8EEC,Baja,998.58,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-12
+INC-F2CC8355,Baja,329.91,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-05-18
+INC-97653780,Media,1224.24,Error de Aplicación,1,Medio,Nivel 3,2025-10-11
+INC-3B1A8236,Media,1414.05,Falla de Hardware,1,Medio,Nivel 3,2025-10-02
+INC-B74E0BEF,Alta,386.91,Falla de Hardware,1,Alto,Nivel 3,2025-05-11
+INC-0091FE86,Media,1238.22,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-10
+INC-3A11CEA8,Alta,138.89,Petición de Servicio,1,Alto,Nivel 3,2025-06-21
+INC-62385796,Media,1385.67,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-05-28
+INC-06C72703,Media,331.76,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-27
+INC-387AB023,Media,1372.97,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-01
+INC-211E2E47,Media,1432.85,Falla de Hardware,1,Medio,Nivel 3,2025-08-31
+INC-E668AF90,Alta,350.28,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-27
+INC-E64A6A03,Alta,471.51,Falla de Hardware,1,Alto,Nivel 3,2025-05-24
+INC-5B643F6E,Baja,2512.07,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-24
+INC-66817214,Media,418.17,Falla de Hardware,1,Medio,Nivel 3,2025-10-03
+INC-BCAE612E,Alta,226.65,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-16
+INC-1197A6DF,Media,879.11,Falla de Hardware,1,Medio,Nivel 3,2025-10-07
+INC-14541CDC,Baja,426.94,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-14
+INC-BD758DCE,Alta,310.05,Petición de Servicio,1,Alto,Nivel 3,2025-05-04
+INC-E49ACBD2,Media,1414.03,Falla de Hardware,1,Medio,Nivel 3,2025-06-25
+INC-FD974DC1,Alta,115.55,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-07
+INC-BC2B3756,Alta,386.67,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-10
+INC-A9068724,Media,1312.9,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-05
+INC-18AED09E,Media,1362.31,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-01
+INC-23900C7B,Media,1384.99,Falla de Hardware,1,Medio,Nivel 3,2025-10-09
+INC-BA70BE78,Baja,2310.13,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-29
+INC-3A28FFBF,Baja,4224.69,Falla de Hardware,1,Bajo,Nivel 3,2025-08-13
+INC-55693BFE,Media,1105.09,Petición de Servicio,1,Medio,Nivel 3,2025-05-29
+INC-E021F02D,Media,283.11,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-12
+INC-1333E419,Baja,2122.98,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-03
+INC-C28DEC93,Media,1051.3,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-11
+INC-061C169D,Media,401.33,Error de Aplicación,1,Medio,Nivel 3,2025-05-18
+INC-68E3264D,Alta,318.28,Error de Aplicación,1,Alto,Nivel 3,2025-09-13
+INC-DD989F15,Alta,329.97,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-10
+INC-463B040F,Baja,803.34,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-04-29
+INC-1373013F,Baja,2493.36,Error de Aplicación,1,Bajo,Nivel 3,2025-06-02
+INC-0FABEEC4,Media,1124.85,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-12
+INC-9B11F350,Media,748.48,Error de Aplicación,1,Medio,Nivel 3,2025-06-17
+INC-1806E42A,Alta,35.45,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-05-15
+INC-2B7B50AE,Alta,34.07,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-08
+INC-2E5C2A72,Media,552.7,Error de Aplicación,1,Medio,Nivel 3,2025-06-20
+INC-3748517B,Media,1338.15,Petición de Servicio,1,Medio,Nivel 3,2025-05-15
+INC-F6981207,Baja,1080.44,Error de Aplicación,1,Bajo,Nivel 3,2025-06-03
+INC-8B610358,Media,935.42,Falla de Hardware,1,Medio,Nivel 3,2025-04-21
+INC-BA2AF66C,Media,366.46,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-09-26
+INC-C1232AD9,Baja,1471.01,Petición de Servicio,1,Bajo,Nivel 3,2025-07-26
+INC-9FE94914,Baja,3681.78,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-26
+INC-36432889,Media,1065.83,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-07
+INC-0B2045D1,Media,191.65,Falla de Hardware,1,Medio,Nivel 3,2025-09-26
+INC-DD202BF9,Media,651.61,Falla de Hardware,1,Medio,Nivel 3,2025-10-06
+INC-43A34405,Alta,43.13,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-04
+INC-B1E5A624,Media,723.63,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-01
+INC-96C2C6EF,Baja,2902.22,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-21
+INC-DA947746,Alta,83.33,Error de Aplicación,1,Alto,Nivel 3,2025-06-27
+INC-9C51FCCC,Alta,160.0,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-11
+INC-387236B6,Alta,209.03,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-10-05
+INC-21B046CF,Alta,443.79,Falla de Hardware,1,Alto,Nivel 3,2025-06-15
+INC-D20716F6,Baja,4291.67,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-08
+INC-1E087E34,Baja,308.63,Error de Aplicación,1,Bajo,Nivel 3,2025-05-26
+INC-541C5304,Media,1110.19,Error de Aplicación,1,Medio,Nivel 3,2025-04-23
+INC-E7530012,Alta,197.28,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-07
+INC-06C3B7E9,Media,601.59,Petición de Servicio,1,Medio,Nivel 3,2025-09-14
+INC-DF703F4A,Media,1100.89,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-01
+INC-DECA3228,Alta,443.29,Error de Aplicación,1,Alto,Nivel 3,2025-07-11
+INC-60BC1200,Media,1372.28,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-04
+INC-2A968AB3,Media,856.43,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-05-07
+INC-31BF5D7E,Media,552.83,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-17
+INC-64C212DF,Media,1146.82,Falla de Hardware,1,Medio,Nivel 3,2025-08-17
+INC-9C2BF75C,Alta,142.95,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-10
+INC-20B31EC7,Media,838.42,Error de Aplicación,1,Medio,Nivel 3,2025-08-19
+INC-8ABD56A1,Media,554.84,Falla de Hardware,1,Medio,Nivel 3,2025-05-19
+INC-FE9B9971,Media,966.15,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-20
+INC-9656202D,Baja,1129.68,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-04-19
+INC-D8EB0C4B,Media,324.4,Falla de Hardware,1,Medio,Nivel 3,2025-07-16
+INC-CF6788F7,Alta,443.21,Falla de Hardware,1,Alto,Nivel 3,2025-06-07
+INC-7809A36B,Alta,75.81,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-14
+INC-3281D6C2,Media,758.22,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-25
+INC-9963F76A,Alta,129.38,Error de Aplicación,1,Alto,Nivel 3,2025-06-12
+INC-9299A292,Media,113.72,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-08-02
+INC-7CA30362,Baja,271.28,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-07
+INC-83A8123C,Media,301.81,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-10
+INC-5FC6DA28,Media,1256.14,Error de Aplicación,1,Medio,Nivel 3,2025-10-02
+INC-46920C6F,Media,449.82,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-02
+INC-12012C73,Media,1371.63,Error de Aplicación,1,Medio,Nivel 3,2025-10-08
+INC-6C7C6DA2,Media,862.64,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-01
+INC-0BC69297,Baja,1953.78,Petición de Servicio,1,Bajo,Nivel 3,2025-06-24
+INC-AA6E0A7B,Media,860.52,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-07-26
+INC-4AB31978,Baja,2290.13,Falla de Hardware,1,Bajo,Nivel 3,2025-09-22
+INC-AB508E4E,Baja,3306.86,Falla de Hardware,1,Bajo,Nivel 3,2025-07-17
+INC-4B709068,Alta,157.12,Petición de Servicio,1,Alto,Nivel 3,2025-07-17
+INC-39479658,Alta,188.87,Error de Aplicación,1,Alto,Nivel 3,2025-05-16
+INC-6CF5D652,Alta,432.34,Falla de Hardware,1,Alto,Nivel 3,2025-05-04
+INC-6E96C70B,Alta,455.91,Falla de Hardware,1,Alto,Nivel 3,2025-05-30
+INC-17EB0801,Alta,431.65,Error de Aplicación,1,Alto,Nivel 3,2025-09-18
+INC-D4893F3E,Media,638.84,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-24
+INC-086D0383,Alta,381.16,Error de Aplicación,1,Alto,Nivel 3,2025-09-17
+INC-D0A68D10,Media,717.34,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-15
+INC-29D1FF7E,Baja,2209.67,Petición de Servicio,1,Bajo,Nivel 3,2025-08-09
+INC-EDB0FA15,Alta,122.11,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-15
+INC-184CD9AC,Baja,2602.75,Petición de Servicio,1,Bajo,Nivel 3,2025-09-09
+INC-99E75E8B,Media,316.87,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-11
+INC-31BB356C,Alta,179.2,Falla de Hardware,1,Alto,Nivel 3,2025-05-17
+INC-258A0081,Media,1239.94,Falla de Hardware,1,Medio,Nivel 3,2025-07-26
+INC-65712651,Media,345.76,Falla de Hardware,1,Medio,Nivel 3,2025-06-14
+INC-A82A1461,Baja,418.86,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-18
+INC-9374A5A9,Baja,409.83,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-24
+INC-34CAF313,Baja,4071.29,Falla de Hardware,1,Bajo,Nivel 3,2025-07-22
+INC-6149F988,Media,759.55,Error de Aplicación,1,Medio,Nivel 3,2025-09-30
+INC-A87AAAC7,Alta,214.24,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-08-01
+INC-EA6DB671,Baja,3525.69,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-04
+INC-941BE388,Baja,3630.47,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-08
+INC-C88B9B7A,Baja,1515.2,Petición de Servicio,1,Bajo,Nivel 3,2025-09-30
+INC-C66F6271,Media,1017.19,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-26
+INC-6CB0BE65,Media,1124.15,Falla de Hardware,1,Medio,Nivel 3,2025-07-31
+INC-7E2D067A,Baja,2869.53,Error de Aplicación,1,Bajo,Nivel 3,2025-06-09
+INC-5517C8CE,Media,269.2,Error de Aplicación,1,Medio,Nivel 3,2025-07-19
+INC-88AA5656,Baja,3798.71,Falla de Hardware,1,Bajo,Nivel 3,2025-07-01
+INC-935B8A5A,Baja,2384.2,Error de Aplicación,1,Bajo,Nivel 3,2025-05-21
+INC-24A617E2,Media,449.81,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-27
+INC-F6537061,Baja,1905.96,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-16
+INC-5B932258,Baja,277.8,Falla de Hardware,1,Bajo,Nivel 3,2025-05-30
+INC-A98EBC68,Alta,87.54,Error de Aplicación,1,Alto,Nivel 3,2025-08-15
+INC-03869CA3,Baja,3335.3,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-06-23
+INC-0D405D65,Media,60.02,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-05-11
+INC-FC779FC8,Baja,1869.58,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-09
+INC-D503DC8D,Media,781.06,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-23
+INC-877D9531,Baja,349.46,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-09
+INC-574E7C88,Media,1402.85,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-08-08
+INC-77F8BCDD,Alta,131.76,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-26
+INC-1F6E96DE,Baja,1397.63,Petición de Servicio,1,Bajo,Nivel 3,2025-09-29
+INC-20BD5BE5,Alta,166.77,Falla de Hardware,1,Alto,Nivel 3,2025-10-08
+INC-0386C9C4,Media,377.97,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-17
+INC-43B1C19E,Baja,126.19,Error de Aplicación,1,Bajo,Nivel 3,2025-08-25
+INC-76AC063F,Baja,3183.25,Petición de Servicio,1,Bajo,Nivel 3,2025-07-11
+INC-2456C829,Media,1394.25,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-17
+INC-64B4B602,Media,369.53,Error de Aplicación,1,Medio,Nivel 3,2025-06-19
+INC-79C42CB5,Media,975.01,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-08
+INC-6BF2A03E,Media,1083.82,Falla de Hardware,1,Medio,Nivel 3,2025-08-20
+INC-D5454AA4,Media,1230.83,Petición de Servicio,1,Medio,Nivel 3,2025-07-30
+INC-CE3F0F5F,Media,643.23,Falla de Hardware,1,Medio,Nivel 3,2025-06-17
+INC-EC4521C2,Baja,1392.31,Petición de Servicio,1,Bajo,Nivel 3,2025-05-21
+INC-3B5C58D4,Baja,1486.24,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-29
+INC-BB97E138,Baja,3113.01,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-26
+INC-A833700A,Alta,397.55,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-05-29
+INC-025878A5,Media,310.63,Error de Aplicación,1,Medio,Nivel 3,2025-08-24
+INC-5E23401A,Alta,196.92,Error de Aplicación,1,Alto,Nivel 3,2025-08-05
+INC-F0687BF9,Media,1304.68,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-22
+INC-F5EE3E23,Media,1173.24,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-06-06
+INC-A78D1EC7,Baja,4256.41,Falla de Hardware,1,Bajo,Nivel 3,2025-09-07
+INC-F4CD53B9,Media,1100.86,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-09
+INC-1C1A4397,Alta,206.94,Petición de Servicio,1,Alto,Nivel 3,2025-08-29
+INC-E568490D,Alta,295.79,Error de Aplicación,1,Alto,Nivel 3,2025-05-31
+INC-4409A199,Baja,2896.26,Error de Aplicación,1,Bajo,Nivel 3,2025-09-27
+INC-B97E1343,Media,168.27,Falla de Hardware,1,Medio,Nivel 3,2025-10-02
+INC-36046FAB,Alta,275.02,Error de Aplicación,1,Alto,Nivel 3,2025-05-28
+INC-4A3D2DE9,Alta,349.19,Error de Aplicación,1,Alto,Nivel 3,2025-08-29
+INC-BEE79EC1,Baja,822.75,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-01
+INC-8A78E25F,Alta,381.28,Petición de Servicio,1,Alto,Nivel 3,2025-06-15
+INC-4891FBE9,Baja,2571.85,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-26
+INC-E6987BAC,Baja,4119.33,Error de Aplicación,1,Bajo,Nivel 3,2025-09-28
+INC-4EA30AA4,Alta,49.09,Falla de Hardware,1,Alto,Nivel 3,2025-08-06
+INC-B2891DEF,Alta,149.4,Falla de Hardware,1,Alto,Nivel 3,2025-07-02
+INC-1417325B,Baja,2646.53,Error de Aplicación,1,Bajo,Nivel 3,2025-07-30
+INC-2DF325CA,Media,469.25,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-01
+INC-579BB181,Media,1045.91,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-08-16
+INC-09B9A371,Baja,3307.82,Error de Aplicación,1,Bajo,Nivel 3,2025-07-05
+INC-9B46AEFE,Baja,550.57,Falla de Hardware,1,Bajo,Nivel 3,2025-08-19
+INC-B80A0908,Baja,2278.19,Falla de Hardware,1,Bajo,Nivel 3,2025-10-05
+INC-422B8785,Baja,2257.34,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-28
+INC-DB08881F,Media,569.61,Petición de Servicio,1,Medio,Nivel 3,2025-05-18
+INC-41D60D8C,Alta,449.82,Error de Aplicación,1,Alto,Nivel 3,2025-08-02
+INC-2FF6A9F3,Baja,3595.53,Error de Aplicación,1,Bajo,Nivel 3,2025-08-08
+INC-7808023B,Media,1022.15,Petición de Servicio,1,Medio,Nivel 3,2025-09-09
+INC-70B68E32,Media,1045.77,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-23
+INC-263BAD99,Baja,2059.21,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-21
+INC-205ECBC7,Alta,444.45,Falla de Hardware,1,Alto,Nivel 3,2025-08-29
+INC-8491D24E,Media,1018.54,Petición de Servicio,1,Medio,Nivel 3,2025-08-08
+INC-2E021FAF,Alta,358.04,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-24
+INC-75088038,Media,1249.13,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-19
+INC-30B93CF0,Alta,153.33,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-08-29
+INC-83262D30,Alta,393.18,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-05-27
+INC-4C5BF5F2,Alta,117.86,Petición de Servicio,1,Alto,Nivel 3,2025-05-26
+INC-0D4C2E3D,Media,536.57,Falla de Hardware,1,Medio,Nivel 3,2025-04-19
+INC-D20B3E94,Baja,1529.56,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-08
+INC-267F6682,Media,1410.37,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-04
+INC-3B53B6FF,Baja,3717.46,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-08
+INC-5102EA0D,Media,1027.61,Error de Aplicación,1,Medio,Nivel 3,2025-08-06
+INC-33D8E6FA,Media,1063.34,Petición de Servicio,1,Medio,Nivel 3,2025-10-13
+INC-BA5B7CBC,Baja,2480.71,Falla de Hardware,1,Bajo,Nivel 3,2025-09-13
+INC-0A764EE4,Alta,456.19,Error de Aplicación,1,Alto,Nivel 3,2025-04-20
+INC-B600FB99,Baja,2204.29,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-28
+INC-22F24AAE,Alta,201.23,Error de Aplicación,1,Alto,Nivel 3,2025-09-29
+INC-AE59F0BF,Baja,804.75,Falla de Hardware,1,Bajo,Nivel 3,2025-05-12
+INC-779F12B6,Alta,383.79,Error de Aplicación,1,Alto,Nivel 3,2025-09-02
+INC-365D2D35,Baja,3204.66,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-03
+INC-B8A2BCAE,Media,590.41,Error de Aplicación,1,Medio,Nivel 3,2025-07-17
+INC-3946D316,Baja,225.81,Petición de Servicio,1,Bajo,Nivel 3,2025-05-17
+INC-CDA58790,Alta,407.55,Error de Aplicación,1,Alto,Nivel 3,2025-09-26
+INC-B267E6FF,Media,75.76,Petición de Servicio,1,Medio,Nivel 3,2025-09-07
+INC-EAA6ABC1,Baja,3075.54,Error de Aplicación,1,Bajo,Nivel 3,2025-08-01
+INC-2C65D47F,Media,1398.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-09
+INC-B1F11F6D,Media,663.97,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-05
+INC-B6E46DB6,Media,384.26,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-26
+INC-C4E8DD6C,Media,1032.72,Petición de Servicio,1,Medio,Nivel 3,2025-08-06
+INC-7DDA6FBF,Media,1187.64,Petición de Servicio,1,Medio,Nivel 3,2025-06-17
+INC-2CC265A3,Media,814.07,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-06
+INC-AE7F53D6,Baja,4181.55,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-09-18
+INC-79F2A98B,Alta,53.25,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-26
+INC-CCEDD80F,Media,756.62,Error de Aplicación,1,Medio,Nivel 3,2025-08-10
+INC-70EAA274,Baja,3137.51,Petición de Servicio,1,Bajo,Nivel 3,2025-10-06
+INC-75B0A73A,Baja,3743.09,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-21
+INC-950D3738,Media,307.37,Falla de Hardware,1,Medio,Nivel 3,2025-05-14
+INC-3D713CAE,Media,1164.0,Error de Aplicación,1,Medio,Nivel 3,2025-07-28
+INC-318BA312,Media,822.74,Error de Aplicación,1,Medio,Nivel 3,2025-08-19
+INC-767D80AB,Alta,208.45,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-27
+INC-CBB1018D,Media,241.77,Petición de Servicio,1,Medio,Nivel 3,2025-08-31
+INC-6D189CA6,Media,1254.11,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-06
+INC-5B835DA5,Media,277.04,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-07
+INC-99D8F472,Alta,169.4,Error de Aplicación,1,Alto,Nivel 3,2025-06-07
+INC-085DCF77,Baja,1338.19,Petición de Servicio,1,Bajo,Nivel 3,2025-09-26
+INC-132B8814,Baja,3779.94,Petición de Servicio,1,Bajo,Nivel 3,2025-07-22
+INC-F9AD2A72,Media,988.33,Petición de Servicio,1,Medio,Nivel 3,2025-06-06
+INC-70B24B33,Media,1159.42,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-08
+INC-2D24011C,Media,405.65,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-10
+INC-548E1042,Baja,2744.47,Petición de Servicio,1,Bajo,Nivel 3,2025-07-02
+INC-8BA54ABC,Media,849.01,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-21
+INC-29E542DE,Alta,404.77,Falla de Hardware,1,Alto,Nivel 3,2025-10-05
+INC-0141AA10,Baja,3925.57,Error de Aplicación,1,Bajo,Nivel 3,2025-07-18
+INC-6E8F65AA,Baja,171.06,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-13
+INC-A47A736C,Baja,2950.88,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-05
+INC-E2FD44DA,Baja,337.71,Error de Aplicación,1,Bajo,Nivel 3,2025-09-16
+INC-3CB7B13C,Media,817.42,Falla de Hardware,1,Medio,Nivel 3,2025-07-17
+INC-303A5A12,Media,456.93,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-02
+INC-72156D3D,Baja,1408.46,Error de Aplicación,1,Bajo,Nivel 3,2025-05-24
+INC-DA0FA22D,Baja,1602.43,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-02
+INC-6F5C7DBB,Alta,309.58,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-01
+INC-799D0126,Alta,180.32,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-17
+INC-7A01A054,Media,1071.12,Falla de Hardware,1,Medio,Nivel 3,2025-08-29
+INC-461AB7E6,Baja,1819.02,Falla de Hardware,1,Bajo,Nivel 3,2025-04-17
+INC-EBDEE728,Baja,407.08,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-04
+INC-B413C612,Alta,382.69,Petición de Servicio,1,Alto,Nivel 3,2025-07-21
+INC-343E952E,Media,454.35,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-20
+INC-35C110DA,Media,657.22,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-EB6DC1F8,Baja,2998.86,Petición de Servicio,1,Bajo,Nivel 3,2025-07-12
+INC-04E892E7,Baja,1516.32,Petición de Servicio,1,Bajo,Nivel 3,2025-10-06
+INC-71ECFCB9,Baja,357.66,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-18
+INC-DE271BE5,Media,576.01,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-27
+INC-F941FC8E,Media,1363.34,Petición de Servicio,1,Medio,Nivel 3,2025-06-26
+INC-2ABC1C94,Media,945.59,Petición de Servicio,1,Medio,Nivel 3,2025-09-03
+INC-CA5023F2,Alta,332.17,Petición de Servicio,1,Alto,Nivel 3,2025-07-20
+INC-D4A53DD2,Baja,2775.59,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-23
+INC-C4B6E307,Baja,955.77,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-12
+INC-4432831A,Baja,1877.0,Falla de Hardware,1,Bajo,Nivel 3,2025-09-11
+INC-AB393FC1,Baja,3273.95,Falla de Hardware,1,Bajo,Nivel 3,2025-08-13
+INC-097F3EC2,Media,199.89,Petición de Servicio,1,Medio,Nivel 3,2025-06-06
+INC-B146495C,Baja,1286.98,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-06
+INC-83CCCC77,Baja,1280.54,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-22
+INC-EC123EAF,Baja,1934.48,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-22
+INC-790CCEEA,Alta,471.17,Petición de Servicio,1,Alto,Nivel 3,2025-08-23
+INC-B858C6C9,Media,153.15,Falla de Hardware,1,Medio,Nivel 3,2025-08-08
+INC-DA244D61,Alta,263.42,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-18
+INC-84224515,Baja,873.33,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-05
+INC-4A4DEAF9,Media,1399.53,Falla de Hardware,1,Medio,Nivel 3,2025-10-01
+INC-94B7F6BF,Alta,80.99,Petición de Servicio,1,Alto,Nivel 3,2025-09-05
+INC-FFD858C3,Media,616.97,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-25
+INC-E4D7DB2A,Media,1078.28,Petición de Servicio,1,Medio,Nivel 3,2025-08-03
+INC-A8BD4344,Media,1032.29,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-14
+INC-DD787709,Alta,220.23,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-04
+INC-5BA4BE27,Media,538.2,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-28
+INC-ED073C73,Media,608.71,Error de Aplicación,1,Medio,Nivel 3,2025-09-24
+INC-6E4B13A6,Baja,1229.96,Petición de Servicio,1,Bajo,Nivel 3,2025-05-05
+INC-E9628FBB,Media,343.36,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-21
+INC-B51D31DF,Baja,2148.77,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-15
+INC-97263C3B,Media,430.58,Petición de Servicio,1,Medio,Nivel 3,2025-05-10
+INC-27736627,Media,456.7,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-14
+INC-33E34FE4,Baja,2878.38,Petición de Servicio,1,Bajo,Nivel 3,2025-04-26
+INC-3F275160,Media,1396.58,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-30
+INC-9BE53F76,Alta,301.64,Petición de Servicio,1,Alto,Nivel 3,2025-10-02
+INC-CBB77F05,Alta,64.64,Petición de Servicio,1,Alto,Nivel 3,2025-10-10
+INC-12A75F40,Baja,437.45,Error de Aplicación,1,Bajo,Nivel 3,2025-09-08
+INC-7E4D5789,Media,1372.96,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-06
+INC-0AD1BB97,Baja,1368.62,Error de Aplicación,1,Bajo,Nivel 3,2025-09-21
+INC-9BBA268C,Alta,71.43,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-10-05
+INC-4CAB50E5,Alta,299.57,Petición de Servicio,1,Alto,Nivel 3,2025-06-10
+INC-8E78FEB7,Alta,310.64,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-10
+INC-69D2B9CB,Media,954.94,Error de Aplicación,1,Medio,Nivel 3,2025-09-20
+INC-11313333,Media,429.01,Petición de Servicio,1,Medio,Nivel 3,2025-04-18
+INC-CCC98264,Media,80.85,Falla de Hardware,1,Medio,Nivel 3,2025-09-27
+INC-C6967A8B,Media,1391.72,Error de Aplicación,1,Medio,Nivel 3,2025-09-10
+INC-8C7C1C5E,Baja,1173.75,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-29
+INC-10966F63,Media,992.92,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-09-17
+INC-FFDB4D6D,Media,1035.15,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-08-05
+INC-2BFF42E8,Baja,2682.03,Error de Aplicación,1,Bajo,Nivel 3,2025-05-24
+INC-AB50870E,Media,491.81,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-25
+INC-F8B49F3D,Media,434.11,Falla de Hardware,1,Medio,Nivel 3,2025-07-27
+INC-9529EA8E,Baja,2630.21,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-20
+INC-39B76081,Baja,3757.6,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-17
+INC-61F13B7E,Alta,456.03,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-26
+INC-0DDFBBEF,Baja,564.8,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-10-04
+INC-A3F32514,Media,273.66,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-10
+INC-4E7A8AB4,Media,1363.74,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-30
+INC-F1013ED0,Media,1076.42,Falla de Hardware,1,Medio,Nivel 3,2025-06-23
+INC-537FA27D,Baja,3828.57,Petición de Servicio,1,Bajo,Nivel 3,2025-08-22
+INC-DA240A94,Media,339.63,Petición de Servicio,1,Medio,Nivel 3,2025-07-18
+INC-C248679C,Media,870.87,Error de Aplicación,1,Medio,Nivel 3,2025-05-30
+INC-7F46A10D,Media,1027.57,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-27
+INC-438EE497,Alta,336.05,Petición de Servicio,1,Alto,Nivel 3,2025-06-10
+INC-91B25511,Alta,213.67,Petición de Servicio,1,Alto,Nivel 3,2025-09-21
+INC-12EB8045,Alta,36.93,Falla de Hardware,1,Alto,Nivel 3,2025-05-15
+INC-44222555,Alta,292.32,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-17
+INC-0AAEDA30,Alta,143.9,Petición de Servicio,1,Alto,Nivel 3,2025-09-17
+INC-F71B2EB4,Alta,232.61,Petición de Servicio,1,Alto,Nivel 3,2025-05-23
+INC-C8BD78FF,Media,1381.46,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-09
+INC-6500B3B8,Alta,209.57,Falla de Hardware,1,Alto,Nivel 3,2025-09-21
+INC-B83301E7,Media,1218.93,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-04-19
+INC-F2E42B34,Baja,911.87,Petición de Servicio,1,Bajo,Nivel 3,2025-08-16
+INC-61743C51,Media,988.0,Petición de Servicio,1,Medio,Nivel 3,2025-05-29
+INC-19C9477A,Media,1408.27,Falla de Hardware,1,Medio,Nivel 3,2025-04-23
+INC-093EDF67,Alta,75.85,Error de Aplicación,1,Alto,Nivel 3,2025-08-19
+INC-BAFB4338,Alta,33.74,Error de Aplicación,1,Alto,Nivel 3,2025-06-04
+INC-DC146733,Alta,225.11,Petición de Servicio,1,Alto,Nivel 3,2025-08-15
+INC-E577C18C,Alta,71.68,Petición de Servicio,1,Alto,Nivel 3,2025-06-28
+INC-5DD7AFC1,Media,1092.77,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-27
+INC-55DC0872,Alta,441.55,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-31
+INC-7D5D1FC8,Alta,225.31,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-02
+INC-05202096,Alta,146.42,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-21
+INC-F94EE6A1,Media,659.48,Petición de Servicio,1,Medio,Nivel 3,2025-07-16
+INC-90AFA485,Alta,355.55,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-18
+INC-2FD305D8,Media,72.49,Error de Aplicación,1,Medio,Nivel 3,2025-04-24
+INC-035F6A07,Media,873.45,Petición de Servicio,1,Medio,Nivel 3,2025-05-18
+INC-23A7BE7D,Media,906.34,Petición de Servicio,1,Medio,Nivel 3,2025-06-19
+INC-E041C5A1,Alta,316.96,Falla de Hardware,1,Alto,Nivel 3,2025-09-01
+INC-561F2D0B,Baja,1136.49,Petición de Servicio,1,Bajo,Nivel 3,2025-04-29
+INC-D93EC699,Media,1045.39,Error de Aplicación,1,Medio,Nivel 3,2025-07-18
+INC-76C08A16,Alta,71.13,Petición de Servicio,1,Alto,Nivel 3,2025-09-26
+INC-23726720,Baja,956.94,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-16
+INC-14B43FC8,Baja,3805.37,Petición de Servicio,1,Bajo,Nivel 3,2025-04-24
+INC-0158B918,Alta,362.43,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-15
+INC-37385FB7,Media,78.97,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-20
+INC-2F359511,Baja,1163.18,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-27
+INC-08AFE55C,Baja,1020.51,Falla de Hardware,1,Bajo,Nivel 3,2025-09-21
+INC-0AA8D202,Alta,151.86,Petición de Servicio,1,Alto,Nivel 3,2025-09-12
+INC-37CE765D,Alta,141.4,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-27
+INC-407D5359,Media,146.29,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-18
+INC-1A66F165,Media,693.34,Falla de Hardware,1,Medio,Nivel 3,2025-10-11
+INC-18879E30,Media,1071.17,Falla de Hardware,1,Medio,Nivel 3,2025-10-02
+INC-B9855958,Media,897.29,Petición de Servicio,1,Medio,Nivel 3,2025-08-25
+INC-21883984,Media,988.56,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-05
+INC-0C7F34EA,Baja,460.83,Petición de Servicio,1,Bajo,Nivel 3,2025-10-12
+INC-A87FF2FC,Alta,458.17,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-12
+INC-B5AC141D,Media,1217.12,Falla de Hardware,1,Medio,Nivel 3,2025-09-16
+INC-922758A3,Baja,3501.38,Error de Aplicación,1,Bajo,Nivel 3,2025-09-21
+INC-50A8D103,Baja,3576.53,Petición de Servicio,1,Bajo,Nivel 3,2025-07-31
+INC-36443C03,Media,1347.14,Error de Aplicación,1,Medio,Nivel 3,2025-09-02
+INC-829BB554,Media,811.07,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-03
+INC-6B50F7E4,Alta,120.13,Petición de Servicio,1,Alto,Nivel 3,2025-09-17
+INC-7C3650D3,Media,911.16,Error de Aplicación,1,Medio,Nivel 3,2025-05-09
+INC-87F9E06F,Media,1085.18,Error de Aplicación,1,Medio,Nivel 3,2025-10-13
+INC-4063059F,Alta,362.06,Petición de Servicio,1,Alto,Nivel 3,2025-06-03
+INC-62119F29,Media,779.6,Error de Aplicación,1,Medio,Nivel 3,2025-05-06
+INC-076625ED,Media,154.47,Petición de Servicio,1,Medio,Nivel 3,2025-04-18
+INC-F908139C,Alta,197.0,Error de Aplicación,1,Alto,Nivel 3,2025-07-13
+INC-092BA847,Media,1330.66,Falla de Hardware,1,Medio,Nivel 3,2025-05-17
+INC-7F97DDF7,Alta,293.0,Petición de Servicio,1,Alto,Nivel 3,2025-09-18
+INC-52044A1B,Media,802.9,Falla de Hardware,1,Medio,Nivel 3,2025-08-24
+INC-E3F35DF4,Alta,150.98,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-03
+INC-D32EABEC,Baja,1667.49,Falla de Hardware,1,Bajo,Nivel 3,2025-04-20
+INC-91011DC3,Media,1295.58,Error de Aplicación,1,Medio,Nivel 3,2025-09-04
+INC-0F1F92E6,Media,979.72,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-26
+INC-17643A5A,Baja,3427.03,Falla de Hardware,1,Bajo,Nivel 3,2025-08-22
+INC-1F2A9FA0,Media,687.0,Falla de Hardware,1,Medio,Nivel 3,2025-08-28
+INC-09767A15,Alta,313.61,Falla de Hardware,1,Alto,Nivel 3,2025-05-17
+INC-0EC216B2,Media,402.77,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-01
+INC-0D6E2F3E,Media,1033.54,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-07
+INC-29A8DA7F,Baja,1915.93,Falla de Hardware,1,Bajo,Nivel 3,2025-05-09
+INC-B3BB6711,Media,670.71,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-25
+INC-3531FCEE,Alta,322.2,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-23
+INC-1D9CA0E3,Media,1352.07,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-11
+INC-5361EA1D,Media,148.33,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-15
+INC-606FD49F,Media,1198.15,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-07-30
+INC-781AF113,Media,463.49,Falla de Hardware,1,Medio,Nivel 3,2025-06-07
+INC-D97BCFFA,Media,672.61,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-09
+INC-4323ED4C,Baja,212.04,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-07
+INC-4057CCE8,Media,475.44,Petición de Servicio,1,Medio,Nivel 3,2025-09-25
+INC-4A748488,Alta,256.18,Error de Aplicación,1,Alto,Nivel 3,2025-07-26
+INC-B31333C0,Alta,55.28,Error de Aplicación,1,Alto,Nivel 3,2025-07-09
+INC-0F5DAC10,Alta,250.99,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-16
+INC-8D8ED339,Alta,447.2,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-19
+INC-26E2309E,Alta,77.43,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-26
+INC-83239109,Alta,374.0,Falla de Hardware,1,Alto,Nivel 3,2025-06-25
+INC-870241A4,Media,625.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-02
+INC-BFA629E3,Alta,324.83,Error de Aplicación,1,Alto,Nivel 3,2025-08-02
+INC-454ABB85,Baja,1212.99,Falla de Hardware,1,Bajo,Nivel 3,2025-05-07
+INC-E7414D90,Alta,101.77,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-25
+INC-97D0E253,Media,281.44,Falla de Hardware,1,Medio,Nivel 3,2025-07-07
+INC-2A151CE9,Media,157.28,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-07-13
+INC-E279571A,Baja,899.72,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-05
+INC-1CFA3204,Alta,328.9,Petición de Servicio,1,Alto,Nivel 3,2025-04-26
+INC-14C5CC82,Media,1276.73,Petición de Servicio,1,Medio,Nivel 3,2025-09-18
+INC-199768DA,Baja,3539.33,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-28
+INC-C2D533AA,Baja,2997.56,Falla de Hardware,1,Bajo,Nivel 3,2025-04-23
+INC-4B2FEEAD,Baja,583.81,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-08
+INC-760D0DD1,Media,459.08,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-08
+INC-8C42301B,Alta,169.41,Falla de Hardware,1,Alto,Nivel 3,2025-05-12
+INC-1A0D37B9,Media,404.94,Error de Aplicación,1,Medio,Nivel 3,2025-05-01
+INC-6C496715,Baja,2283.02,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-19
+INC-F67621C3,Media,799.06,Falla de Hardware,1,Medio,Nivel 3,2025-06-17
+INC-FC6312D6,Media,552.5,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-02
+INC-208BF493,Media,548.23,Falla de Hardware,1,Medio,Nivel 3,2025-07-20
+INC-BE706A8F,Baja,3599.93,Error de Aplicación,1,Bajo,Nivel 3,2025-05-21
+INC-EBE6ADAE,Alta,385.18,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-01
+INC-FE7CA4FA,Media,484.76,Petición de Servicio,1,Medio,Nivel 3,2025-08-17
+INC-ED2747CA,Media,1321.03,Error de Aplicación,1,Medio,Nivel 3,2025-07-08
+INC-73B15C00,Media,1374.88,Falla de Hardware,1,Medio,Nivel 3,2025-05-11
+INC-979EAB54,Alta,177.03,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-12
+INC-D43B4AE7,Alta,189.49,Error de Aplicación,1,Alto,Nivel 3,2025-05-18
+INC-BD923074,Media,757.78,Falla de Hardware,1,Medio,Nivel 3,2025-06-18
+INC-FB913FFF,Media,1358.75,Petición de Servicio,1,Medio,Nivel 3,2025-04-28
+INC-D8F3B383,Media,1269.32,Petición de Servicio,1,Medio,Nivel 3,2025-06-18
+INC-1881611D,Alta,76.16,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-07-02
+INC-F13C346A,Media,601.97,Petición de Servicio,1,Medio,Nivel 3,2025-07-17
+INC-B3FFCBD8,Media,823.65,Error de Aplicación,1,Medio,Nivel 3,2025-04-17
+INC-A4A3E55C,Alta,256.41,Petición de Servicio,1,Alto,Nivel 3,2025-10-12
+INC-B822F080,Media,327.53,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-25
+INC-9838FF20,Alta,416.47,Petición de Servicio,1,Alto,Nivel 3,2025-08-30
+INC-614F6AFB,Alta,334.62,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-27
+INC-BB0F5DD8,Baja,3639.22,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-11
+INC-01C8EE53,Media,1245.09,Error de Aplicación,1,Medio,Nivel 3,2025-05-25
+INC-BFF83EDE,Baja,3263.09,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-09
+INC-2580B5D6,Media,666.11,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-23
+INC-C4546494,Media,902.55,Petición de Servicio,1,Medio,Nivel 3,2025-10-13
+INC-9A3EE82A,Baja,793.53,Petición de Servicio,1,Bajo,Nivel 3,2025-04-20
+INC-9383BAB3,Media,989.63,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-08-20
+INC-714AFFA5,Media,307.37,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-08
+INC-A0E096C5,Media,1017.65,Error de Aplicación,1,Medio,Nivel 3,2025-05-07
+INC-5CD71628,Media,376.85,Error de Aplicación,1,Medio,Nivel 3,2025-07-30
+INC-1D51D86B,Baja,613.72,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-21
+INC-C638FDB7,Baja,814.19,Falla de Hardware,1,Bajo,Nivel 3,2025-04-23
+INC-F36E2F45,Baja,128.37,Error de Aplicación,1,Bajo,Nivel 3,2025-06-04
+INC-DA699C10,Alta,353.43,Petición de Servicio,1,Alto,Nivel 3,2025-05-02
+INC-26A90FC9,Baja,3196.08,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-08
+INC-81979A65,Baja,2282.72,Petición de Servicio,1,Bajo,Nivel 3,2025-07-09
+INC-B08D19B6,Alta,102.61,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-12
+INC-0BD32ADE,Alta,67.6,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-23
+INC-14B0EB9E,Baja,200.34,Petición de Servicio,1,Bajo,Nivel 3,2025-06-30
+INC-056FD288,Media,288.73,Error de Aplicación,1,Medio,Nivel 3,2025-05-20
+INC-66ED0337,Baja,3861.59,Falla de Hardware,1,Bajo,Nivel 3,2025-09-24
+INC-4CD81745,Alta,138.69,Petición de Servicio,1,Alto,Nivel 3,2025-05-12
+INC-0A5D0716,Baja,1607.94,Error de Aplicación,1,Bajo,Nivel 3,2025-06-21
+INC-D603F809,Alta,77.41,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-19
+INC-D5A91B3D,Alta,130.06,Petición de Servicio,1,Alto,Nivel 3,2025-06-18
+INC-B07D1026,Alta,263.65,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-12
+INC-2F98518C,Baja,2672.56,Error de Aplicación,1,Bajo,Nivel 3,2025-05-27
+INC-D76F0D34,Media,398.59,Error de Aplicación,1,Medio,Nivel 3,2025-07-23
+INC-DA90EB99,Media,139.67,Error de Aplicación,1,Medio,Nivel 3,2025-08-18
+INC-0D2A3ED5,Media,599.63,Error de Aplicación,1,Medio,Nivel 3,2025-07-04
+INC-E2B4B965,Baja,1103.65,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-26
+INC-B934E153,Media,362.98,Error de Aplicación,1,Medio,Nivel 3,2025-05-01
+INC-B9E756E3,Baja,4151.42,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-28
+INC-C4406146,Media,910.49,Falla de Hardware,1,Medio,Nivel 3,2025-07-18
+INC-39EED0CD,Media,828.49,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-03
+INC-36A27ED6,Media,633.77,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-25
+INC-EA89FAB5,Media,651.94,Falla de Hardware,1,Medio,Nivel 3,2025-08-08
+INC-F10ABCC4,Baja,2391.8,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-22
+INC-B04EA55E,Media,1021.07,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-05-22
+INC-C06617C3,Alta,345.97,Petición de Servicio,1,Alto,Nivel 3,2025-06-03
+INC-83FF81D3,Baja,841.11,Petición de Servicio,1,Bajo,Nivel 3,2025-06-06
+INC-6F3C775D,Media,750.16,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-22
+INC-09EFC17A,Media,628.5,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-08-13
+INC-714C75B2,Baja,3776.21,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-07-20
+INC-1A706BB3,Media,931.36,Petición de Servicio,1,Medio,Nivel 3,2025-06-25
+INC-30C8AE29,Alta,269.63,Petición de Servicio,1,Alto,Nivel 3,2025-06-29
+INC-8EC814FE,Baja,604.66,Petición de Servicio,1,Bajo,Nivel 3,2025-07-05
+INC-F02BF260,Media,895.78,Falla de Hardware,1,Medio,Nivel 3,2025-06-23
+INC-67492AA7,Media,221.74,Falla de Hardware,1,Medio,Nivel 3,2025-09-13
+INC-4AF10CCA,Alta,181.74,Error de Aplicación,1,Alto,Nivel 3,2025-07-02
+INC-D150E721,Baja,719.94,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-10
+INC-D4A37567,Media,1015.06,Petición de Servicio,1,Medio,Nivel 3,2025-04-22
+INC-3D906967,Media,344.63,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-17
+INC-E2839F6F,Baja,1765.81,Error de Aplicación,1,Bajo,Nivel 3,2025-06-30
+INC-8E798FE6,Baja,3881.83,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-13
+INC-95F51051,Alta,121.94,Error de Aplicación,1,Alto,Nivel 3,2025-04-19
+INC-B018C627,Media,760.77,Petición de Servicio,1,Medio,Nivel 3,2025-06-07
+INC-49E3BAA0,Alta,218.67,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-29
+INC-A6DB56BC,Baja,196.12,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-19
+INC-3726AC6B,Alta,386.74,Error de Aplicación,1,Alto,Nivel 3,2025-06-20
+INC-266FA83E,Media,155.28,Petición de Servicio,1,Medio,Nivel 3,2025-06-07
+INC-E51ECF42,Baja,2111.87,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-01
+INC-2328428E,Baja,2474.85,Error de Aplicación,1,Bajo,Nivel 3,2025-09-05
+INC-DB7EA2E6,Media,927.23,Error de Aplicación,1,Medio,Nivel 3,2025-07-14
+INC-D0CBEDC4,Baja,3012.25,Petición de Servicio,1,Bajo,Nivel 3,2025-06-27
+INC-E34453EB,Alta,143.97,Error de Aplicación,1,Alto,Nivel 3,2025-06-23
+INC-CF6753CC,Baja,161.91,Error de Aplicación,1,Bajo,Nivel 3,2025-09-19
+INC-885B5D8F,Alta,355.55,Error de Aplicación,1,Alto,Nivel 3,2025-09-01
+INC-178ACC18,Media,799.21,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-09
+INC-FFED69DC,Baja,3631.69,Falla de Hardware,1,Bajo,Nivel 3,2025-06-12
+INC-CE2FA577,Alta,399.62,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-21
+INC-9908048B,Alta,409.5,Error de Aplicación,1,Alto,Nivel 3,2025-07-15
+INC-4D859776,Baja,2157.4,Falla de Hardware,1,Bajo,Nivel 3,2025-06-05
+INC-EDD5FF38,Baja,1521.24,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-30
+INC-6387578F,Media,1152.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-02
+INC-41A6CAA5,Media,682.79,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-04
+INC-063A1AB4,Media,313.15,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-28
+INC-5A961A11,Media,1239.86,Petición de Servicio,1,Medio,Nivel 3,2025-08-04
+INC-D3674885,Media,1277.93,Error de Aplicación,1,Medio,Nivel 3,2025-05-08
+INC-3D909836,Alta,239.84,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-23
+INC-A41EE912,Baja,437.94,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-05
+INC-BC0F4BE0,Media,595.2,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-21
+INC-230A0725,Media,1168.88,Error de Aplicación,1,Medio,Nivel 3,2025-09-30
+INC-CEE29378,Media,1304.45,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-06-28
+INC-F7FFD3AC,Baja,974.59,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-10
+INC-D2B3232A,Alta,60.14,Error de Aplicación,1,Alto,Nivel 3,2025-09-07
+INC-7EE363EB,Media,1270.74,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-09
+INC-1CE51287,Media,597.38,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-09-16
+INC-6F688C2C,Media,807.63,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-06
+INC-EE19D5D9,Alta,465.63,Error de Aplicación,1,Alto,Nivel 3,2025-05-04
+INC-19DA3838,Baja,399.57,Falla de Hardware,1,Bajo,Nivel 3,2025-09-14
+INC-F8CF812A,Baja,2842.94,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-11
+INC-F3B0CD94,Media,162.27,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-07-10
+INC-94EB5517,Media,578.15,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-09-02
+INC-16F3DC9E,Baja,3496.02,Falla de Hardware,1,Bajo,Nivel 3,2025-05-25
+INC-A1836146,Baja,1940.58,Falla de Hardware,1,Bajo,Nivel 3,2025-07-30
+INC-7ACFF5DF,Alta,478.73,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-23
+INC-A37E0347,Media,831.5,Error de Aplicación,1,Medio,Nivel 3,2025-05-11
+INC-236074D5,Media,503.2,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-21
+INC-6CF48668,Media,363.75,Petición de Servicio,1,Medio,Nivel 3,2025-10-06
+INC-5734E654,Baja,1592.19,Falla de Hardware,1,Bajo,Nivel 3,2025-08-17
+INC-69737F52,Baja,1684.64,Falla de Hardware,1,Bajo,Nivel 3,2025-08-15
+INC-17842F34,Baja,408.6,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-06-16
+INC-8CE4ACD6,Media,570.01,Error de Aplicación,1,Medio,Nivel 3,2025-07-25
+INC-2DA87B1D,Alta,238.91,Petición de Servicio,1,Alto,Nivel 3,2025-06-06
+INC-D3BED679,Baja,3155.5,Petición de Servicio,1,Bajo,Nivel 3,2025-07-23
+INC-EBC36E14,Baja,2878.26,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-08-31
+INC-C9B10CED,Alta,348.94,Error de Aplicación,1,Alto,Nivel 3,2025-04-18
+INC-85917BD5,Baja,155.13,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-21
+INC-9BD566F3,Baja,1034.2,Falla de Hardware,1,Bajo,Nivel 3,2025-10-13
+INC-0A7FA256,Media,973.12,Error de Aplicación,1,Medio,Nivel 3,2025-07-11
+INC-AF9170E6,Media,727.91,Petición de Servicio,1,Medio,Nivel 3,2025-08-27
+INC-9357339E,Media,67.33,Falla de Hardware,1,Medio,Nivel 3,2025-06-23
+INC-BDB6F491,Alta,392.02,Falla de Hardware,1,Alto,Nivel 3,2025-04-25
+INC-0995E249,Media,1126.48,Petición de Servicio,1,Medio,Nivel 3,2025-07-18
+INC-4A201096,Baja,2423.36,Petición de Servicio,1,Bajo,Nivel 3,2025-09-13
+INC-69F52E87,Alta,59.91,Falla de Hardware,1,Alto,Nivel 3,2025-09-18
+INC-EBE57E72,Media,1117.79,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-01
+INC-B4F61F90,Media,865.52,Falla de Hardware,1,Medio,Nivel 3,2025-08-19
+INC-A9CE0CF0,Media,1139.1,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-16
+INC-AEDBC1F7,Baja,3277.34,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-06
+INC-3A21C423,Media,1168.14,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-26
+INC-FBAEB149,Media,774.85,Error de Aplicación,1,Medio,Nivel 3,2025-08-28
+INC-8BBBF4E1,Baja,709.36,Falla de Hardware,1,Bajo,Nivel 3,2025-06-17
+INC-A8825CD3,Media,986.2,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-07
+INC-338EA996,Alta,309.21,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-08-27
+INC-AFEC7358,Media,1084.31,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-16
+INC-F150FE0A,Alta,106.45,Petición de Servicio,1,Alto,Nivel 3,2025-08-17
+INC-779BDDF9,Alta,117.74,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-18
+INC-A400D4D7,Media,1288.77,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-05
+INC-3C61EA8A,Media,1094.97,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-14
+INC-3C5785EA,Baja,3934.56,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-06
+INC-BE4FB6DB,Media,1107.03,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-11
+INC-C729F5C9,Media,884.07,Petición de Servicio,1,Medio,Nivel 3,2025-08-26
+INC-86998AA1,Media,962.7,Petición de Servicio,1,Medio,Nivel 3,2025-07-29
+INC-C2114A36,Alta,430.11,Petición de Servicio,1,Alto,Nivel 3,2025-08-17
+INC-8E444575,Media,858.75,Error de Aplicación,1,Medio,Nivel 3,2025-06-03
+INC-9D7266FF,Alta,314.58,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-18
+INC-6AACB19A,Baja,777.2,Petición de Servicio,1,Bajo,Nivel 3,2025-08-14
+INC-21C41BD8,Alta,243.26,Error de Aplicación,1,Alto,Nivel 3,2025-10-12
+INC-A4F6CB13,Media,1048.63,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-13
+INC-261A4AF5,Alta,151.92,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-24
+INC-1AA15F4B,Baja,969.47,Falla de Hardware,1,Bajo,Nivel 3,2025-06-29
+INC-C954C568,Media,493.08,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-20
+INC-F5B51ECE,Media,393.27,Falla de Hardware,1,Medio,Nivel 3,2025-09-27
+INC-EC972BDD,Alta,126.71,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-25
+INC-F7433B9E,Baja,1904.37,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-10-04
+INC-BF25C72E,Alta,438.53,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-04
+INC-DD7E5288,Baja,2249.65,Error de Aplicación,1,Bajo,Nivel 3,2025-05-02
+INC-F69FCF00,Alta,114.56,Falla de Hardware,1,Alto,Nivel 3,2025-06-14
+INC-B16B1CC1,Alta,64.64,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-05
+INC-739B0E92,Alta,343.27,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-20
+INC-050D8498,Media,588.26,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-07
+INC-D9F2DD2C,Media,1194.13,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-27
+INC-EF649FEE,Alta,326.78,Falla de Hardware,1,Alto,Nivel 3,2025-07-06
+INC-829DC93B,Baja,3464.21,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-08
+INC-F3B24C3D,Media,435.29,Falla de Hardware,1,Medio,Nivel 3,2025-07-28
+INC-C9097B37,Media,1015.46,Petición de Servicio,1,Medio,Nivel 3,2025-06-09
+INC-77BC2440,Media,424.41,Petición de Servicio,1,Medio,Nivel 3,2025-07-20
+INC-7580EEDC,Media,1355.91,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-10
+INC-8C342DC7,Media,938.2,Petición de Servicio,1,Medio,Nivel 3,2025-06-17
+INC-F74E18F4,Alta,176.03,Error de Aplicación,1,Alto,Nivel 3,2025-07-24
+INC-D37AE90E,Alta,151.28,Falla de Hardware,1,Alto,Nivel 3,2025-07-18
+INC-128238B2,Baja,921.89,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-20
+INC-6DA8788F,Baja,3037.49,Error de Aplicación,1,Bajo,Nivel 3,2025-06-23
+INC-9B4EB287,Media,361.83,Error de Aplicación,1,Medio,Nivel 3,2025-05-14
+INC-75F7E55E,Media,881.52,Petición de Servicio,1,Medio,Nivel 3,2025-05-04
+INC-1C81B83B,Media,425.2,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-DC31A38E,Media,973.52,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-29
+INC-9C51DC85,Alta,396.72,Error de Aplicación,1,Alto,Nivel 3,2025-09-10
+INC-7D9975B4,Alta,380.11,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-10
+INC-6C06A147,Baja,3315.58,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-13
+INC-F8BD05E2,Media,319.06,Petición de Servicio,1,Medio,Nivel 3,2025-08-18
+INC-7A68970A,Alta,69.77,Falla de Hardware,1,Alto,Nivel 3,2025-08-28
+INC-E740BB44,Alta,344.53,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-23
+INC-1163621F,Alta,195.76,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-24
+INC-DBB724AF,Media,656.64,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-06
+INC-D861C1E7,Alta,44.02,Error de Aplicación,1,Alto,Nivel 3,2025-07-10
+INC-562B0C66,Alta,146.81,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-05-11
+INC-D7DEA8A6,Baja,261.44,Falla de Hardware,1,Bajo,Nivel 3,2025-10-08
+INC-55629E85,Alta,425.63,Falla de Hardware,1,Alto,Nivel 3,2025-07-08
+INC-7C60594F,Media,395.89,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-18
+INC-D6EC5F31,Alta,280.8,Error de Aplicación,1,Alto,Nivel 3,2025-08-11
+INC-8560DE83,Alta,47.54,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-01
+INC-3AF56FBA,Alta,330.08,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-11
+INC-112056B3,Baja,1476.71,Error de Aplicación,1,Bajo,Nivel 3,2025-04-28
+INC-9D08EBB8,Baja,3891.26,Petición de Servicio,1,Bajo,Nivel 3,2025-09-24
+INC-9B9E3144,Baja,3850.1,Falla de Hardware,1,Bajo,Nivel 3,2025-08-14
+INC-756AD885,Media,508.9,Petición de Servicio,1,Medio,Nivel 3,2025-06-26
+INC-8DCE7AFC,Media,1303.33,Error de Aplicación,1,Medio,Nivel 3,2025-05-03
+INC-F29F2853,Alta,478.27,Petición de Servicio,1,Alto,Nivel 3,2025-08-16
+INC-81F78823,Media,1199.07,Error de Aplicación,1,Medio,Nivel 3,2025-08-18
+INC-A4D065AE,Baja,3668.46,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-26
+INC-E833948D,Alta,142.05,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-05-17
+INC-664EF452,Alta,289.52,Petición de Servicio,1,Alto,Nivel 3,2025-06-15
+INC-1C1EC889,Alta,60.27,Petición de Servicio,1,Alto,Nivel 3,2025-06-25
+INC-34F2ABFA,Alta,72.71,Falla de Hardware,1,Alto,Nivel 3,2025-05-03
+INC-5B1331B2,Alta,479.5,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-05
+INC-730BE06C,Media,510.76,Falla de Hardware,1,Medio,Nivel 3,2025-05-23
+INC-3EA4C55A,Media,1092.49,Petición de Servicio,1,Medio,Nivel 3,2025-08-12
+INC-32066AE2,Baja,3507.99,Error de Aplicación,1,Bajo,Nivel 3,2025-09-20
+INC-62451D30,Baja,3723.7,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-23
+INC-8F39E30C,Media,1436.73,Error de Aplicación,1,Medio,Nivel 3,2025-07-05
+INC-15D44ACB,Media,393.27,Falla de Hardware,1,Medio,Nivel 3,2025-04-27
+INC-FC2A4914,Media,115.68,Falla de Hardware,1,Medio,Nivel 3,2025-08-28
+INC-9E2DAB92,Media,627.44,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-17
+INC-0406A878,Media,239.51,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-21
+INC-E60DC494,Media,90.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-19
+INC-9E090507,Media,557.39,Falla de Hardware,1,Medio,Nivel 3,2025-05-04
+INC-CB7BB259,Media,1141.56,Error de Aplicación,1,Medio,Nivel 3,2025-09-28
+INC-1EB249B0,Media,841.33,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-29
+INC-534C8F93,Media,491.63,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-07-15
+INC-775DA36E,Baja,2868.24,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-04
+INC-5FFAB970,Baja,1094.48,Petición de Servicio,1,Bajo,Nivel 3,2025-04-17
+INC-FEAD569D,Alta,36.47,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-18
+INC-0D27EC1C,Baja,3330.28,Petición de Servicio,1,Bajo,Nivel 3,2025-05-20
+INC-4881C40D,Media,920.77,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-07-28
+INC-4833437D,Baja,3321.67,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-26
+INC-FA16909A,Baja,283.54,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-22
+INC-B335001F,Media,1215.23,Petición de Servicio,1,Medio,Nivel 3,2025-04-23
+INC-42FEFE47,Alta,308.79,Petición de Servicio,1,Alto,Nivel 3,2025-06-11
+INC-58F06F5D,Media,837.49,Falla de Hardware,1,Medio,Nivel 3,2025-07-05
+INC-A0E23FFC,Media,921.97,Petición de Servicio,1,Medio,Nivel 3,2025-09-28
+INC-B385216C,Media,1252.92,Error de Aplicación,1,Medio,Nivel 3,2025-09-20
+INC-287E304B,Media,869.97,Petición de Servicio,1,Medio,Nivel 3,2025-04-28
+INC-1F85147A,Alta,291.43,Error de Aplicación,1,Alto,Nivel 3,2025-09-08
+INC-9ACDA3FD,Baja,4280.85,Error de Aplicación,1,Bajo,Nivel 3,2025-06-03
+INC-AAB46352,Baja,3298.27,Falla de Hardware,1,Bajo,Nivel 3,2025-05-12
+INC-7A36BAA4,Media,670.37,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-08-06
+INC-12A21A4B,Alta,348.33,Error de Aplicación,1,Alto,Nivel 3,2025-08-16
+INC-01DE5E80,Media,597.14,Petición de Servicio,1,Medio,Nivel 3,2025-04-28
+INC-A568C2D5,Alta,132.99,Petición de Servicio,1,Alto,Nivel 3,2025-09-12
+INC-4B5F55CE,Baja,2626.78,Error de Aplicación,1,Bajo,Nivel 3,2025-05-28
+INC-B468B456,Alta,447.68,Petición de Servicio,1,Alto,Nivel 3,2025-06-16
+INC-D8C534CA,Media,1342.21,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-13
+INC-BA856E2A,Media,531.83,Falla de Hardware,1,Medio,Nivel 3,2025-05-20
+INC-CC9AC377,Media,788.19,Petición de Servicio,1,Medio,Nivel 3,2025-04-23
+INC-D8625D9B,Media,352.06,Falla de Hardware,1,Medio,Nivel 3,2025-08-03
+INC-BE699114,Baja,4301.65,Error de Aplicación,1,Bajo,Nivel 3,2025-05-21
+INC-316F0973,Alta,471.5,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-05-01
+INC-80502517,Alta,322.28,Error de Aplicación,1,Alto,Nivel 3,2025-05-11
+INC-ABFD67EE,Alta,391.99,Falla de Hardware,1,Alto,Nivel 3,2025-06-14
+INC-7B283C8F,Baja,3123.42,Petición de Servicio,1,Bajo,Nivel 3,2025-07-04
+INC-9D68E953,Baja,2611.26,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-11
+INC-993C851C,Media,133.62,Falla de Hardware,1,Medio,Nivel 3,2025-08-28
+INC-5426BF86,Media,687.57,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-13
+INC-B8D0CB49,Media,991.21,Petición de Servicio,1,Medio,Nivel 3,2025-07-13
+INC-F62AB70C,Alta,334.89,Petición de Servicio,1,Alto,Nivel 3,2025-09-12
+INC-94618B56,Baja,1687.11,Falla de Hardware,1,Bajo,Nivel 3,2025-06-26
+INC-2DBB0D34,Media,1359.53,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-15
+INC-F1067429,Media,290.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-18
+INC-73A6E3D3,Media,750.5,Error de Aplicación,1,Medio,Nivel 3,2025-07-21
+INC-546153E5,Alta,340.9,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-18
+INC-BE44B1EE,Alta,343.71,Petición de Servicio,1,Alto,Nivel 3,2025-06-08
+INC-01BA7CEF,Baja,2844.28,Petición de Servicio,1,Bajo,Nivel 3,2025-06-14
+INC-8FCDF5E4,Alta,153.88,Falla de Hardware,1,Alto,Nivel 3,2025-06-24
+INC-E8DE538B,Media,275.57,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-26
+INC-6A79083F,Alta,316.17,Error de Aplicación,1,Alto,Nivel 3,2025-07-11
+INC-F5C97CF0,Media,887.04,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-04
+INC-57A79C05,Media,307.51,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-06
+INC-B385693B,Media,1033.09,Error de Aplicación,1,Medio,Nivel 3,2025-08-08
+INC-369DF610,Baja,2031.72,Petición de Servicio,1,Bajo,Nivel 3,2025-05-10
+INC-3674C68D,Media,981.51,Petición de Servicio,1,Medio,Nivel 3,2025-06-21
+INC-21405BE6,Media,1215.57,Falla de Hardware,1,Medio,Nivel 3,2025-09-04
+INC-15B5FEAC,Media,294.23,Falla de Hardware,1,Medio,Nivel 3,2025-06-17
+INC-3A43D9D6,Media,86.42,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-09
+INC-F184DFBE,Baja,3392.23,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-06
+INC-A4AD4213,Baja,2680.73,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-25
+INC-3758C21C,Alta,344.84,Error de Aplicación,1,Alto,Nivel 3,2025-05-23
+INC-7918781D,Alta,407.17,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-23
+INC-859C1308,Media,1167.88,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-08-25
+INC-DE50AD40,Media,1386.07,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-21
+INC-820561DA,Alta,271.17,Petición de Servicio,1,Alto,Nivel 3,2025-10-13
+INC-151A7BD5,Media,734.12,Falla de Hardware,1,Medio,Nivel 3,2025-08-18
+INC-D945655A,Media,614.6,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-19
+INC-361706BC,Media,272.09,Falla de Hardware,1,Medio,Nivel 3,2025-05-04
+INC-7E24B106,Baja,2524.95,Petición de Servicio,1,Bajo,Nivel 3,2025-08-16
+INC-C921A92C,Alta,154.66,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-09-27
+INC-1F0C6B97,Alta,444.59,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-24
+INC-6DAB535D,Baja,2569.4,Petición de Servicio,1,Bajo,Nivel 3,2025-09-17
+INC-A03D0CB5,Media,878.12,Error de Aplicación,1,Medio,Nivel 3,2025-06-03
+INC-4A69A630,Media,549.8,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-01
+INC-ED98A2FD,Media,131.75,Error de Aplicación,1,Medio,Nivel 3,2025-05-03
+INC-8A76CBD8,Alta,44.28,Petición de Servicio,1,Alto,Nivel 3,2025-10-01
+INC-4C81E8D0,Baja,1898.01,Petición de Servicio,1,Bajo,Nivel 3,2025-08-29
+INC-1265111C,Baja,475.17,Petición de Servicio,1,Bajo,Nivel 3,2025-06-12
+INC-5225673D,Media,897.45,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-24
+INC-3D7B75B3,Media,1275.74,Petición de Servicio,1,Medio,Nivel 3,2025-08-22
+INC-69BDC9E4,Media,1278.42,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-11
+INC-9065FB88,Media,969.48,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-11
+INC-CABDE5B1,Alta,125.05,Petición de Servicio,1,Alto,Nivel 3,2025-08-20
+INC-97521DD3,Baja,3744.59,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-22
+INC-72CA56EC,Alta,428.74,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-14
+INC-375F56DA,Baja,945.95,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-13
+INC-40285B57,Media,1077.65,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-03
+INC-95E25972,Alta,158.93,Falla de Hardware,1,Alto,Nivel 3,2025-10-09
+INC-2A51D870,Media,1167.64,Error de Aplicación,1,Medio,Nivel 3,2025-09-22
+INC-CCB83DC3,Baja,4308.4,Petición de Servicio,1,Bajo,Nivel 3,2025-08-02
+INC-8EABE664,Baja,246.11,Error de Aplicación,1,Bajo,Nivel 3,2025-06-29
+INC-6898C594,Baja,3888.94,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-30
+INC-06D61A8A,Media,919.23,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-09-11
+INC-628F06D5,Media,1403.27,Falla de Hardware,1,Medio,Nivel 3,2025-07-26
+INC-1A832E87,Baja,2073.04,Error de Aplicación,1,Bajo,Nivel 3,2025-06-03
+INC-CF5ED30F,Alta,411.32,Error de Aplicación,1,Alto,Nivel 3,2025-06-26
+INC-B25F3F10,Media,146.1,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-10
+INC-7CDD55A4,Alta,180.88,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-16
+INC-7391C7FF,Baja,401.47,Petición de Servicio,1,Bajo,Nivel 3,2025-07-03
+INC-A35E0242,Baja,4216.44,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-05-15
+INC-0894DC01,Alta,397.64,Petición de Servicio,1,Alto,Nivel 3,2025-07-18
+INC-7301F50F,Baja,3700.7,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-28
+INC-C2E99C54,Baja,4059.45,Petición de Servicio,1,Bajo,Nivel 3,2025-07-25
+INC-5D03A192,Alta,68.3,Error de Aplicación,1,Alto,Nivel 3,2025-10-09
+INC-6FBF3535,Media,592.12,Error de Aplicación,1,Medio,Nivel 3,2025-06-29
+INC-B986E730,Baja,418.35,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-20
+INC-BC4C837B,Alta,124.86,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-03
+INC-5A917095,Media,376.52,Petición de Servicio,1,Medio,Nivel 3,2025-08-31
+INC-5434A8B4,Media,707.37,Petición de Servicio,1,Medio,Nivel 3,2025-07-22
+INC-0D0E16EC,Baja,1247.96,Error de Aplicación,1,Bajo,Nivel 3,2025-09-25
+INC-6BF695B1,Baja,544.11,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-06
+INC-BEFED9AD,Baja,823.46,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-25
+INC-0F80D64B,Media,263.24,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-29
+INC-F34DD494,Baja,4206.92,Petición de Servicio,1,Bajo,Nivel 3,2025-09-07
+INC-02852D9F,Baja,3309.03,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-05
+INC-5475F610,Media,1395.51,Petición de Servicio,1,Medio,Nivel 3,2025-08-28
+INC-660E7678,Baja,1966.91,Falla de Hardware,1,Bajo,Nivel 3,2025-08-08
+INC-6D57AE39,Alta,155.27,Error de Aplicación,1,Alto,Nivel 3,2025-09-02
+INC-0BDBE46F,Media,1161.64,Petición de Servicio,1,Medio,Nivel 3,2025-08-19
+INC-7D83606D,Alta,176.81,Petición de Servicio,1,Alto,Nivel 3,2025-06-16
+INC-9521751E,Alta,164.72,Petición de Servicio,1,Alto,Nivel 3,2025-05-28
+INC-490D7CA9,Alta,134.63,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-29
+INC-238E6002,Media,238.96,Petición de Servicio,1,Medio,Nivel 3,2025-09-03
+INC-A79DB9B4,Media,413.92,Falla de Hardware,1,Medio,Nivel 3,2025-07-10
+INC-0D6179F8,Baja,1612.34,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-06
+INC-CB9898B5,Alta,333.3,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-05
+INC-7637826F,Media,146.34,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-27
+INC-A0FB236C,Media,350.5,Error de Aplicación,1,Medio,Nivel 3,2025-07-17
+INC-14E5F2DA,Baja,3517.9,Falla de Hardware,1,Bajo,Nivel 3,2025-07-13
+INC-1513C8F7,Media,262.75,Petición de Servicio,1,Medio,Nivel 3,2025-06-24
+INC-86E7483D,Media,532.85,Falla de Hardware,1,Medio,Nivel 3,2025-05-23
+INC-0F2BB2B7,Baja,3751.57,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-03
+INC-711C5E57,Media,273.8,Petición de Servicio,1,Medio,Nivel 3,2025-07-24
+INC-955E86F1,Alta,67.23,Falla de Hardware,1,Alto,Nivel 3,2025-08-19
+INC-DB022BE7,Alta,248.04,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-01
+INC-06AE30E7,Baja,1390.16,Petición de Servicio,1,Bajo,Nivel 3,2025-06-09
+INC-88E40217,Alta,283.53,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-24
+INC-F43F4E89,Baja,3495.98,Falla de Hardware,1,Bajo,Nivel 3,2025-10-11
+INC-CD3678A9,Media,249.26,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-05-27
+INC-71525843,Baja,2558.94,Error de Aplicación,1,Bajo,Nivel 3,2025-05-31
+INC-A9176C34,Baja,2243.14,Error de Aplicación,1,Bajo,Nivel 3,2025-07-28
+INC-9146170E,Baja,725.13,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-31
+INC-D3B670B1,Media,921.12,Petición de Servicio,1,Medio,Nivel 3,2025-08-31
+INC-344AAC41,Baja,1269.29,Falla de Hardware,1,Bajo,Nivel 3,2025-08-22
+INC-BA0C1FD0,Media,733.21,Error de Aplicación,1,Medio,Nivel 3,2025-07-11
+INC-DF3BC5BA,Media,173.54,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-02
+INC-3C69FA91,Media,694.23,Petición de Servicio,1,Medio,Nivel 3,2025-04-21
+INC-92E94762,Baja,1407.15,Error de Aplicación,1,Bajo,Nivel 3,2025-04-17
+INC-581D8D61,Baja,3574.0,Petición de Servicio,1,Bajo,Nivel 3,2025-05-30
+INC-E67A0ADC,Baja,359.31,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-13
+INC-40922889,Media,637.68,Falla de Hardware,1,Medio,Nivel 3,2025-05-24
+INC-D1A43928,Media,692.64,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-05
+INC-059F554D,Baja,3165.03,Falla de Hardware,1,Bajo,Nivel 3,2025-09-22
+INC-43D25D40,Alta,288.43,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-09
+INC-E11FCDB9,Alta,330.25,Error de Aplicación,1,Alto,Nivel 3,2025-07-12
+INC-B979FF3E,Media,1132.33,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-03
+INC-BCA737C8,Media,1249.84,Falla de Hardware,1,Medio,Nivel 3,2025-08-17
+INC-024D003D,Media,493.15,Petición de Servicio,1,Medio,Nivel 3,2025-07-07
+INC-A36C4E68,Alta,272.11,Falla de Hardware,1,Alto,Nivel 3,2025-09-17
+INC-D32E017D,Alta,408.05,Falla de Hardware,1,Alto,Nivel 3,2025-09-04
+INC-6CBDBFC1,Alta,475.25,Petición de Servicio,1,Alto,Nivel 3,2025-06-13
+INC-BA42189B,Baja,3855.98,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-09
+INC-6EDD158C,Media,572.62,Error de Aplicación,1,Medio,Nivel 3,2025-06-22
+INC-7CCC10C5,Media,329.33,Falla de Hardware,1,Medio,Nivel 3,2025-08-16
+INC-2D8FDAAA,Media,735.36,Falla de Hardware,1,Medio,Nivel 3,2025-07-12
+INC-4F362912,Alta,363.74,Error de Aplicación,1,Alto,Nivel 3,2025-08-25
+INC-BDD0AE19,Baja,2188.79,Falla de Hardware,1,Bajo,Nivel 3,2025-06-10
+INC-43DCB42A,Baja,2149.36,Error de Aplicación,1,Bajo,Nivel 3,2025-07-14
+INC-0DD279B7,Alta,407.2,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-06-13
+INC-11B6EE3B,Media,558.74,Error de Aplicación,1,Medio,Nivel 3,2025-06-18
+INC-702AE732,Baja,3731.14,Petición de Servicio,1,Bajo,Nivel 3,2025-07-16
+INC-663364C1,Baja,1828.58,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-07
+INC-CE1B3647,Media,512.96,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-20
+INC-C0FD7051,Media,686.51,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-10
+INC-269C8A42,Alta,373.1,Petición de Servicio,1,Alto,Nivel 3,2025-06-27
+INC-44A33FCF,Baja,649.21,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-25
+INC-CC3F85B1,Alta,118.39,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-04
+INC-45BA805D,Baja,4116.07,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-28
+INC-6304FCCC,Media,302.18,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-19
+INC-756E90E5,Media,843.46,Falla de Hardware,1,Medio,Nivel 3,2025-08-11
+INC-24D2ADBD,Media,859.45,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-08
+INC-782CB0C9,Alta,250.33,Petición de Servicio,1,Alto,Nivel 3,2025-07-05
+INC-C61DD629,Alta,320.14,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-15
+INC-AEF3D969,Alta,133.42,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-12
+INC-01D18D0A,Alta,278.7,Petición de Servicio,1,Alto,Nivel 3,2025-07-25
+INC-482CF8AE,Baja,1683.13,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-26
+INC-BB3141B8,Media,973.1,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-28
+INC-492028FA,Alta,93.55,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-17
+INC-5473E90A,Baja,2517.69,Petición de Servicio,1,Bajo,Nivel 3,2025-06-24
+INC-74714BDF,Baja,898.14,Error de Aplicación,1,Bajo,Nivel 3,2025-09-05
+INC-675CE078,Baja,1290.3,Petición de Servicio,1,Bajo,Nivel 3,2025-08-03
+INC-71DC322F,Baja,1038.58,Error de Aplicación,1,Bajo,Nivel 3,2025-10-03
+INC-7BB5E13A,Alta,112.28,Falla de Hardware,1,Alto,Nivel 3,2025-10-11
+INC-CE737771,Media,1199.48,Petición de Servicio,1,Medio,Nivel 3,2025-04-20
+INC-428DDDAA,Baja,1319.97,Error de Aplicación,1,Bajo,Nivel 3,2025-06-27
+INC-43C6CCBB,Media,1339.43,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-03
+INC-146C3CB5,Alta,466.47,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-08
+INC-1380A8B3,Baja,2519.29,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-07-10
+INC-4B00EEE8,Alta,94.35,Petición de Servicio,1,Alto,Nivel 3,2025-06-12
+INC-C2D1DB27,Alta,198.55,Error de Aplicación,1,Alto,Nivel 3,2025-08-01
+INC-97C72C3E,Media,1160.87,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-03
+INC-B6A8F45A,Media,567.0,Error de Aplicación,1,Medio,Nivel 3,2025-10-05
+INC-CDC7D630,Media,180.08,Petición de Servicio,1,Medio,Nivel 3,2025-10-06
+INC-E6D6E084,Alta,280.55,Error de Aplicación,1,Alto,Nivel 3,2025-08-11
+INC-B3C7CB57,Baja,3669.51,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-09-24
+INC-56F66788,Media,1158.38,Error de Aplicación,1,Medio,Nivel 3,2025-05-17
+INC-AD4F9756,Alta,108.81,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-06
+INC-2BE43BA2,Baja,2945.61,Petición de Servicio,1,Bajo,Nivel 3,2025-06-02
+INC-BB4781C9,Baja,1046.12,Petición de Servicio,1,Bajo,Nivel 3,2025-08-28
+INC-19F533BC,Baja,1036.47,Falla de Hardware,1,Bajo,Nivel 3,2025-08-02
+INC-47190B68,Baja,3791.1,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-06-27
+INC-375EF51B,Media,404.54,Petición de Servicio,1,Medio,Nivel 3,2025-06-26
+INC-8CCE24BF,Media,423.28,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-25
+INC-85528E60,Alta,30.29,Error de Aplicación,1,Alto,Nivel 3,2025-08-02
+INC-0F514973,Media,1261.52,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-08
+INC-EAC68048,Media,1153.78,Error de Aplicación,1,Medio,Nivel 3,2025-09-05
+INC-5DC6637A,Media,925.71,Error de Aplicación,1,Medio,Nivel 3,2025-05-02
+INC-A16557A5,Baja,3271.12,Falla de Hardware,1,Bajo,Nivel 3,2025-10-04
+INC-5515D9F8,Media,269.83,Petición de Servicio,1,Medio,Nivel 3,2025-08-10
+INC-4CE50631,Alta,236.25,Error de Aplicación,1,Alto,Nivel 3,2025-06-28
+INC-E720B8BC,Alta,188.05,Falla de Hardware,1,Alto,Nivel 3,2025-06-29
+INC-3EF1574D,Media,189.41,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-06
+INC-536C788B,Alta,248.76,Falla de Hardware,1,Alto,Nivel 3,2025-04-28
+INC-4A62E4FD,Baja,3987.11,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-22
+INC-A45846F2,Media,115.28,Petición de Servicio,1,Medio,Nivel 3,2025-06-25
+INC-D1CF7794,Media,462.22,Error de Aplicación,1,Medio,Nivel 3,2025-09-10
+INC-46CB1518,Media,346.41,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-27
+INC-46CC9509,Baja,1120.22,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-20
+INC-6D0F4723,Media,1313.64,Error de Aplicación,1,Medio,Nivel 3,2025-06-14
+INC-4DA8C5DC,Media,705.94,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-14
+INC-9CF5DC4F,Media,703.49,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-10
+INC-2EB623AE,Media,1109.59,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-07
+INC-6F042FC9,Baja,768.87,Error de Aplicación,1,Bajo,Nivel 3,2025-10-13
+INC-C5FE95A9,Baja,2166.51,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-05
+INC-9C6A6F1C,Media,653.38,Falla de Hardware,1,Medio,Nivel 3,2025-08-28
+INC-9181ABAC,Baja,2627.02,Falla de Hardware,1,Bajo,Nivel 3,2025-09-28
+INC-B94B9ECC,Baja,4318.14,Error de Aplicación,1,Bajo,Nivel 3,2025-08-26
+INC-86B02AFF,Baja,3351.69,Petición de Servicio,1,Bajo,Nivel 3,2025-07-17
+INC-69301A36,Baja,1791.04,Falla de Hardware,1,Bajo,Nivel 3,2025-09-29
+INC-19DA66CA,Media,1202.02,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-02
+INC-CAB6C2EA,Media,295.58,Error de Aplicación,1,Medio,Nivel 3,2025-07-17
+INC-A38C48BC,Media,102.04,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-06
+INC-B0E9FF9D,Baja,978.68,Falla de Hardware,1,Bajo,Nivel 3,2025-09-05
+INC-41082B4A,Alta,183.19,Error de Aplicación,1,Alto,Nivel 3,2025-06-26
+INC-5F261FBA,Baja,2264.44,Error de Aplicación,1,Bajo,Nivel 3,2025-10-12
+INC-A16ACF2C,Baja,2703.54,Petición de Servicio,1,Bajo,Nivel 3,2025-06-20
+INC-6D19A500,Alta,439.77,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-07
+INC-28E54131,Baja,2261.39,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-16
+INC-18FDE62A,Alta,255.57,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-24
+INC-0BD7B6E9,Media,129.34,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-21
+INC-98AAD991,Baja,266.63,Error de Aplicación,1,Bajo,Nivel 3,2025-07-23
+INC-4B17FA78,Alta,278.02,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-28
+INC-92F24446,Baja,1960.35,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-02
+INC-CCD90223,Baja,3644.56,Error de Aplicación,1,Bajo,Nivel 3,2025-05-13
+INC-54DF413E,Media,281.74,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-09-15
+INC-3A7A6547,Alta,41.24,Error de Aplicación,1,Alto,Nivel 3,2025-09-30
+INC-E3BB0A00,Media,679.67,Petición de Servicio,1,Medio,Nivel 3,2025-06-27
+INC-A6B63898,Media,387.72,Error de Aplicación,1,Medio,Nivel 3,2025-05-04
+INC-0326C324,Baja,328.38,Error de Aplicación,1,Bajo,Nivel 3,2025-07-02
+INC-D4BC69AA,Media,1059.95,Falla de Hardware,1,Medio,Nivel 3,2025-05-31
+INC-5B8E5821,Media,214.0,Petición de Servicio,1,Medio,Nivel 3,2025-08-09
+INC-7C6A626E,Media,899.48,Falla de Hardware,1,Medio,Nivel 3,2025-07-12
+INC-371F550E,Media,447.85,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-03
+INC-ADB1AD4A,Baja,848.68,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-10
+INC-2564F0B6,Alta,200.89,Petición de Servicio,1,Alto,Nivel 3,2025-09-22
+INC-9C635C3E,Baja,3486.07,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-17
+INC-3E43533C,Media,601.09,Error de Aplicación,1,Medio,Nivel 3,2025-05-08
+INC-75418201,Baja,3273.23,Falla de Hardware,1,Bajo,Nivel 3,2025-10-05
+INC-4C812AED,Media,233.17,Petición de Servicio,1,Medio,Nivel 3,2025-07-17
+INC-6B215279,Media,1126.42,Falla de Hardware,1,Medio,Nivel 3,2025-07-02
+INC-22A7DE35,Baja,1115.12,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-05-11
+INC-C6C5D765,Alta,334.83,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-02
+INC-374934FA,Baja,2496.28,Falla de Hardware,1,Bajo,Nivel 3,2025-10-12
+INC-1A269511,Media,1342.22,Petición de Servicio,1,Medio,Nivel 3,2025-08-29
+INC-C38CF2BF,Alta,204.3,Error de Aplicación,1,Alto,Nivel 3,2025-08-03
+INC-2F357AC3,Media,151.31,Error de Aplicación,1,Medio,Nivel 3,2025-08-28
+INC-E8B968DA,Baja,200.45,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-10
+INC-EB4331D9,Alta,402.09,Petición de Servicio,1,Alto,Nivel 3,2025-05-05
+INC-FA8682E4,Media,784.14,Error de Aplicación,1,Medio,Nivel 3,2025-07-08
+INC-5C6755DB,Media,1129.84,Falla de Hardware,1,Medio,Nivel 3,2025-08-09
+INC-BB2A6F0B,Media,383.51,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-25
+INC-FAF1C67A,Alta,185.29,Petición de Servicio,1,Alto,Nivel 3,2025-08-06
+INC-D62E9EEC,Baja,246.44,Falla de Hardware,1,Bajo,Nivel 3,2025-09-27
+INC-FFF6E8F3,Baja,4158.27,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-27
+INC-C0472C7D,Baja,2925.05,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-01
+INC-F2954FC7,Baja,4039.46,Error de Aplicación,1,Bajo,Nivel 3,2025-09-15
+INC-48831AEF,Alta,149.47,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-03
+INC-F2C5D3CC,Baja,2688.15,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-24
+INC-ABEE2E39,Alta,335.32,Falla de Hardware,1,Alto,Nivel 3,2025-10-03
+INC-2AE7E0FD,Alta,172.9,Petición de Servicio,1,Alto,Nivel 3,2025-08-13
+INC-FA2AF21A,Media,1230.39,Error de Aplicación,1,Medio,Nivel 3,2025-05-31
+INC-D2BDF8B0,Media,1367.08,Petición de Servicio,1,Medio,Nivel 3,2025-08-19
+INC-0A0CEF0E,Baja,3836.39,Falla de Hardware,1,Bajo,Nivel 3,2025-04-30
+INC-B5B2F70C,Media,1079.91,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-20
+INC-1261ED38,Media,442.9,Falla de Hardware,1,Medio,Nivel 3,2025-08-28
+INC-734CD02F,Media,448.63,Falla de Hardware,1,Medio,Nivel 3,2025-08-29
+INC-D9BB2321,Baja,4166.11,Error de Aplicación,1,Bajo,Nivel 3,2025-05-23
+INC-9FA853FB,Media,74.19,Petición de Servicio,1,Medio,Nivel 3,2025-06-08
+INC-75AD43B5,Media,1048.15,Falla de Hardware,1,Medio,Nivel 3,2025-05-04
+INC-D85D8C87,Alta,347.81,Falla de Hardware,1,Alto,Nivel 3,2025-05-24
+INC-0357AD71,Baja,2735.3,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-23
+INC-D4AFB3E1,Media,1426.35,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-30
+INC-E4ADAD97,Alta,170.35,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-02
+INC-9C6B862E,Alta,182.99,Petición de Servicio,1,Alto,Nivel 3,2025-05-21
+INC-7C25AC6E,Media,168.94,Petición de Servicio,1,Medio,Nivel 3,2025-06-15
+INC-50A3C8FA,Media,671.06,Error de Aplicación,1,Medio,Nivel 3,2025-07-15
+INC-5912C5DA,Media,420.25,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-07
+INC-707DF146,Baja,1562.22,Petición de Servicio,1,Bajo,Nivel 3,2025-04-24
+INC-22E73073,Alta,405.56,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-01
+INC-141DEA83,Media,1350.97,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-02
+INC-BE6690E8,Baja,900.08,Petición de Servicio,1,Bajo,Nivel 3,2025-08-25
+INC-7C085C51,Media,574.06,Falla de Hardware,1,Medio,Nivel 3,2025-09-05
+INC-5E0F4CBD,Media,1341.51,Petición de Servicio,1,Medio,Nivel 3,2025-07-21
+INC-D899A5A3,Media,145.3,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-12
+INC-9CD9030F,Media,187.46,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-08-05
+INC-C0ACCBCA,Baja,803.72,Error de Aplicación,1,Bajo,Nivel 3,2025-08-17
+INC-804632E1,Media,881.39,Falla de Hardware,1,Medio,Nivel 3,2025-10-01
+INC-D8836123,Baja,751.98,Error de Aplicación,1,Bajo,Nivel 3,2025-06-06
+INC-D81E6E11,Alta,465.63,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-17
+INC-1F85EF0E,Alta,231.02,Petición de Servicio,1,Alto,Nivel 3,2025-04-21
+INC-17A505EA,Alta,255.68,Petición de Servicio,1,Alto,Nivel 3,2025-07-02
+INC-894E8C05,Media,400.39,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-23
+INC-EB4B7BA2,Media,709.93,Error de Aplicación,1,Medio,Nivel 3,2025-04-17
+INC-65A729D4,Baja,2900.04,Falla de Hardware,1,Bajo,Nivel 3,2025-04-27
+INC-226C7C5B,Media,1096.62,Error de Aplicación,1,Medio,Nivel 3,2025-04-24
+INC-4B5438ED,Baja,3286.25,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-16
+INC-CD333CD4,Alta,290.05,Error de Aplicación,1,Alto,Nivel 3,2025-10-01
+INC-9DEF4254,Baja,3918.31,Falla de Hardware,1,Bajo,Nivel 3,2025-05-18
+INC-86BB569A,Baja,3553.11,Petición de Servicio,1,Bajo,Nivel 3,2025-05-14
+INC-B9B0ABCC,Baja,3299.6,Error de Aplicación,1,Bajo,Nivel 3,2025-08-25
+INC-58A81C79,Baja,353.54,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-22
+INC-1F5FAD25,Baja,148.89,Falla de Hardware,1,Bajo,Nivel 3,2025-06-17
+INC-B8D5EE85,Media,353.18,Petición de Servicio,1,Medio,Nivel 3,2025-05-13
+INC-01FA579F,Alta,328.59,Falla de Hardware,1,Alto,Nivel 3,2025-05-31
+INC-DE12C4DE,Alta,215.04,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-30
+INC-6BB45DC0,Baja,1810.11,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-17
+INC-9040064F,Media,1280.73,Falla de Hardware,1,Medio,Nivel 3,2025-05-11
+INC-EDCF6C04,Baja,3881.36,Falla de Hardware,1,Bajo,Nivel 3,2025-05-30
+INC-655452D4,Media,1314.66,Error de Aplicación,1,Medio,Nivel 3,2025-10-07
+INC-A3D6054C,Alta,171.25,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-05
+INC-90BCAD8C,Alta,340.98,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-30
+INC-C811E365,Media,434.85,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-09
+INC-619DC4C4,Media,323.04,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-05
+INC-AA017924,Alta,113.08,Falla de Hardware,1,Alto,Nivel 3,2025-07-05
+INC-DDCC9CA4,Media,532.11,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-07
+INC-2872638C,Alta,223.48,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-29
+INC-23346465,Media,1206.71,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-13
+INC-AD1D7419,Media,225.45,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-10
+INC-09F0B0C3,Baja,3206.69,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-21
+INC-09BF8010,Media,793.41,Error de Aplicación,1,Medio,Nivel 3,2025-06-10
+INC-5D8D138E,Media,457.36,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-09-04
+INC-54A0B778,Alta,251.77,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-11
+INC-BECA4F7B,Alta,164.97,Falla de Hardware,1,Alto,Nivel 3,2025-05-01
+INC-1EF8029F,Media,882.59,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-06-13
+INC-4559148E,Media,658.7,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-26
+INC-151A7781,Media,286.88,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-13
+INC-81B7AAEA,Media,220.88,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-22
+INC-BA8BEA6B,Media,814.44,Error de Aplicación,1,Medio,Nivel 3,2025-09-07
+INC-F9354D98,Baja,3910.13,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-24
+INC-A76D1E6B,Baja,1564.62,Falla de Hardware,1,Bajo,Nivel 3,2025-10-06
+INC-9FBC357A,Alta,359.85,Falla de Hardware,1,Alto,Nivel 3,2025-05-26
+INC-7730FE2C,Media,968.95,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-30
+INC-BF87FC41,Alta,449.2,Falla de Hardware,1,Alto,Nivel 3,2025-06-08
+INC-80A879E2,Alta,399.44,Error de Aplicación,1,Alto,Nivel 3,2025-08-21
+INC-38B7637E,Baja,2499.74,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-18
+INC-A79FB0E9,Alta,325.66,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-10-08
+INC-D8E73813,Media,1299.77,Error de Aplicación,1,Medio,Nivel 3,2025-07-05
+INC-5137F74F,Media,611.34,Falla de Hardware,1,Medio,Nivel 3,2025-08-09
+INC-B87AAE13,Baja,1492.54,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-28
+INC-6F3D071F,Media,74.92,Error de Aplicación,1,Medio,Nivel 3,2025-06-10
+INC-78CAA668,Alta,401.95,Falla de Hardware,1,Alto,Nivel 3,2025-05-30
+INC-246B395C,Media,1165.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-04
+INC-0D513456,Media,204.15,Petición de Servicio,1,Medio,Nivel 3,2025-05-02
+INC-9CED71B0,Alta,289.59,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-28
+INC-82D6B49D,Media,700.29,Falla de Hardware,1,Medio,Nivel 3,2025-09-11
+INC-9F2CD87F,Alta,83.42,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-05-31
+INC-C0B8FA34,Alta,471.26,Falla de Hardware,1,Alto,Nivel 3,2025-07-18
+INC-0180CB25,Media,356.28,Petición de Servicio,1,Medio,Nivel 3,2025-05-08
+INC-13D96818,Alta,60.26,Petición de Servicio,1,Alto,Nivel 3,2025-07-22
+INC-74B52641,Media,880.89,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-06-02
+INC-1B81ABCE,Media,1079.64,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-15
+INC-4EAE3A84,Baja,256.26,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-31
+INC-3CB7FFAB,Alta,326.42,Falla de Hardware,1,Alto,Nivel 3,2025-07-02
+INC-188CD537,Alta,269.53,Petición de Servicio,1,Alto,Nivel 3,2025-04-25
+INC-D758AE3C,Alta,76.47,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-10
+INC-9725A278,Media,298.08,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-01
+INC-B0D1650B,Baja,2505.49,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-27
+INC-6DE18E2D,Alta,163.36,Falla de Hardware,1,Alto,Nivel 3,2025-04-29
+INC-B3F67826,Baja,4060.93,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-16
+INC-DDE74789,Alta,398.43,Error de Aplicación,1,Alto,Nivel 3,2025-10-05
+INC-CE316338,Media,1417.32,Petición de Servicio,1,Medio,Nivel 3,2025-07-26
+INC-DB67B01F,Baja,1210.62,Falla de Hardware,1,Bajo,Nivel 3,2025-06-26
+INC-D6CE94C7,Baja,4192.84,Falla de Hardware,1,Bajo,Nivel 3,2025-08-16
+INC-30EFD7E8,Baja,1931.18,Petición de Servicio,1,Bajo,Nivel 3,2025-07-01
+INC-AA288146,Baja,1579.58,Petición de Servicio,1,Bajo,Nivel 3,2025-09-27
+INC-83A3B380,Media,129.48,Petición de Servicio,1,Medio,Nivel 3,2025-08-10
+INC-2C536E41,Baja,341.61,Falla de Hardware,1,Bajo,Nivel 3,2025-06-16
+INC-7B1A1D6F,Alta,341.41,Petición de Servicio,1,Alto,Nivel 3,2025-10-01
+INC-3577575F,Baja,2043.3,Petición de Servicio,1,Bajo,Nivel 3,2025-08-20
+INC-73D2C68D,Media,372.6,Falla de Hardware,1,Medio,Nivel 3,2025-09-18
+INC-E0770A4C,Baja,2698.68,Falla de Hardware,1,Bajo,Nivel 3,2025-04-17
+INC-4F087439,Media,408.94,Error de Aplicación,1,Medio,Nivel 3,2025-09-25
+INC-4C81BB14,Media,857.13,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-23
+INC-DED118ED,Media,555.71,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-13
+INC-5791294D,Baja,3578.92,Falla de Hardware,1,Bajo,Nivel 3,2025-05-07
+INC-BBC3BA80,Alta,399.31,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-24
+INC-274D347D,Alta,244.81,Error de Aplicación,1,Alto,Nivel 3,2025-08-29
+INC-A274557C,Alta,187.87,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-19
+INC-191588D8,Alta,193.15,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-06
+INC-F66537DC,Baja,3504.0,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-04
+INC-CFAA84FF,Alta,177.68,Error de Aplicación,1,Alto,Nivel 3,2025-07-20
+INC-F394083D,Baja,998.05,Petición de Servicio,1,Bajo,Nivel 3,2025-08-17
+INC-C33189B4,Media,176.87,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-22
+INC-1F596DB7,Alta,240.01,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-09-20
+INC-977F7752,Baja,2144.95,Error de Aplicación,1,Bajo,Nivel 3,2025-05-03
+INC-1F22DE6C,Media,1220.45,Petición de Servicio,1,Medio,Nivel 3,2025-08-11
+INC-DFDA347D,Media,365.31,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-15
+INC-1435C698,Media,585.77,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-13
+INC-CFE12792,Baja,3515.3,Petición de Servicio,1,Bajo,Nivel 3,2025-09-15
+INC-FA99CFA2,Alta,400.63,Falla de Hardware,1,Alto,Nivel 3,2025-08-19
+INC-1F85A817,Baja,1735.37,Falla de Hardware,1,Bajo,Nivel 3,2025-07-06
+INC-1319AA98,Baja,2048.32,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-10
+INC-01A3585D,Media,478.53,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-06
+INC-F72D4EC6,Alta,449.65,Petición de Servicio,1,Alto,Nivel 3,2025-10-11
+INC-20A62A95,Media,223.73,Petición de Servicio,1,Medio,Nivel 3,2025-09-02
+INC-D9199C59,Alta,450.19,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-26
+INC-32F8D136,Alta,337.74,Petición de Servicio,1,Alto,Nivel 3,2025-10-03
+INC-557F9554,Media,793.57,Error de Aplicación,1,Medio,Nivel 3,2025-05-25
+INC-58C6B670,Media,105.07,Petición de Servicio,1,Medio,Nivel 3,2025-06-24
+INC-D0EF1A1C,Baja,2117.5,Petición de Servicio,1,Bajo,Nivel 3,2025-06-03
+INC-0A589698,Baja,1832.54,Petición de Servicio,1,Bajo,Nivel 3,2025-08-19
+INC-5DB5D8D3,Baja,797.12,Falla de Hardware,1,Bajo,Nivel 3,2025-06-12
+INC-DECD2282,Media,965.85,Error de Aplicación,1,Medio,Nivel 3,2025-05-07
+INC-60FA43D9,Media,1400.19,Petición de Servicio,1,Medio,Nivel 3,2025-07-07
+INC-655B3782,Media,835.82,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-07-24
+INC-5E63F003,Baja,3121.96,Error de Aplicación,1,Bajo,Nivel 3,2025-09-11
+INC-65B4060B,Alta,60.8,Error de Aplicación,1,Alto,Nivel 3,2025-05-01
+INC-E1174530,Baja,1874.2,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-24
+INC-F9181B49,Media,220.57,Petición de Servicio,1,Medio,Nivel 3,2025-10-12
+INC-6AC8A11B,Media,905.66,Falla de Hardware,1,Medio,Nivel 3,2025-07-01
+INC-1F1CCC9D,Baja,4061.63,Falla de Hardware,1,Bajo,Nivel 3,2025-06-17
+INC-70FDBBF6,Media,973.25,Falla de Hardware,1,Medio,Nivel 3,2025-08-13
+INC-FC9DF978,Baja,442.57,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-05-23
+INC-68112DFD,Baja,1609.6,Petición de Servicio,1,Bajo,Nivel 3,2025-08-28
+INC-671ED8A2,Media,819.92,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-B728784F,Media,616.43,Error de Aplicación,1,Medio,Nivel 3,2025-04-24
+INC-C1603F04,Media,1210.43,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-20
+INC-9068CBD8,Baja,3541.62,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-07
+INC-2CC7BDA8,Alta,305.32,Falla de Hardware,1,Alto,Nivel 3,2025-09-22
+INC-5D18F570,Media,575.37,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-12
+INC-06F788C4,Media,412.36,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-11
+INC-33D334FC,Baja,564.67,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-06
+INC-F797DC62,Alta,189.7,Error de Aplicación,1,Alto,Nivel 3,2025-09-26
+INC-0F15FEF8,Baja,1855.32,Falla de Hardware,1,Bajo,Nivel 3,2025-10-10
+INC-88674FCC,Baja,2958.46,Petición de Servicio,1,Bajo,Nivel 3,2025-05-29
+INC-D76C6C64,Alta,326.17,Error de Aplicación,1,Alto,Nivel 3,2025-10-02
+INC-F91E8C08,Alta,61.55,Petición de Servicio,1,Alto,Nivel 3,2025-05-23
+INC-809575A3,Baja,1780.09,Falla de Hardware,1,Bajo,Nivel 3,2025-05-28
+INC-59C728F2,Alta,111.8,Error de Aplicación,1,Alto,Nivel 3,2025-10-08
+INC-9B52ECA0,Baja,778.61,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-17
+INC-05899685,Media,1201.68,Error de Aplicación,1,Medio,Nivel 3,2025-06-16
+INC-C49E32FC,Alta,48.86,Error de Aplicación,1,Alto,Nivel 3,2025-09-05
+INC-3938C498,Baja,1880.57,Falla de Hardware,1,Bajo,Nivel 3,2025-06-23
+INC-97D13A61,Media,292.12,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-08
+INC-B587DBDA,Media,1273.48,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-09
+INC-EB6C72C8,Media,828.72,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-05-20
+INC-E6502330,Media,379.31,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-01
+INC-83306751,Alta,256.09,Petición de Servicio,1,Alto,Nivel 3,2025-07-22
+INC-9BC8E6D2,Media,1069.45,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-15
+INC-2B7879C5,Baja,4144.1,Falla de Hardware,1,Bajo,Nivel 3,2025-09-11
+INC-AB7CEAB6,Media,364.22,Error de Aplicación,1,Medio,Nivel 3,2025-05-16
+INC-1A83EF68,Media,1282.93,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-13
+INC-11975D22,Media,1349.34,Error de Aplicación,1,Medio,Nivel 3,2025-04-23
+INC-C13ACC6F,Baja,3968.97,Falla de Hardware,1,Bajo,Nivel 3,2025-05-22
+INC-85DABDFC,Alta,315.94,Error de Aplicación,1,Alto,Nivel 3,2025-05-24
+INC-AAAE9033,Baja,2765.25,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-07
+INC-9079BDCF,Media,616.43,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-06
+INC-662D1570,Alta,368.58,Petición de Servicio,1,Alto,Nivel 3,2025-10-07
+INC-A111ECA7,Alta,269.08,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-14
+INC-EC1028FE,Alta,334.85,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-03
+INC-E12043A3,Media,651.27,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-05
+INC-7D9BEB42,Media,1069.47,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-09-06
+INC-EDAB0D6A,Baja,3582.78,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-18
+INC-EEC50549,Media,262.08,Falla de Hardware,1,Medio,Nivel 3,2025-08-01
+INC-08601295,Alta,404.82,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-20
+INC-FC146BA0,Media,805.61,Error de Aplicación,1,Medio,Nivel 3,2025-06-04
+INC-B1E3E203,Baja,3667.6,Falla de Hardware,1,Bajo,Nivel 3,2025-05-07
+INC-A5EA7219,Alta,224.09,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-01
+INC-BDF9C81C,Alta,200.57,Error de Aplicación,1,Alto,Nivel 3,2025-04-30
+INC-52269E4A,Alta,441.78,Error de Aplicación,1,Alto,Nivel 3,2025-05-28
+INC-E0B601F5,Baja,1174.91,Error de Aplicación,1,Bajo,Nivel 3,2025-05-01
+INC-51C0F74B,Media,1225.01,Error de Aplicación,1,Medio,Nivel 3,2025-06-18
+INC-6CE1AE10,Media,727.95,Falla de Hardware,1,Medio,Nivel 3,2025-05-13
+INC-2D5C6268,Baja,2279.2,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-18
+INC-93E82976,Baja,1415.57,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-30
+INC-91821E32,Media,850.8,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-08
+INC-429BF3B7,Baja,1485.89,Petición de Servicio,1,Bajo,Nivel 3,2025-06-07
+INC-5BB5E1BD,Alta,47.67,Falla de Hardware,1,Alto,Nivel 3,2025-06-18
+INC-661A41D9,Alta,152.4,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-12
+INC-0A3A7D26,Media,68.8,Falla de Hardware,1,Medio,Nivel 3,2025-08-14
+INC-547B8244,Alta,470.26,Falla de Hardware,1,Alto,Nivel 3,2025-06-07
+INC-78C9D561,Media,1392.73,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-01
+INC-72D8744E,Baja,1779.65,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-29
+INC-0736B2D5,Alta,357.77,Petición de Servicio,1,Alto,Nivel 3,2025-08-29
+INC-2BDC0D18,Alta,185.61,Petición de Servicio,1,Alto,Nivel 3,2025-08-11
+INC-35F36C3B,Media,986.11,Petición de Servicio,1,Medio,Nivel 3,2025-10-03
+INC-8B7AE591,Baja,3502.81,Error de Aplicación,1,Bajo,Nivel 3,2025-04-20
+INC-17101691,Media,1366.52,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-08-27
+INC-3DF72B88,Media,612.29,Error de Aplicación,1,Medio,Nivel 3,2025-07-05
+INC-7D3685F8,Alta,382.48,Error de Aplicación,1,Alto,Nivel 3,2025-05-27
+INC-CFA81E8E,Alta,149.67,Error de Aplicación,1,Alto,Nivel 3,2025-08-26
+INC-DDE08DFB,Baja,4279.4,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-18
+INC-C92F43D3,Baja,228.23,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-12
+INC-B0EC9CE1,Alta,301.59,Falla de Hardware,1,Alto,Nivel 3,2025-05-29
+INC-7D566E6D,Baja,2889.93,Falla de Hardware,1,Bajo,Nivel 3,2025-07-07
+INC-06489208,Media,1009.5,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-02
+INC-9B3400F5,Baja,625.63,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-31
+INC-56C69BB9,Media,1355.17,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-19
+INC-3FFA2842,Media,310.03,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-8B222FDF,Media,919.4,Falla de Hardware,1,Medio,Nivel 3,2025-07-07
+INC-4B7DB6EB,Media,367.29,Error de Aplicación,1,Medio,Nivel 3,2025-07-08
+INC-7EE70BAB,Alta,168.25,Petición de Servicio,1,Alto,Nivel 3,2025-08-25
+INC-929937ED,Alta,275.91,Petición de Servicio,1,Alto,Nivel 3,2025-06-28
+INC-948465D4,Media,635.73,Petición de Servicio,1,Medio,Nivel 3,2025-07-25
+INC-7CE415A0,Baja,792.95,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-04
+INC-90B13F15,Alta,106.92,Petición de Servicio,1,Alto,Nivel 3,2025-09-08
+INC-E05BB22B,Media,637.04,Petición de Servicio,1,Medio,Nivel 3,2025-06-18
+INC-964094FD,Baja,3300.59,Error de Aplicación,1,Bajo,Nivel 3,2025-06-10
+INC-319513AD,Alta,434.08,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-14
+INC-14A81468,Media,176.1,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-20
+INC-A30B9FF7,Media,602.48,Falla de Hardware,1,Medio,Nivel 3,2025-07-30
+INC-653885B7,Baja,541.03,Error de Aplicación,1,Bajo,Nivel 3,2025-07-30
+INC-3A5B34AD,Alta,37.47,Petición de Servicio,1,Alto,Nivel 3,2025-06-24
+INC-BD9078B9,Media,973.17,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-05-01
+INC-98D54331,Baja,2650.29,Error de Aplicación,1,Bajo,Nivel 3,2025-10-08
+INC-5FF76F3F,Baja,804.68,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-19
+INC-6BD91A67,Media,382.66,Petición de Servicio,1,Medio,Nivel 3,2025-09-19
+INC-0E014D8A,Media,92.72,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-19
+INC-7BB514E7,Media,1212.23,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-07-27
+INC-96117A34,Baja,4213.7,Error de Aplicación,1,Bajo,Nivel 3,2025-04-20
+INC-E5AD1335,Media,246.93,Falla de Hardware,1,Medio,Nivel 3,2025-07-13
+INC-054EA217,Alta,134.16,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-22
+INC-3C49FDCF,Baja,3767.32,Petición de Servicio,1,Bajo,Nivel 3,2025-05-31
+INC-DC1C2E0B,Media,1338.52,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-31
+INC-3B4C3702,Media,639.09,Falla de Hardware,1,Medio,Nivel 3,2025-06-30
+INC-B7ABEB03,Alta,52.78,Falla de Hardware,1,Alto,Nivel 3,2025-09-28
+INC-149D3648,Media,114.36,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-25
+INC-DE583F8F,Media,852.05,Error de Aplicación,1,Medio,Nivel 3,2025-09-08
+INC-907E7377,Media,602.2,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-12
+INC-A3D2B568,Alta,42.89,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-20
+INC-C21669A9,Media,864.89,Error de Aplicación,1,Medio,Nivel 3,2025-08-25
+INC-51335C76,Baja,167.47,Error de Aplicación,1,Bajo,Nivel 3,2025-05-12
+INC-5254D04B,Alta,384.32,Error de Aplicación,1,Alto,Nivel 3,2025-09-22
+INC-7CC61B46,Baja,1407.02,Falla de Hardware,1,Bajo,Nivel 3,2025-05-12
+INC-D0DC62D9,Media,115.56,Falla de Hardware,1,Medio,Nivel 3,2025-05-09
+INC-D8ADAA89,Baja,2591.08,Petición de Servicio,1,Bajo,Nivel 3,2025-05-16
+INC-0BF0BA25,Baja,1790.27,Petición de Servicio,1,Bajo,Nivel 3,2025-04-26
+INC-B6984381,Media,1403.84,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-27
+INC-C43DFBDC,Baja,2405.63,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-19
+INC-583EA3DA,Baja,1276.0,Petición de Servicio,1,Bajo,Nivel 3,2025-09-13
+INC-1BF65EA2,Media,1039.03,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-09-06
+INC-740590FB,Media,434.66,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-17
+INC-58DDF7E5,Media,1307.86,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-30
+INC-4CBE792B,Baja,1693.83,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-29
+INC-DD3A1B85,Baja,2429.45,Error de Aplicación,1,Bajo,Nivel 3,2025-09-11
+INC-ED12F171,Baja,332.41,Falla de Hardware,1,Bajo,Nivel 3,2025-07-30
+INC-CA5F870A,Media,648.05,Petición de Servicio,1,Medio,Nivel 3,2025-06-02
+INC-CC7C4C77,Baja,3615.93,Falla de Hardware,1,Bajo,Nivel 3,2025-07-12
+INC-3534C6F7,Alta,392.54,Petición de Servicio,1,Alto,Nivel 3,2025-06-08
+INC-165303AB,Media,369.56,Falla de Hardware,1,Medio,Nivel 3,2025-08-23
+INC-4050FB05,Alta,131.74,Petición de Servicio,1,Alto,Nivel 3,2025-04-18
+INC-C7A9EB2B,Media,1187.88,Falla de Hardware,1,Medio,Nivel 3,2025-06-13
+INC-884BE7BD,Media,1343.95,Error de Aplicación,1,Medio,Nivel 3,2025-09-10
+INC-8575FE28,Media,191.6,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-06-27
+INC-345D4B75,Media,681.08,Petición de Servicio,1,Medio,Nivel 3,2025-09-03
+INC-23053631,Media,525.69,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-17
+INC-175DB66D,Media,1261.55,Petición de Servicio,1,Medio,Nivel 3,2025-05-13
+INC-D9A12C30,Alta,67.59,Petición de Servicio,1,Alto,Nivel 3,2025-05-15
+INC-DCE822C2,Media,351.35,Error de Aplicación,1,Medio,Nivel 3,2025-05-01
+INC-12624819,Alta,368.61,Falla de Hardware,1,Alto,Nivel 3,2025-10-07
+INC-6B799137,Alta,53.08,Petición de Servicio,1,Alto,Nivel 3,2025-08-23
+INC-96D6BA74,Media,739.7,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-06-15
+INC-EF1AC433,Media,670.11,Error de Aplicación,1,Medio,Nivel 3,2025-08-01
+INC-DDB48466,Media,521.47,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-19
+INC-600BED04,Media,604.51,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-09
+INC-DD658B36,Media,791.32,Petición de Servicio,1,Medio,Nivel 3,2025-09-09
+INC-1790C66C,Baja,797.74,Error de Aplicación,1,Bajo,Nivel 3,2025-06-07
+INC-FA467C57,Media,849.35,Falla de Hardware,1,Medio,Nivel 3,2025-06-15
+INC-3012D3DA,Media,1171.5,Petición de Servicio,1,Medio,Nivel 3,2025-05-20
+INC-30E8D540,Alta,372.07,Falla de Hardware,1,Alto,Nivel 3,2025-07-21
+INC-6BD0B0A7,Media,272.38,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-14
+INC-C519F1DC,Media,265.96,Petición de Servicio,1,Medio,Nivel 3,2025-06-15
+INC-5065149D,Media,430.08,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-17
+INC-028F4C6D,Media,558.28,Petición de Servicio,1,Medio,Nivel 3,2025-05-05
+INC-E30DC91A,Media,623.67,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-05
+INC-087ACE55,Media,997.98,Falla de Hardware,1,Medio,Nivel 3,2025-05-08
+INC-25594B5C,Baja,358.06,Petición de Servicio,1,Bajo,Nivel 3,2025-09-24
+INC-7E6E9459,Baja,265.63,Error de Aplicación,1,Bajo,Nivel 3,2025-09-29
+INC-92E7BFA7,Baja,1766.02,Error de Aplicación,1,Bajo,Nivel 3,2025-08-22
+INC-3EDB1FE5,Baja,3048.09,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-21
+INC-F28D12C6,Alta,117.05,Error de Aplicación,1,Alto,Nivel 3,2025-08-01
+INC-7AA00A17,Alta,318.68,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-22
+INC-D62E17B6,Alta,146.92,Falla de Hardware,1,Alto,Nivel 3,2025-07-08
+INC-FADC6573,Media,1282.8,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-01
+INC-9B859B8B,Baja,3881.9,Falla de Hardware,1,Bajo,Nivel 3,2025-09-06
+INC-81C64DED,Alta,163.78,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-09-02
+INC-128CEE55,Baja,1085.97,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-05
+INC-9E616ED1,Alta,215.09,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-15
+INC-AA34AE2D,Baja,1130.23,Error de Aplicación,1,Bajo,Nivel 3,2025-05-10
+INC-27A62401,Media,987.89,Error de Aplicación,1,Medio,Nivel 3,2025-07-02
+INC-A5CD6137,Alta,401.73,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-26
+INC-9EECF43D,Media,988.87,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-26
+INC-F8B29468,Media,1197.6,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-04-29
+INC-B59A168D,Media,607.85,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-23
+INC-766C6398,Media,275.72,Error de Aplicación,1,Medio,Nivel 3,2025-08-14
+INC-DD205C3A,Baja,3219.39,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-23
+INC-4E91EA31,Media,557.45,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-03
+INC-7E3CC1E7,Media,986.35,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-17
+INC-9DEA4D27,Media,433.49,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-15
+INC-E872C0AD,Baja,461.16,Falla de Hardware,1,Bajo,Nivel 3,2025-09-03
+INC-09B79FA5,Media,1429.76,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-12
+INC-E9505806,Media,275.56,Petición de Servicio,1,Medio,Nivel 3,2025-09-02
+INC-7442D864,Alta,474.79,Petición de Servicio,1,Alto,Nivel 3,2025-05-30
+INC-A021462F,Alta,469.78,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-09
+INC-1FD0746B,Media,1155.47,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-02
+INC-C3E0770F,Alta,326.74,Petición de Servicio,1,Alto,Nivel 3,2025-05-30
+INC-4B0B7B69,Media,857.37,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-03
+INC-A515E131,Baja,3757.63,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-25
+INC-5F1AD5E8,Alta,160.25,Error de Aplicación,1,Alto,Nivel 3,2025-05-11
+INC-C266B954,Media,705.4,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-08-26
+INC-E3FAB1F1,Media,914.76,Error de Aplicación,1,Medio,Nivel 3,2025-08-10
+INC-EAAAC40C,Baja,1847.0,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-13
+INC-20147D94,Media,649.93,Petición de Servicio,1,Medio,Nivel 3,2025-09-07
+INC-4B14ACD6,Baja,1507.2,Falla de Hardware,1,Bajo,Nivel 3,2025-04-26
+INC-35DE3BB3,Media,838.64,Petición de Servicio,1,Medio,Nivel 3,2025-08-03
+INC-32EF3567,Alta,412.76,Petición de Servicio,1,Alto,Nivel 3,2025-05-21
+INC-27AC2843,Media,338.11,Error de Aplicación,1,Medio,Nivel 3,2025-08-28
+INC-0B738F3C,Baja,4044.62,Error de Aplicación,1,Bajo,Nivel 3,2025-05-05
+INC-2CF49417,Media,1010.94,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-24
+INC-B0305421,Baja,3577.75,Falla de Hardware,1,Bajo,Nivel 3,2025-04-26
+INC-0A101828,Baja,2456.0,Error de Aplicación,1,Bajo,Nivel 3,2025-09-29
+INC-9F81DB50,Alta,380.78,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-15
+INC-437B6FE1,Alta,37.29,Falla de Hardware,1,Alto,Nivel 3,2025-05-01
+INC-C5D73734,Media,1189.36,Error de Aplicación,1,Medio,Nivel 3,2025-07-12
+INC-C7AFAFBC,Media,115.39,Petición de Servicio,1,Medio,Nivel 3,2025-05-09
+INC-DFE5785D,Baja,3857.64,Petición de Servicio,1,Bajo,Nivel 3,2025-06-01
+INC-9A94DB25,Baja,4286.24,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-05-14
+INC-7D11F303,Media,465.81,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-C64CF70C,Alta,124.64,Error de Aplicación,1,Alto,Nivel 3,2025-04-26
+INC-EBD43D98,Baja,3334.53,Error de Aplicación,1,Bajo,Nivel 3,2025-10-08
+INC-5B3A663F,Media,409.18,Falla de Hardware,1,Medio,Nivel 3,2025-04-20
+INC-CB2020D7,Baja,3755.36,Falla de Hardware,1,Bajo,Nivel 3,2025-06-10
+INC-5E6EC7DD,Media,201.92,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-21
+INC-CDAB9188,Media,233.82,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-22
+INC-7B1F4339,Alta,470.62,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-29
+INC-7E85B4F9,Media,989.9,Petición de Servicio,1,Medio,Nivel 3,2025-06-10
+INC-572097DB,Media,1228.7,Petición de Servicio,1,Medio,Nivel 3,2025-05-17
+INC-A057BB8A,Media,507.57,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-29
+INC-AF51977D,Alta,334.42,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-05
+INC-B416709D,Baja,2615.82,Falla de Hardware,1,Bajo,Nivel 3,2025-09-19
+INC-EB3AB3C7,Baja,2653.23,Petición de Servicio,1,Bajo,Nivel 3,2025-07-06
+INC-3831F310,Alta,337.14,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-19
+INC-654A4F03,Alta,288.91,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-10
+INC-3406E49B,Alta,223.08,Error de Aplicación,1,Alto,Nivel 3,2025-07-12
+INC-BFAA9DF4,Media,440.77,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-06
+INC-89DFC95B,Media,1120.64,Petición de Servicio,1,Medio,Nivel 3,2025-04-29
+INC-C31F064F,Media,372.26,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-02
+INC-588900CD,Alta,341.56,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-29
+INC-71511D3B,Media,382.0,Falla de Hardware,1,Medio,Nivel 3,2025-09-02
+INC-1D58EF0F,Media,922.96,Petición de Servicio,1,Medio,Nivel 3,2025-10-09
+INC-BE2744C9,Media,1090.97,Falla de Hardware,1,Medio,Nivel 3,2025-09-06
+INC-3EFEAC47,Baja,1038.6,Error de Aplicación,1,Bajo,Nivel 3,2025-09-08
+INC-CA39BEBC,Alta,56.97,Falla de Hardware,1,Alto,Nivel 3,2025-06-05
+INC-2B25B0E9,Media,240.74,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-14
+INC-047BF5D7,Media,896.28,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-20
+INC-6B5B0F7D,Media,1232.24,Falla de Hardware,1,Medio,Nivel 3,2025-05-08
+INC-6228264F,Baja,308.99,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-13
+INC-A602210D,Media,1073.13,Petición de Servicio,1,Medio,Nivel 3,2025-07-26
+INC-068E93AF,Baja,1553.54,Petición de Servicio,1,Bajo,Nivel 3,2025-05-25
+INC-9ED8FDF0,Alta,245.34,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-20
+INC-3970D445,Alta,447.99,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-22
+INC-3B7EE91B,Baja,1514.28,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-30
+INC-124DE2E9,Media,702.16,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-03
+INC-2DC142DD,Media,78.88,Error de Aplicación,1,Medio,Nivel 3,2025-05-26
+INC-D98568FC,Alta,66.72,Error de Aplicación,1,Alto,Nivel 3,2025-07-22
+INC-1124BF2F,Alta,146.37,Error de Aplicación,1,Alto,Nivel 3,2025-09-03
+INC-69B3A06E,Baja,236.98,Petición de Servicio,1,Bajo,Nivel 3,2025-08-24
+INC-01FB7E3B,Alta,314.12,Petición de Servicio,1,Alto,Nivel 3,2025-09-19
+INC-EB578E74,Media,648.43,Error de Aplicación,1,Medio,Nivel 3,2025-06-29
+INC-3D68D3A3,Alta,276.67,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-11
+INC-793032F2,Media,301.01,Falla de Hardware,1,Medio,Nivel 3,2025-07-15
+INC-1820C0DC,Alta,163.17,Error de Aplicación,1,Alto,Nivel 3,2025-06-22
+INC-A177E7B1,Media,976.08,Falla de Hardware,1,Medio,Nivel 3,2025-07-01
+INC-9C759D82,Alta,464.39,Error de Aplicación,1,Alto,Nivel 3,2025-07-17
+INC-A3BC0D80,Baja,331.75,Falla de Hardware,1,Bajo,Nivel 3,2025-04-26
+INC-457642E5,Alta,430.67,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-11
+INC-B647C9FE,Media,856.1,Petición de Servicio,1,Medio,Nivel 3,2025-07-27
+INC-299536C1,Baja,2488.46,Error de Aplicación,1,Bajo,Nivel 3,2025-08-02
+INC-1BF440D0,Media,750.38,Error de Aplicación,1,Medio,Nivel 3,2025-09-28
+INC-F840C711,Media,155.76,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-16
+INC-EDED15F0,Media,184.03,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-04
+INC-2FFCA6A3,Media,889.26,Error de Aplicación,1,Medio,Nivel 3,2025-07-11
+INC-5F88D545,Media,530.52,Falla de Hardware,1,Medio,Nivel 3,2025-08-01
+INC-2DD54047,Baja,3972.53,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-01
+INC-69AB4545,Media,621.09,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-26
+INC-49B5D35C,Media,257.73,Error de Aplicación,1,Medio,Nivel 3,2025-08-02
+INC-6C0D7A4C,Baja,3121.82,Error de Aplicación,1,Bajo,Nivel 3,2025-06-15
+INC-59F12D20,Media,464.83,Petición de Servicio,1,Medio,Nivel 3,2025-06-03
+INC-1B3251B8,Alta,266.46,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-11
+INC-A419612F,Media,1023.01,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-31
+INC-72477CE3,Baja,3901.11,Falla de Hardware,1,Bajo,Nivel 3,2025-09-10
+INC-71C28B57,Alta,386.49,Error de Aplicación,1,Alto,Nivel 3,2025-05-19
+INC-C068EFBA,Media,993.38,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-30
+INC-74DFBA57,Alta,335.83,Petición de Servicio,1,Alto,Nivel 3,2025-09-28
+INC-3691E54E,Media,1365.38,Error de Aplicación,1,Medio,Nivel 3,2025-08-06
+INC-473F2FE1,Alta,163.12,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-14
+INC-7BFC39B9,Media,61.53,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-22
+INC-D214674D,Baja,1262.21,Falla de Hardware,1,Bajo,Nivel 3,2025-07-06
+INC-AFD29EA9,Media,360.69,Petición de Servicio,1,Medio,Nivel 3,2025-07-13
+INC-C8785EF2,Media,973.33,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-12
+INC-AA55B736,Baja,2781.59,Error de Aplicación,1,Bajo,Nivel 3,2025-08-24
+INC-5E8EEDCF,Baja,2612.54,Falla de Hardware,1,Bajo,Nivel 3,2025-05-17
+INC-B6744741,Alta,37.31,Error de Aplicación,1,Alto,Nivel 3,2025-08-02
+INC-1977B58A,Media,1065.71,Error de Aplicación,1,Medio,Nivel 3,2025-05-16
+INC-4F4344BA,Alta,175.59,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-05
+INC-383E17F7,Baja,2913.24,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-28
+INC-D7B448B0,Baja,2457.63,Error de Aplicación,1,Bajo,Nivel 3,2025-06-06
+INC-1303201A,Media,532.97,Petición de Servicio,1,Medio,Nivel 3,2025-08-15
+INC-C1116003,Baja,685.22,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-10
+INC-6C2EEA70,Media,190.3,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-15
+INC-100BF171,Media,1207.5,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-15
+INC-1782B16C,Alta,443.28,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-02
+INC-F6C4A305,Baja,2849.11,Falla de Hardware,1,Bajo,Nivel 3,2025-04-29
+INC-245BCA3C,Alta,76.55,Error de Aplicación,1,Alto,Nivel 3,2025-07-16
+INC-0E8EED3A,Baja,1808.51,Falla de Hardware,1,Bajo,Nivel 3,2025-06-29
+INC-81C588DF,Baja,3181.54,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-06
+INC-336F4957,Baja,3395.25,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-27
+INC-FDE2AC37,Alta,83.2,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-28
+INC-56240CFA,Media,60.04,Falla de Hardware,1,Medio,Nivel 3,2025-06-26
+INC-B1F36B69,Media,1042.75,Error de Aplicación,1,Medio,Nivel 3,2025-07-03
+INC-41D64A45,Media,552.1,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-14
+INC-FD27DEC0,Alta,144.52,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-24
+INC-538DC725,Baja,174.17,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-15
+INC-0011A159,Media,805.61,Petición de Servicio,1,Medio,Nivel 3,2025-05-29
+INC-68DE1357,Media,1234.59,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-24
+INC-3E227324,Media,1381.53,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-29
+INC-7411DCDC,Media,840.73,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-05
+INC-DD602939,Media,769.96,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-21
+INC-294F6260,Media,177.38,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-09
+INC-2FC8A835,Baja,2425.27,Petición de Servicio,1,Bajo,Nivel 3,2025-06-01
+INC-B8100671,Media,584.37,Falla de Hardware,1,Medio,Nivel 3,2025-05-01
+INC-B88D6708,Baja,2669.97,Petición de Servicio,1,Bajo,Nivel 3,2025-08-24
+INC-ED2D9782,Baja,1752.65,Error de Aplicación,1,Bajo,Nivel 3,2025-06-16
+INC-23524C9E,Alta,138.13,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-09
+INC-E934DE42,Baja,518.85,Petición de Servicio,1,Bajo,Nivel 3,2025-06-19
+INC-614DB8B5,Alta,171.71,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-07
+INC-DEE43AAF,Baja,525.91,Error de Aplicación,1,Bajo,Nivel 3,2025-09-27
+INC-239BF676,Media,304.12,Petición de Servicio,1,Medio,Nivel 3,2025-06-24
+INC-75E9CB97,Baja,4266.81,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-22
+INC-83358CE1,Baja,1985.23,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-08
+INC-462BF897,Baja,2353.86,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-08
+INC-54D70225,Baja,3789.2,Error de Aplicación,1,Bajo,Nivel 3,2025-04-18
+INC-A078ABA1,Media,1433.89,Petición de Servicio,1,Medio,Nivel 3,2025-10-05
+INC-AEC7D528,Alta,292.22,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-03
+INC-69D327E6,Media,1181.21,Error de Aplicación,1,Medio,Nivel 3,2025-05-14
+INC-CA2BC863,Alta,177.12,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-09
+INC-3E915DC6,Media,481.93,Petición de Servicio,1,Medio,Nivel 3,2025-06-22
+INC-AE6C4191,Media,615.73,Petición de Servicio,1,Medio,Nivel 3,2025-09-27
+INC-2270CB4B,Baja,2944.53,Error de Aplicación,1,Bajo,Nivel 3,2025-07-27
+INC-90188C85,Media,1001.42,Petición de Servicio,1,Medio,Nivel 3,2025-08-14
+INC-82B1AC18,Baja,1444.01,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-16
+INC-471C385E,Alta,89.94,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-03
+INC-C6FFD765,Baja,2776.06,Petición de Servicio,1,Bajo,Nivel 3,2025-09-30
+INC-FD559F64,Baja,658.97,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-02
+INC-F3304C2B,Media,858.32,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-07
+INC-78002382,Media,1016.92,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-21
+INC-8059C120,Baja,3062.57,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-17
+INC-2159A00B,Alta,369.06,Error de Aplicación,1,Alto,Nivel 3,2025-09-22
+INC-2716C844,Media,1264.55,Falla de Hardware,1,Medio,Nivel 3,2025-08-15
+INC-3CC7DB06,Media,749.94,Petición de Servicio,1,Medio,Nivel 3,2025-08-10
+INC-591B2C3E,Alta,358.61,Error de Aplicación,1,Alto,Nivel 3,2025-09-17
+INC-CE8ABDD6,Media,914.46,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-13
+INC-3B736419,Alta,113.99,Falla de Hardware,1,Alto,Nivel 3,2025-09-12
+INC-757BC11B,Alta,41.56,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-17
+INC-459EFB7A,Alta,158.04,Falla de Hardware,1,Alto,Nivel 3,2025-09-28
+INC-88E8E490,Baja,1980.74,Error de Aplicación,1,Bajo,Nivel 3,2025-07-02
+INC-2F692C63,Media,911.61,Falla de Hardware,1,Medio,Nivel 3,2025-07-10
+INC-01D334AA,Baja,3689.83,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-01
+INC-9B819C6F,Media,330.82,Error de Aplicación,1,Medio,Nivel 3,2025-08-31
+INC-EAF50C66,Media,233.26,Petición de Servicio,1,Medio,Nivel 3,2025-09-08
+INC-79FCF24B,Media,1389.6,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-02
+INC-33B7BB92,Media,209.1,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-14
+INC-7E779440,Alta,245.32,Petición de Servicio,1,Alto,Nivel 3,2025-06-09
+INC-7415C1B0,Media,868.08,Falla de Hardware,1,Medio,Nivel 3,2025-07-11
+INC-3514E3EA,Alta,273.62,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-28
+INC-2BF6736D,Media,178.72,Petición de Servicio,1,Medio,Nivel 3,2025-04-22
+INC-041B15FC,Media,138.7,Error de Aplicación,1,Medio,Nivel 3,2025-06-08
+INC-780FE16B,Alta,77.47,Falla de Hardware,1,Alto,Nivel 3,2025-09-07
+INC-6EEE19E3,Alta,293.51,Petición de Servicio,1,Alto,Nivel 3,2025-07-15
+INC-4A41DA18,Baja,2406.25,Falla de Hardware,1,Bajo,Nivel 3,2025-04-21
+INC-3C43E285,Media,382.56,Petición de Servicio,1,Medio,Nivel 3,2025-06-28
+INC-2C23177D,Alta,317.0,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-10-07
+INC-AB22E56E,Baja,3564.28,Error de Aplicación,1,Bajo,Nivel 3,2025-04-30
+INC-81A92945,Alta,48.71,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-05
+INC-9C0D80F1,Media,747.42,Petición de Servicio,1,Medio,Nivel 3,2025-07-31
+INC-DC2E187E,Baja,3015.1,Falla de Hardware,1,Bajo,Nivel 3,2025-06-07
+INC-612F5F21,Alta,143.54,Error de Aplicación,1,Alto,Nivel 3,2025-08-10
+INC-BA1EE3D7,Alta,168.5,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-12
+INC-38E22666,Alta,306.14,Falla de Hardware,1,Alto,Nivel 3,2025-06-08
+INC-E5ED6B90,Media,1299.15,Error de Aplicación,1,Medio,Nivel 3,2025-08-03
+INC-F5817B29,Alta,394.47,Falla de Hardware,1,Alto,Nivel 3,2025-05-15
+INC-A6E5CF09,Media,864.72,Error de Aplicación,1,Medio,Nivel 3,2025-05-05
+INC-EAC85833,Alta,358.6,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-02
+INC-6F9210A3,Media,563.46,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-30
+INC-BC654CF5,Baja,2812.06,Falla de Hardware,1,Bajo,Nivel 3,2025-05-09
+INC-CA95B3F5,Baja,2077.96,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-08-11
+INC-F067929B,Media,322.11,Petición de Servicio,1,Medio,Nivel 3,2025-07-31
+INC-537ED839,Media,1028.4,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-26
+INC-C407EA6E,Media,827.92,Petición de Servicio,1,Medio,Nivel 3,2025-06-08
+INC-B33A739F,Media,554.9,Petición de Servicio,1,Medio,Nivel 3,2025-07-21
+INC-0AEB4331,Media,1317.65,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-21
+INC-F227C502,Alta,39.42,Falla de Hardware,1,Alto,Nivel 3,2025-05-02
+INC-C6655380,Baja,1446.25,Falla de Hardware,1,Bajo,Nivel 3,2025-05-03
+INC-69D781DB,Media,138.5,Falla de Hardware,1,Medio,Nivel 3,2025-09-23
+INC-14FD6C10,Alta,374.94,Error de Aplicación,1,Alto,Nivel 3,2025-07-27
+INC-3FCFCF16,Media,1028.91,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-13
+INC-5ABDFB3B,Media,517.27,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-06
+INC-510FE795,Baja,2957.78,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-06
+INC-5F1F4340,Baja,1782.94,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-14
+INC-B983BD48,Baja,3296.27,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-05
+INC-286E180C,Alta,234.38,Petición de Servicio,1,Alto,Nivel 3,2025-04-17
+INC-8AC95EA6,Media,628.95,Falla de Hardware,1,Medio,Nivel 3,2025-06-13
+INC-0D6D9B23,Media,1349.93,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-07-18
+INC-F10E215B,Alta,142.9,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-10-05
+INC-938DEF0C,Media,226.22,Error de Aplicación,1,Medio,Nivel 3,2025-04-22
+INC-E82C3E49,Baja,2575.08,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-08-02
+INC-10F8FB73,Alta,466.19,Falla de Hardware,1,Alto,Nivel 3,2025-07-28
+INC-578634BB,Media,581.42,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-05
+INC-14B83784,Alta,57.92,Petición de Servicio,1,Alto,Nivel 3,2025-08-12
+INC-E1B71707,Alta,182.69,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-04
+INC-AA34728C,Alta,257.67,Petición de Servicio,1,Alto,Nivel 3,2025-07-13
+INC-AF7B0C77,Baja,800.08,Falla de Hardware,1,Bajo,Nivel 3,2025-05-06
+INC-67DAB2FE,Baja,2884.03,Falla de Hardware,1,Bajo,Nivel 3,2025-04-30
+INC-16757A51,Baja,4310.55,Petición de Servicio,1,Bajo,Nivel 3,2025-08-27
+INC-CC983611,Media,683.4,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-02
+INC-6314C358,Alta,189.63,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-05-26
+INC-0D24FBD4,Media,612.97,Falla de Hardware,1,Medio,Nivel 3,2025-05-20
+INC-A33EB1BB,Media,218.9,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-18
+INC-D52166DD,Baja,3829.75,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-31
+INC-9F4C85BD,Alta,216.67,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-05
+INC-8B75D487,Media,594.44,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-26
+INC-7F2E5199,Alta,326.86,Error de Aplicación,1,Alto,Nivel 3,2025-09-18
+INC-40AEFAB9,Media,670.01,Petición de Servicio,1,Medio,Nivel 3,2025-07-03
+INC-3FD0BE67,Baja,2842.58,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-07-03
+INC-64057A76,Media,144.8,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-05
+INC-2AAD54CF,Media,1182.94,Error de Aplicación,1,Medio,Nivel 3,2025-05-19
+INC-86B2DFBC,Media,1357.9,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-19
+INC-9BA1B872,Media,955.3,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-30
+INC-D4D4C6B1,Baja,4129.18,Petición de Servicio,1,Bajo,Nivel 3,2025-05-06
+INC-526C2324,Baja,756.02,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-05
+INC-FC3432B9,Baja,2125.15,Falla de Hardware,1,Bajo,Nivel 3,2025-09-27
+INC-3379D456,Baja,2647.59,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-23
+INC-9925A40D,Media,862.8,Error de Aplicación,1,Medio,Nivel 3,2025-09-23
+INC-8198128F,Media,614.02,Falla de Hardware,1,Medio,Nivel 3,2025-09-30
+INC-11F7A1C9,Media,526.56,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-10
+INC-0193D34D,Media,235.02,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-06-25
+INC-6B7FD440,Baja,1765.32,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-06
+INC-71593486,Alta,103.2,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-29
+INC-579CB76C,Baja,3204.34,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-09
+INC-3FEED0AC,Media,348.19,Falla de Hardware,1,Medio,Nivel 3,2025-05-24
+INC-419D3B5A,Media,140.82,Petición de Servicio,1,Medio,Nivel 3,2025-06-29
+INC-EBC1BB10,Media,822.27,Petición de Servicio,1,Medio,Nivel 3,2025-07-05
+INC-9D1D5EE8,Baja,2619.96,Falla de Hardware,1,Bajo,Nivel 3,2025-05-18
+INC-88DF46DD,Media,1263.24,Petición de Servicio,1,Medio,Nivel 3,2025-05-31
+INC-3A9516C2,Media,856.23,Error de Aplicación,1,Medio,Nivel 3,2025-06-16
+INC-67017731,Alta,185.47,Error de Aplicación,1,Alto,Nivel 3,2025-06-08
+INC-644D4A37,Media,1168.16,Falla de Hardware,1,Medio,Nivel 3,2025-08-22
+INC-85D50A39,Alta,273.13,Error de Aplicación,1,Alto,Nivel 3,2025-10-12
+INC-959FB4D3,Baja,452.98,Falla de Hardware,1,Bajo,Nivel 3,2025-07-01
+INC-1C3DAD37,Media,840.87,Error de Aplicación,1,Medio,Nivel 3,2025-05-13
+INC-02081B74,Media,1313.07,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-29
+INC-CA09624D,Alta,208.34,Falla de Hardware,1,Alto,Nivel 3,2025-06-17
+INC-6F81E84C,Alta,163.35,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-04
+INC-7E0DC89C,Baja,722.57,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-08-21
+INC-E0F3CE51,Alta,98.15,Error de Aplicación,1,Alto,Nivel 3,2025-08-03
+INC-7D8E8068,Alta,224.75,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-28
+INC-7BE1470B,Alta,298.06,Falla de Hardware,1,Alto,Nivel 3,2025-07-02
+INC-D8727122,Baja,458.58,Error de Aplicación,1,Bajo,Nivel 3,2025-08-11
+INC-182BB475,Baja,4066.19,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-29
+INC-616C7005,Media,1102.08,Error de Aplicación,1,Medio,Nivel 3,2025-09-21
+INC-C7FB46AA,Media,869.54,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-04
+INC-B6ADBABF,Media,1203.25,Petición de Servicio,1,Medio,Nivel 3,2025-10-02
+INC-70165389,Baja,456.78,Petición de Servicio,1,Bajo,Nivel 3,2025-08-10
+INC-58032E01,Media,718.04,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-04
+INC-5E9652E7,Alta,313.54,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-25
+INC-DA36823E,Alta,402.89,Falla de Hardware,1,Alto,Nivel 3,2025-07-25
+INC-E2DE6619,Alta,382.56,Petición de Servicio,1,Alto,Nivel 3,2025-08-19
+INC-35AAB047,Media,442.36,Falla de Hardware,1,Medio,Nivel 3,2025-05-11
+INC-647415C6,Baja,4071.7,Error de Aplicación,1,Bajo,Nivel 3,2025-08-22
+INC-6B4952AB,Media,231.6,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-25
+INC-1A1CA707,Alta,423.81,Falla de Hardware,1,Alto,Nivel 3,2025-09-09
+INC-2447A8AA,Alta,466.92,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-21
+INC-8BBC9CE2,Baja,864.04,Falla de Hardware,1,Bajo,Nivel 3,2025-05-05
+INC-94609A0D,Media,1056.45,Error de Aplicación,1,Medio,Nivel 3,2025-10-03
+INC-92AE1955,Baja,289.2,Error de Aplicación,1,Bajo,Nivel 3,2025-05-04
+INC-075C7C3D,Media,619.48,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-15
+INC-D4EDC73B,Media,772.47,Petición de Servicio,1,Medio,Nivel 3,2025-05-18
+INC-7A97690C,Alta,291.29,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-12
+INC-C462F908,Alta,451.17,Petición de Servicio,1,Alto,Nivel 3,2025-04-26
+INC-B739FBDD,Media,987.71,Problema de Infraestructura (por cambio no aprobado),0,Medio,Nivel 3,2025-05-23
+INC-AA156329,Baja,2141.37,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-10-10
+INC-32649FAE,Media,1177.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-11
+INC-D59F06B4,Media,1371.74,Error de Aplicación,1,Medio,Nivel 3,2025-04-29
+INC-E61D926E,Alta,39.93,Error de Aplicación,1,Alto,Nivel 3,2025-09-08
+INC-A8ADDA4F,Baja,4246.59,Falla de Hardware,1,Bajo,Nivel 3,2025-04-25
+INC-4862DD0C,Baja,481.75,Error de Aplicación,1,Bajo,Nivel 3,2025-07-13
+INC-AC93548C,Media,1183.85,Error de Aplicación,1,Medio,Nivel 3,2025-10-05
+INC-C27B894B,Baja,1297.41,Falla de Hardware,1,Bajo,Nivel 3,2025-06-01
+INC-31044614,Media,242.41,Error de Aplicación,1,Medio,Nivel 3,2025-08-30
+INC-460B26F8,Media,667.0,Petición de Servicio,1,Medio,Nivel 3,2025-08-13
+INC-5D97A947,Baja,2824.62,Petición de Servicio,1,Bajo,Nivel 3,2025-09-28
+INC-99B3E33F,Baja,1720.0,Petición de Servicio,1,Bajo,Nivel 3,2025-05-05
+INC-37CAF808,Media,135.3,Petición de Servicio,1,Medio,Nivel 3,2025-10-07
+INC-6F454C05,Alta,299.76,Error de Aplicación,1,Alto,Nivel 3,2025-07-19
+INC-4989B045,Media,1305.32,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-12
+INC-B3635BE7,Baja,1729.5,Petición de Servicio,1,Bajo,Nivel 3,2025-06-01
+INC-EA54F2BC,Alta,127.35,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-08-12
+INC-F813B0E6,Media,670.76,Petición de Servicio,1,Medio,Nivel 3,2025-06-01
+INC-C7850172,Media,126.74,Error de Aplicación,1,Medio,Nivel 3,2025-04-30
+INC-DA2DF2E4,Media,1192.27,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-10
+INC-31B9C8BC,Media,1200.35,Error de Aplicación,1,Medio,Nivel 3,2025-06-18
+INC-A147633D,Baja,2589.6,Falla de Hardware,1,Bajo,Nivel 3,2025-06-27
+INC-563B4C3D,Alta,188.9,Petición de Servicio,1,Alto,Nivel 3,2025-04-19
+INC-E2748151,Alta,389.9,Falla de Hardware,1,Alto,Nivel 3,2025-05-14
+INC-C199C148,Alta,279.61,Petición de Servicio,1,Alto,Nivel 3,2025-08-19
+INC-9ACF92CF,Baja,3588.92,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-20
+INC-52AE4F5E,Media,931.41,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-12
+INC-C730D3A9,Media,1142.48,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-09
+INC-DA575712,Baja,2633.96,Error de Aplicación,1,Bajo,Nivel 3,2025-09-26
+INC-8D4CE807,Baja,1859.39,Error de Aplicación,1,Bajo,Nivel 3,2025-07-02
+INC-01C72F4D,Baja,4143.37,Falla de Hardware,1,Bajo,Nivel 3,2025-07-01
+INC-9B5DEECA,Baja,2392.68,Falla de Hardware,1,Bajo,Nivel 3,2025-10-08
+INC-F25A8469,Media,895.02,Error de Aplicación,1,Medio,Nivel 3,2025-08-08
+INC-A7F404B1,Baja,1046.05,Error de Aplicación,1,Bajo,Nivel 3,2025-08-27
+INC-B59F1EC9,Media,923.4,Error de Aplicación,1,Medio,Nivel 3,2025-06-30
+INC-69877669,Baja,2520.75,Petición de Servicio,1,Bajo,Nivel 3,2025-06-14
+INC-006D633B,Baja,896.32,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-14
+INC-C0C7D84C,Baja,370.27,Petición de Servicio,1,Bajo,Nivel 3,2025-06-02
+INC-2885D798,Media,894.02,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-20
+INC-725CD941,Alta,373.66,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-09-04
+INC-D1C99D04,Media,782.29,Petición de Servicio,1,Medio,Nivel 3,2025-07-03
+INC-9AC4C745,Baja,1072.45,Error de Aplicación,1,Bajo,Nivel 3,2025-08-07
+INC-F02BA6F0,Baja,2919.39,Petición de Servicio,1,Bajo,Nivel 3,2025-08-03
+INC-62A70688,Alta,66.05,Falla de Hardware,1,Alto,Nivel 3,2025-07-31
+INC-09EA929D,Alta,228.83,Error de Aplicación,1,Alto,Nivel 3,2025-07-14
+INC-24480353,Alta,103.52,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-19
+INC-D28FF5A6,Baja,894.73,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-07-22
+INC-D798A2F6,Baja,969.63,Error de Aplicación,1,Bajo,Nivel 3,2025-07-04
+INC-1B9F9BE6,Alta,204.02,Falla de Hardware,1,Alto,Nivel 3,2025-05-02
+INC-8AADD623,Media,130.59,Falla de Hardware,1,Medio,Nivel 3,2025-05-30
+INC-A7A6078C,Baja,1790.73,Petición de Servicio,1,Bajo,Nivel 3,2025-08-14
+INC-793CC6B3,Baja,2269.17,Error de Aplicación,1,Bajo,Nivel 3,2025-08-28
+INC-AF3DBEDD,Media,726.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-02
+INC-9A969B6A,Media,588.24,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-06
+INC-6DEB41EA,Media,1218.02,Falla de Hardware,1,Medio,Nivel 3,2025-04-20
+INC-97FAFBD7,Media,260.55,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-11
+INC-AE86ACD0,Media,757.86,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-19
+INC-86755B8E,Media,145.62,Petición de Servicio,1,Medio,Nivel 3,2025-09-25
+INC-04735FE1,Baja,418.85,Falla de Hardware,1,Bajo,Nivel 3,2025-07-20
+INC-5DF2275E,Media,851.93,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-11
+INC-9EE4CD88,Baja,2497.28,Falla de Hardware,1,Bajo,Nivel 3,2025-05-18
+INC-B929DEC5,Alta,425.12,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-10
+INC-C41058B5,Media,829.87,Error de Aplicación,1,Medio,Nivel 3,2025-04-25
+INC-1A55721B,Alta,461.91,Error de Aplicación,1,Alto,Nivel 3,2025-07-30
+INC-4E264785,Alta,51.91,Petición de Servicio,1,Alto,Nivel 3,2025-07-03
+INC-E1EDDBD0,Baja,531.63,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-24
+INC-FBB0D234,Baja,305.08,Falla de Hardware,1,Bajo,Nivel 3,2025-07-12
+INC-0A21FF64,Alta,113.37,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-07
+INC-41991DDB,Media,806.95,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-10
+INC-E4F5E94E,Baja,2831.4,Petición de Servicio,1,Bajo,Nivel 3,2025-07-01
+INC-FCD85C70,Alta,50.51,Error de Aplicación,1,Alto,Nivel 3,2025-08-24
+INC-6F26F333,Media,1365.44,Error de Aplicación,1,Medio,Nivel 3,2025-09-04
+INC-100B45EB,Baja,3657.09,Petición de Servicio,1,Bajo,Nivel 3,2025-08-20
+INC-F646666C,Media,469.33,Falla de Hardware,1,Medio,Nivel 3,2025-08-26
+INC-9CEF5094,Alta,64.73,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-09
+INC-1CA987D5,Media,294.44,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-11
+INC-46C7A713,Baja,653.17,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-09
+INC-6A3541D1,Media,230.13,Error de Aplicación,1,Medio,Nivel 3,2025-06-03
+INC-49A86489,Alta,263.35,Petición de Servicio,1,Alto,Nivel 3,2025-08-17
+INC-F9F12C51,Baja,1152.56,Error de Aplicación,1,Bajo,Nivel 3,2025-07-03
+INC-FD3FEF39,Alta,191.16,Error de Aplicación,1,Alto,Nivel 3,2025-05-16
+INC-5B44C619,Baja,4275.92,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-15
+INC-0EDA6B6B,Alta,337.94,Falla de Hardware,1,Alto,Nivel 3,2025-08-30
+INC-7083301F,Baja,4105.72,Falla de Hardware,1,Bajo,Nivel 3,2025-09-03
+INC-988961DF,Media,256.73,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-27
+INC-59DABB22,Media,587.35,Petición de Servicio,1,Medio,Nivel 3,2025-05-12
+INC-83632800,Alta,279.63,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-05
+INC-555D9E61,Media,165.93,Petición de Servicio,1,Medio,Nivel 3,2025-04-18
+INC-B0EBD847,Baja,137.59,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-06-10
+INC-89BF174B,Baja,2935.82,Falla de Hardware,1,Bajo,Nivel 3,2025-07-29
+INC-2F8E3CE5,Media,945.71,Error de Aplicación,1,Medio,Nivel 3,2025-04-30
+INC-BC7B725F,Media,626.89,Error de Aplicación,1,Medio,Nivel 3,2025-08-28
+INC-0A1E0C91,Baja,2176.51,Petición de Servicio,1,Bajo,Nivel 3,2025-08-22
+INC-DFCF5EB5,Baja,1864.86,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-29
+INC-94066A49,Media,93.13,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-20
+INC-0D207B29,Media,522.81,Error de Aplicación,1,Medio,Nivel 3,2025-07-06
+INC-5E2860F5,Media,304.37,Petición de Servicio,1,Medio,Nivel 3,2025-06-16
+INC-6DAF796D,Media,195.83,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-28
+INC-23E97D08,Alta,460.52,Falla de Hardware,1,Alto,Nivel 3,2025-04-29
+INC-A6C14B79,Media,887.12,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-10
+INC-674D8C27,Media,1065.55,Falla de Hardware,1,Medio,Nivel 3,2025-10-05
+INC-02747D7E,Baja,1444.53,Petición de Servicio,1,Bajo,Nivel 3,2025-07-14
+INC-30E5513C,Alta,206.92,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-20
+INC-53A1E45E,Media,386.96,Petición de Servicio,1,Medio,Nivel 3,2025-06-14
+INC-19097E13,Media,193.81,Falla de Hardware,1,Medio,Nivel 3,2025-05-23
+INC-7467028B,Media,307.06,Error de Aplicación,1,Medio,Nivel 3,2025-05-11
+INC-A7F4E104,Alta,388.88,Error de Aplicación,1,Alto,Nivel 3,2025-05-02
+INC-8F7CF62D,Media,995.01,Falla de Hardware,1,Medio,Nivel 3,2025-09-29
+INC-C359C751,Media,814.76,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-04
+INC-3F383F19,Media,715.62,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-12
+INC-E0DEE2ED,Media,1332.96,Error de Aplicación,1,Medio,Nivel 3,2025-09-05
+INC-093D3DD7,Media,160.37,Error de Aplicación,1,Medio,Nivel 3,2025-08-28
+INC-BDAEDF79,Baja,1298.52,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-09
+INC-3D4B7B9E,Media,542.91,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-20
+INC-63B9D728,Baja,3406.19,Error de Aplicación,1,Bajo,Nivel 3,2025-06-15
+INC-6D745990,Media,1429.67,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-03
+INC-4DBF4B41,Alta,138.3,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-04
+INC-86CF1FB6,Alta,423.44,Falla de Hardware,1,Alto,Nivel 3,2025-07-25
+INC-0B870F7D,Media,1206.26,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-28
+INC-EC98FEB0,Baja,1063.56,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-28
+INC-5EFD4CE0,Baja,1797.2,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-18
+INC-AE88F8B4,Baja,1840.63,Petición de Servicio,1,Bajo,Nivel 3,2025-05-24
+INC-894B7B31,Media,1409.94,Falla de Hardware,1,Medio,Nivel 3,2025-08-22
+INC-4931962A,Media,309.63,Error de Aplicación,1,Medio,Nivel 3,2025-06-05
+INC-6F657ADA,Alta,389.62,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-10-13
+INC-553E1B4D,Media,521.19,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-26
+INC-54873A32,Media,1068.6,Error de Aplicación,1,Medio,Nivel 3,2025-04-24
+INC-C7C3038A,Alta,219.0,Petición de Servicio,1,Alto,Nivel 3,2025-04-24
+INC-8BB3D408,Alta,290.26,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-29
+INC-71128334,Media,1209.0,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-20
+INC-2633F270,Baja,3497.5,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-12
+INC-F8C08BF4,Baja,3758.98,Falla de Hardware,1,Bajo,Nivel 3,2025-10-07
+INC-F2C62E55,Baja,370.39,Falla de Hardware,1,Bajo,Nivel 3,2025-05-08
+INC-C0E24839,Media,1015.03,Error de Aplicación,1,Medio,Nivel 3,2025-07-12
+INC-9B36E635,Media,253.18,Petición de Servicio,1,Medio,Nivel 3,2025-05-26
+INC-3DF7B104,Media,633.83,Petición de Servicio,1,Medio,Nivel 3,2025-10-06
+INC-EA26F2A8,Baja,2424.07,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-10-12
+INC-4D0CD926,Alta,211.23,Petición de Servicio,1,Alto,Nivel 3,2025-07-11
+INC-57DC29AE,Media,777.06,Petición de Servicio,1,Medio,Nivel 3,2025-08-27
+INC-530A0C93,Baja,4305.41,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-07-20
+INC-4E1497D6,Media,246.6,Falla de Hardware,1,Medio,Nivel 3,2025-04-29
+INC-2767E489,Media,992.13,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-14
+INC-87B09ED9,Media,606.48,Error de Aplicación,1,Medio,Nivel 3,2025-07-09
+INC-1B6A5090,Alta,89.85,Falla de Hardware,1,Alto,Nivel 3,2025-06-17
+INC-8E1DC108,Media,279.06,Petición de Servicio,1,Medio,Nivel 3,2025-07-18
+INC-4734F8F6,Media,1370.0,Petición de Servicio,1,Medio,Nivel 3,2025-07-12
+INC-8EA221D8,Alta,425.82,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-10
+INC-9F9D88CE,Alta,438.17,Error de Aplicación,1,Alto,Nivel 3,2025-07-23
+INC-6050A26E,Baja,4284.44,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-23
+INC-6B4B4571,Media,347.48,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-29
+INC-2E347A3A,Media,550.51,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-23
+INC-C8ACEDE6,Media,983.52,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-23
+INC-7DB0B7E2,Baja,2151.97,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-03
+INC-AA3B94ED,Media,637.38,Petición de Servicio,1,Medio,Nivel 3,2025-07-11
+INC-06BB15DA,Media,553.78,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-27
+INC-E96388E4,Baja,2613.88,Falla de Hardware,1,Bajo,Nivel 3,2025-10-11
+INC-E6A2841C,Baja,2537.49,Falla de Hardware,1,Bajo,Nivel 3,2025-07-12
+INC-C4F8117B,Alta,102.66,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-01
+INC-4A6F6032,Baja,2101.31,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-17
+INC-607F53D5,Media,823.79,Error de Aplicación,1,Medio,Nivel 3,2025-08-01
+INC-5CBE9483,Media,847.0,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-16
+INC-3EBB04FB,Alta,124.55,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-14
+INC-3AB0E4E2,Alta,364.02,Error de Aplicación,1,Alto,Nivel 3,2025-08-19
+INC-E21AB9FA,Baja,225.84,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-07
+INC-4B8F2901,Media,549.67,Error de Aplicación,1,Medio,Nivel 3,2025-08-31
+INC-A3395339,Media,1136.69,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-29
+INC-D1F2D1CB,Baja,2488.35,Error de Aplicación,1,Bajo,Nivel 3,2025-09-13
+INC-E414D123,Baja,1216.88,Falla de Hardware,1,Bajo,Nivel 3,2025-08-01
+INC-C798B233,Alta,342.73,Error de Aplicación,1,Alto,Nivel 3,2025-07-12
+INC-4B0DD96C,Media,843.0,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-10
+INC-9683E755,Alta,388.31,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-23
+INC-D01BC320,Baja,3207.11,Error de Aplicación,1,Bajo,Nivel 3,2025-05-01
+INC-538724B0,Media,901.95,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-20
+INC-0FC25AF6,Baja,2170.35,Error de Aplicación,1,Bajo,Nivel 3,2025-06-09
+INC-73D3D4DB,Alta,89.93,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-21
+INC-CEB686B1,Alta,147.6,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-18
+INC-D4C98EF7,Media,638.36,Falla de Hardware,1,Medio,Nivel 3,2025-05-06
+INC-07425FB8,Media,887.03,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-19
+INC-D70F96F3,Alta,261.17,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-07-25
+INC-9E27A336,Baja,1330.38,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-02
+INC-19B1CC1E,Alta,32.91,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-29
+INC-5F02871F,Media,744.81,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-30
+INC-E0F99DA9,Baja,1319.63,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-19
+INC-E184C106,Media,1073.76,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-06
+INC-107FF8CF,Baja,220.57,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-01
+INC-A1E20777,Alta,293.17,Error de Aplicación,1,Alto,Nivel 3,2025-08-14
+INC-A0187022,Media,1359.23,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-29
+INC-20B655D1,Alta,108.48,Falla de Hardware,1,Alto,Nivel 3,2025-04-27
+INC-D60E01B3,Alta,242.24,Falla de Hardware,1,Alto,Nivel 3,2025-05-17
+INC-ED1A318F,Baja,503.97,Falla de Hardware,1,Bajo,Nivel 3,2025-04-28
+INC-77F89905,Alta,311.56,Falla de Hardware,1,Alto,Nivel 3,2025-08-18
+INC-A52083E8,Media,819.73,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-03
+INC-3DC38D88,Media,622.16,Error de Aplicación,1,Medio,Nivel 3,2025-10-12
+INC-1FAF054C,Media,779.5,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-05
+INC-4F27C2E5,Baja,3885.61,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-21
+INC-E25B1D33,Alta,118.33,Petición de Servicio,1,Alto,Nivel 3,2025-06-05
+INC-03A4D63E,Media,91.14,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-11
+INC-FCBBD30E,Baja,3738.99,Falla de Hardware,1,Bajo,Nivel 3,2025-05-03
+INC-7E4FBE82,Media,856.42,Petición de Servicio,1,Medio,Nivel 3,2025-09-26
+INC-30531AA9,Baja,3860.77,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-08-23
+INC-742EF6A6,Alta,298.63,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-20
+INC-C76B0994,Media,1178.02,Error de Aplicación,1,Medio,Nivel 3,2025-10-12
+INC-C42CAC4B,Media,652.95,Error de Aplicación,1,Medio,Nivel 3,2025-06-19
+INC-DCC69AC9,Baja,3269.41,Petición de Servicio,1,Bajo,Nivel 3,2025-08-26
+INC-288D71E5,Baja,3954.77,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-07-12
+INC-2F0FE650,Media,849.53,Petición de Servicio,1,Medio,Nivel 3,2025-09-19
+INC-30D15D85,Media,309.48,Error de Aplicación,1,Medio,Nivel 3,2025-05-02
+INC-135E32A9,Alta,150.96,Petición de Servicio,1,Alto,Nivel 3,2025-06-18
+INC-141C9550,Media,334.13,Falla de Hardware,1,Medio,Nivel 3,2025-07-01
+INC-F8EBC478,Media,400.66,Falla de Hardware,1,Medio,Nivel 3,2025-07-10
+INC-25FABC3B,Baja,1406.94,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-03
+INC-D2036D13,Media,826.08,Petición de Servicio,1,Medio,Nivel 3,2025-05-03
+INC-E649740A,Media,871.43,Petición de Servicio,1,Medio,Nivel 3,2025-10-01
+INC-816F6E4F,Alta,221.92,Petición de Servicio,1,Alto,Nivel 3,2025-09-04
+INC-FEAF1A93,Alta,306.94,Petición de Servicio,1,Alto,Nivel 3,2025-10-13
+INC-9F626208,Alta,66.71,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-13
+INC-9CD0B861,Media,181.15,Error de Aplicación,1,Medio,Nivel 3,2025-09-28
+INC-F4FFD44C,Baja,841.68,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-04
+INC-B40ECAF5,Media,774.95,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-16
+INC-0F014E76,Media,355.31,Error de Aplicación,1,Medio,Nivel 3,2025-08-07
+INC-B268C1D6,Alta,157.48,Error de Aplicación,1,Alto,Nivel 3,2025-08-15
+INC-99B49B87,Baja,1801.31,Error de Aplicación,1,Bajo,Nivel 3,2025-05-20
+INC-9BDEFEBE,Baja,3529.84,Petición de Servicio,1,Bajo,Nivel 3,2025-06-25
+INC-8178FD5A,Alta,36.24,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-03
+INC-5ADCF408,Baja,2847.39,Error de Aplicación,1,Bajo,Nivel 3,2025-05-06
+INC-0D076205,Media,983.05,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-14
+INC-1B49F6F8,Alta,389.4,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-24
+INC-71829CFD,Media,1347.2,Falla de Hardware,1,Medio,Nivel 3,2025-09-24
+INC-0B15A3F0,Media,87.79,Error de Aplicación,1,Medio,Nivel 3,2025-07-27
+INC-AE821FB4,Alta,99.2,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-14
+INC-9623DEEC,Baja,3841.92,Petición de Servicio,1,Bajo,Nivel 3,2025-09-08
+INC-AAA6CAC3,Baja,2045.78,Falla de Hardware,1,Bajo,Nivel 3,2025-06-12
+INC-5E2D4558,Media,839.14,Error de Aplicación,1,Medio,Nivel 3,2025-07-08
+INC-66ECAB47,Media,974.98,Petición de Servicio,1,Medio,Nivel 3,2025-08-23
+INC-B99654FE,Media,997.11,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-29
+INC-8D9E041B,Media,1345.8,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-18
+INC-F1B504B8,Media,1435.79,Falla de Hardware,1,Medio,Nivel 3,2025-04-22
+INC-A5AAA00F,Alta,354.07,Falla de Hardware,1,Alto,Nivel 3,2025-07-22
+INC-F94D4C52,Media,456.37,Error de Aplicación,1,Medio,Nivel 3,2025-07-19
+INC-4A8CD6BB,Baja,3814.96,Petición de Servicio,1,Bajo,Nivel 3,2025-08-04
+INC-D738E965,Media,127.92,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-14
+INC-69971374,Alta,133.99,Petición de Servicio,1,Alto,Nivel 3,2025-09-01
+INC-DFCD334D,Baja,3889.02,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-06
+INC-E573FFC2,Alta,145.29,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-10
+INC-04F19146,Media,364.5,Error de Aplicación,1,Medio,Nivel 3,2025-06-06
+INC-12D057A0,Alta,92.16,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-12
+INC-5940CDD1,Media,1245.57,Error de Aplicación,1,Medio,Nivel 3,2025-06-23
+INC-3A2F0494,Baja,2220.24,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-09
+INC-B842BAD3,Media,991.35,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-28
+INC-36F3354A,Alta,137.58,Petición de Servicio,1,Alto,Nivel 3,2025-06-12
+INC-54907A4D,Baja,3303.77,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-29
+INC-7646AC5C,Baja,3312.02,Petición de Servicio,1,Bajo,Nivel 3,2025-06-17
+INC-227CD107,Baja,1432.91,Petición de Servicio,1,Bajo,Nivel 3,2025-04-23
+INC-EAAD6F14,Alta,214.81,Error de Aplicación,1,Alto,Nivel 3,2025-08-06
+INC-73C4E6F4,Media,349.37,Petición de Servicio,1,Medio,Nivel 3,2025-10-11
+INC-83F7566C,Baja,4221.56,Falla de Hardware,1,Bajo,Nivel 3,2025-10-13
+INC-F07A8D44,Baja,2831.53,Falla de Hardware,1,Bajo,Nivel 3,2025-05-12
+INC-C808C3FC,Alta,450.54,Petición de Servicio,1,Alto,Nivel 3,2025-09-17
+INC-8EAB43D2,Alta,166.52,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-05
+INC-67A16CA8,Media,1139.01,Petición de Servicio,1,Medio,Nivel 3,2025-04-25
+INC-D544D926,Baja,3336.61,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-16
+INC-8CE0048C,Media,1014.48,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-06
+INC-04A45B27,Media,1392.58,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-31
+INC-183318BF,Alta,207.1,Error de Aplicación,1,Alto,Nivel 3,2025-06-05
+INC-05346087,Media,240.39,Falla de Hardware,1,Medio,Nivel 3,2025-07-06
+INC-11EB24CC,Baja,2941.18,Falla de Hardware,1,Bajo,Nivel 3,2025-09-13
+INC-64A28AA4,Media,1066.45,Error de Aplicación,1,Medio,Nivel 3,2025-09-04
+INC-A0C22751,Baja,2535.25,Petición de Servicio,1,Bajo,Nivel 3,2025-09-03
+INC-260D0F5F,Baja,988.64,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-26
+INC-6CB9BCD9,Alta,257.01,Petición de Servicio,1,Alto,Nivel 3,2025-06-20
+INC-AF10DDDB,Media,490.82,Error de Aplicación,1,Medio,Nivel 3,2025-09-21
+INC-E028B72A,Media,649.9,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-24
+INC-D8A2232E,Baja,2829.92,Falla de Hardware,1,Bajo,Nivel 3,2025-09-12
+INC-15DDCE74,Media,1088.4,Falla de Hardware,1,Medio,Nivel 3,2025-05-08
+INC-5DB8EA90,Media,380.47,Petición de Servicio,1,Medio,Nivel 3,2025-05-04
+INC-2AA36020,Baja,1822.37,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-09
+INC-C0AA4C06,Media,431.44,Error de Aplicación,1,Medio,Nivel 3,2025-10-05
+INC-2DFBC2D5,Baja,954.25,Error de Aplicación,1,Bajo,Nivel 3,2025-04-25
+INC-A966E2D9,Media,1141.07,Petición de Servicio,1,Medio,Nivel 3,2025-06-09
+INC-FF5D2522,Alta,439.16,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-05-12
+INC-3A2B7303,Media,570.92,Falla de Hardware,1,Medio,Nivel 3,2025-07-19
+INC-48634CBD,Baja,3275.37,Petición de Servicio,1,Bajo,Nivel 3,2025-07-25
+INC-187D64FB,Media,1297.85,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-C6E2B6FA,Baja,3673.72,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-20
+INC-76280CC1,Baja,887.82,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-24
+INC-4BB7686C,Media,1379.68,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-01
+INC-EDCBD557,Baja,1702.04,Error de Aplicación,1,Bajo,Nivel 3,2025-06-03
+INC-E969D951,Alta,182.66,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-01
+INC-13933C7F,Alta,58.09,Error de Aplicación,1,Alto,Nivel 3,2025-06-09
+INC-6EBF4D5C,Alta,248.78,Falla de Hardware,1,Alto,Nivel 3,2025-10-01
+INC-536B05F7,Baja,577.86,Petición de Servicio,1,Bajo,Nivel 3,2025-08-13
+INC-1ADC24AE,Media,402.98,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-06
+INC-31CE6183,Alta,172.62,Petición de Servicio,1,Alto,Nivel 3,2025-07-06
+INC-E533596B,Media,1176.18,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-09
+INC-BC5734E3,Media,1268.17,Error de Aplicación,1,Medio,Nivel 3,2025-07-21
+INC-0705A4AB,Alta,166.11,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-27
+INC-170F42A8,Baja,3726.53,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-14
+INC-E0757E5E,Baja,3720.37,Falla de Hardware,1,Bajo,Nivel 3,2025-06-17
+INC-DE35CEBE,Media,1115.22,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-01
+INC-C89FE3AD,Baja,736.12,Falla de Hardware,1,Bajo,Nivel 3,2025-07-12
+INC-5037DAFE,Media,1012.65,Petición de Servicio,1,Medio,Nivel 3,2025-07-24
+INC-DD68552E,Baja,4089.1,Error de Aplicación,1,Bajo,Nivel 3,2025-05-25
+INC-09B78ECA,Media,1001.91,Error de Aplicación,1,Medio,Nivel 3,2025-09-06
+INC-35AAAFEF,Media,517.63,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-08
+INC-36EC682A,Alta,255.26,Error de Aplicación,1,Alto,Nivel 3,2025-07-05
+INC-6FEFEF5E,Baja,2832.05,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-02
+INC-E2468EAC,Media,764.59,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-29
+INC-06440C23,Alta,83.98,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-25
+INC-8067FB1B,Alta,170.43,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-04
+INC-6837EA3A,Media,1167.31,Petición de Servicio,1,Medio,Nivel 3,2025-08-02
+INC-4D58FF8D,Media,1248.76,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-02
+INC-B48E70F5,Baja,696.66,Falla de Hardware,1,Bajo,Nivel 3,2025-04-25
+INC-B6CB91E7,Baja,4120.02,Falla de Hardware,1,Bajo,Nivel 3,2025-05-20
+INC-325C73C2,Alta,177.97,Falla de Hardware,1,Alto,Nivel 3,2025-09-20
+INC-E4ED9BDC,Baja,2901.72,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-28
+INC-348AB721,Alta,368.32,Error de Aplicación,1,Alto,Nivel 3,2025-10-04
+INC-6E4F981E,Baja,3530.17,Petición de Servicio,1,Bajo,Nivel 3,2025-07-11
+INC-DA67C4A9,Baja,4092.15,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-09
+INC-929B9BBA,Media,491.83,Petición de Servicio,1,Medio,Nivel 3,2025-06-19
+INC-84841B63,Baja,3725.73,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-15
+INC-E488B165,Media,241.73,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-20
+INC-B9D743DA,Media,1032.96,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-09
+INC-7C6305D2,Baja,3236.31,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-28
+INC-D55FACA8,Media,995.26,Error de Aplicación,1,Medio,Nivel 3,2025-09-14
+INC-CC6D2D6E,Media,408.19,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-22
+INC-CADE2CCF,Media,1264.8,Error de Aplicación,1,Medio,Nivel 3,2025-08-15
+INC-8CD715A7,Baja,829.21,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-04
+INC-5294EB68,Media,134.02,Petición de Servicio,1,Medio,Nivel 3,2025-07-12
+INC-50C645B6,Alta,352.86,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-27
+INC-64AB405D,Baja,2117.0,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-07-21
+INC-67FB72CA,Baja,3686.21,Error de Aplicación,1,Bajo,Nivel 3,2025-10-06
+INC-AFF68804,Alta,202.53,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-08
+INC-0482B107,Alta,105.73,Error de Aplicación,1,Alto,Nivel 3,2025-06-02
+INC-BD95E899,Alta,406.4,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-13
+INC-9C941B42,Media,817.5,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-27
+INC-0D4B7DD7,Media,321.09,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-15
+INC-703F3AC8,Baja,3145.61,Petición de Servicio,1,Bajo,Nivel 3,2025-08-12
+INC-159DA666,Media,765.34,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-21
+INC-3B357CDC,Media,893.95,Error de Aplicación,1,Medio,Nivel 3,2025-07-21
+INC-EA6F34D0,Media,696.04,Petición de Servicio,1,Medio,Nivel 3,2025-05-07
+INC-AB677243,Baja,3600.58,Falla de Hardware,1,Bajo,Nivel 3,2025-09-15
+INC-8C1F1B49,Media,1204.8,Error de Aplicación,1,Medio,Nivel 3,2025-08-22
+INC-8D4DAE17,Baja,3099.43,Error de Aplicación,1,Bajo,Nivel 3,2025-08-18
+INC-347A864F,Media,205.45,Falla de Hardware,1,Medio,Nivel 3,2025-09-09
+INC-587ADF08,Alta,407.48,Petición de Servicio,1,Alto,Nivel 3,2025-05-07
+INC-4B340262,Media,986.0,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-09
+INC-80BBE0F8,Media,1021.89,Error de Aplicación,1,Medio,Nivel 3,2025-09-01
+INC-9F43C1CF,Media,560.92,Falla de Hardware,1,Medio,Nivel 3,2025-09-15
+INC-D26E915A,Alta,425.68,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-29
+INC-3F741507,Alta,356.42,Petición de Servicio,1,Alto,Nivel 3,2025-08-05
+INC-6F791BC9,Baja,592.88,Error de Aplicación,1,Bajo,Nivel 3,2025-08-10
+INC-44ADAD62,Alta,213.5,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-12
+INC-5CA4512A,Baja,3842.8,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-22
+INC-7E20754D,Media,125.13,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-09-14
+INC-432547BC,Media,1386.75,Falla de Hardware,1,Medio,Nivel 3,2025-09-13
+INC-CF608558,Media,997.24,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-25
+INC-D654CD58,Media,931.3,Petición de Servicio,1,Medio,Nivel 3,2025-08-14
+INC-F480DFBC,Media,433.37,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-25
+INC-6C504AEC,Alta,141.96,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-19
+INC-E2930CB7,Alta,453.93,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-07-20
+INC-8FA06CF7,Media,471.62,Petición de Servicio,1,Medio,Nivel 3,2025-07-24
+INC-F20065FB,Media,1130.2,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-30
+INC-3642B613,Baja,1771.11,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-05-28
+INC-07767FAB,Baja,704.87,Falla de Hardware,1,Bajo,Nivel 3,2025-09-14
+INC-168D17D1,Baja,165.0,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-25
+INC-91B6A6E2,Baja,2405.88,Falla de Hardware,1,Bajo,Nivel 3,2025-04-18
+INC-06581939,Media,1406.57,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-15
+INC-AE024147,Media,569.41,Falla de Hardware,1,Medio,Nivel 3,2025-09-08
+INC-CA9B427B,Baja,1620.21,Petición de Servicio,1,Bajo,Nivel 3,2025-08-03
+INC-4AEA60D9,Media,534.85,Error de Aplicación,1,Medio,Nivel 3,2025-06-20
+INC-BFC1705B,Media,778.35,Petición de Servicio,1,Medio,Nivel 3,2025-06-25
+INC-A0D88822,Alta,228.3,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-24
+INC-3B3E2544,Media,1274.28,Petición de Servicio,1,Medio,Nivel 3,2025-08-15
+INC-A20BB791,Media,757.62,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-03
+INC-36C92BF7,Baja,2252.58,Petición de Servicio,1,Bajo,Nivel 3,2025-06-15
+INC-6469DE4C,Media,250.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-11
+INC-49096535,Media,1416.18,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-18
+INC-AEE66155,Baja,1169.89,Petición de Servicio,1,Bajo,Nivel 3,2025-04-28
+INC-9F71A968,Alta,63.01,Falla de Hardware,1,Alto,Nivel 3,2025-07-28
+INC-B03A7448,Media,975.14,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-10-08
+INC-BC762429,Alta,297.91,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-06
+INC-04C9EB05,Baja,1863.61,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-20
+INC-D9A34EC3,Baja,1893.21,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-18
+INC-06637B4F,Media,1143.39,Error de Aplicación,1,Medio,Nivel 3,2025-06-03
+INC-BC884FBA,Baja,941.99,Petición de Servicio,1,Bajo,Nivel 3,2025-07-13
+INC-2342515E,Media,1191.95,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-17
+INC-A3E8D330,Baja,2844.74,Petición de Servicio,1,Bajo,Nivel 3,2025-05-30
+INC-056A30FC,Baja,1879.67,Error de Aplicación,1,Bajo,Nivel 3,2025-09-10
+INC-0677FC25,Baja,2043.72,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-30
+INC-6F594BC9,Alta,145.49,Petición de Servicio,1,Alto,Nivel 3,2025-06-10
+INC-467CF8B7,Baja,3278.88,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-02
+INC-2D973AAB,Baja,2274.07,Error de Aplicación,1,Bajo,Nivel 3,2025-06-02
+INC-A61E9C91,Media,502.78,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-18
+INC-194C0633,Baja,2623.41,Error de Aplicación,1,Bajo,Nivel 3,2025-08-07
+INC-CC651683,Media,1434.11,Error de Aplicación,1,Medio,Nivel 3,2025-09-30
+INC-8439D7DC,Baja,1948.1,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-10-06
+INC-B731067F,Alta,444.31,Petición de Servicio,1,Alto,Nivel 3,2025-09-23
+INC-C572CB9C,Baja,1569.07,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-29
+INC-9962F5A5,Media,135.53,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-27
+INC-A5824D55,Alta,121.91,Error de Aplicación,1,Alto,Nivel 3,2025-09-01
+INC-10451D31,Alta,218.41,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-06
+INC-DA82FAE5,Alta,128.84,Error de Aplicación,1,Alto,Nivel 3,2025-07-15
+INC-0EDB3C4F,Media,60.31,Cambio No Autorizado en HCE,0,Medio,Nivel 3,2025-06-10
+INC-04021433,Media,1322.7,Error de Aplicación,1,Medio,Nivel 3,2025-09-11
+INC-CEA66D2F,Media,1224.55,Error de Aplicación,1,Medio,Nivel 3,2025-05-03
+INC-9ACACCD0,Media,1084.36,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-23
+INC-98A9957B,Media,291.58,Petición de Servicio,1,Medio,Nivel 3,2025-08-27
+INC-AE332771,Baja,625.53,Error de Aplicación,1,Bajo,Nivel 3,2025-09-14
+INC-8E6B912E,Alta,60.42,Petición de Servicio,1,Alto,Nivel 3,2025-10-07
+INC-D20E4BA1,Baja,3160.92,Error de Aplicación,1,Bajo,Nivel 3,2025-06-07
+INC-7EB4463D,Baja,4020.99,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-09-01
+INC-92E4C35D,Media,654.14,Error de Aplicación,1,Medio,Nivel 3,2025-10-07
+INC-FE64123C,Media,224.41,Error de Aplicación,1,Medio,Nivel 3,2025-09-19
+INC-8CFD2171,Baja,2272.05,Falla de Hardware,1,Bajo,Nivel 3,2025-07-22
+INC-3719AA6B,Alta,186.97,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-10-04
+INC-8AB977D1,Alta,198.67,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-17
+INC-33BD639A,Alta,309.6,Petición de Servicio,1,Alto,Nivel 3,2025-06-03
+INC-78ED0ECE,Baja,3138.62,Petición de Servicio,1,Bajo,Nivel 3,2025-05-15
+INC-4E179E3E,Alta,79.77,Error de Aplicación,1,Alto,Nivel 3,2025-05-13
+INC-4A97FEFC,Media,109.11,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-09
+INC-CBDD0CCC,Baja,4296.19,Error de Aplicación,1,Bajo,Nivel 3,2025-07-29
+INC-719F4F1C,Baja,1097.46,Falla de Hardware,1,Bajo,Nivel 3,2025-06-15
+INC-E18EDB97,Media,134.29,Error de Aplicación,1,Medio,Nivel 3,2025-07-31
+INC-3DDEC594,Alta,115.44,Falla de Hardware,1,Alto,Nivel 3,2025-06-24
+INC-21B79DC2,Baja,283.62,Error de Aplicación,1,Bajo,Nivel 3,2025-08-08
+INC-3C737780,Media,600.7,Petición de Servicio,1,Medio,Nivel 3,2025-05-07
+INC-800F6BDE,Alta,391.08,Error de Aplicación,1,Alto,Nivel 3,2025-09-15
+INC-92E92138,Alta,183.56,Petición de Servicio,1,Alto,Nivel 3,2025-07-27
+INC-2C61AAE4,Baja,1985.57,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-25
+INC-27F8CCB4,Media,992.31,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-20
+INC-D1D40E52,Baja,2257.36,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-30
+INC-7CBDFD29,Baja,3738.07,Error de Aplicación,1,Bajo,Nivel 3,2025-08-19
+INC-F9B8FAE3,Media,1255.13,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-18
+INC-C5C5FD4C,Media,73.68,Error de Aplicación,1,Medio,Nivel 3,2025-06-21
+INC-B9F12390,Media,1133.7,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-07
+INC-85621147,Media,695.81,Falla de Hardware,1,Medio,Nivel 3,2025-10-03
+INC-8C14F909,Media,1424.6,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-25
+INC-72C29FA5,Baja,2149.57,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-28
+INC-5B569D5B,Media,1421.92,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-06
+INC-880EDB98,Baja,3289.19,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-07-22
+INC-995D3682,Media,403.07,Falla de Hardware,1,Medio,Nivel 3,2025-06-23
+INC-7DB640E3,Media,802.99,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-06
+INC-B657591C,Media,1429.15,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-30
+INC-7A53E985,Media,1243.39,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-19
+INC-94672E26,Baja,528.94,Falla de Hardware,1,Bajo,Nivel 3,2025-10-03
+INC-78273756,Alta,347.87,Falla de Hardware,1,Alto,Nivel 3,2025-06-02
+INC-9300A8A7,Media,536.9,Petición de Servicio,1,Medio,Nivel 3,2025-04-21
+INC-F9CACAC3,Alta,33.14,Error de Aplicación,1,Alto,Nivel 3,2025-06-04
+INC-861B8C9B,Media,616.8,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-08-18
+INC-634365FA,Media,383.96,Petición de Servicio,1,Medio,Nivel 3,2025-05-23
+INC-9D725DD9,Media,1190.04,Falla de Hardware,1,Medio,Nivel 3,2025-09-25
+INC-F610A06D,Baja,1536.79,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-09
+INC-198416EC,Media,1201.98,Falla de Hardware,1,Medio,Nivel 3,2025-05-05
+INC-DC4A51FA,Baja,122.51,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-05-26
+INC-B3C06929,Media,484.79,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-03
+INC-10343CA4,Media,392.81,Petición de Servicio,1,Medio,Nivel 3,2025-07-24
+INC-292ECF8E,Alta,135.11,Petición de Servicio,1,Alto,Nivel 3,2025-07-18
+INC-3D91D7E1,Media,154.1,Petición de Servicio,1,Medio,Nivel 3,2025-05-28
+INC-85708603,Media,318.23,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-17
+INC-66B2EEC8,Media,826.66,Error de Aplicación,1,Medio,Nivel 3,2025-08-01
+INC-C4C0F302,Alta,161.11,Error de Aplicación,1,Alto,Nivel 3,2025-06-27
+INC-395A3154,Alta,217.83,Error de Aplicación,1,Alto,Nivel 3,2025-06-20
+INC-70441DCD,Media,580.08,Falla de Hardware,1,Medio,Nivel 3,2025-08-03
+INC-238562E8,Baja,3798.8,Falla de Hardware,1,Bajo,Nivel 3,2025-06-08
+INC-A8281421,Media,1309.31,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-29
+INC-9ABA904D,Media,740.28,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-27
+INC-63765678,Alta,178.57,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-10
+INC-4F25E7F4,Media,207.38,Falla de Hardware,1,Medio,Nivel 3,2025-05-14
+INC-50140F81,Media,1375.7,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-17
+INC-7B422BA0,Alta,57.1,Petición de Servicio,1,Alto,Nivel 3,2025-05-03
+INC-99A84FDB,Media,470.76,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-06
+INC-EBC7BF5E,Alta,164.13,Falla de Hardware,1,Alto,Nivel 3,2025-04-19
+INC-796BA039,Alta,174.18,Problema de Infraestructura (por cambio no aprobado),0,Crítico,Nivel 3,2025-09-28
+INC-756C4E3B,Alta,103.93,Petición de Servicio,1,Alto,Nivel 3,2025-09-06
+INC-30B8D1E7,Alta,382.42,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-06
+INC-85551AB7,Alta,85.12,Error de Aplicación,1,Alto,Nivel 3,2025-10-09
+INC-D9A42010,Media,936.17,Falla de Hardware,1,Medio,Nivel 3,2025-08-30
+INC-2399B0FD,Baja,640.15,Falla de Hardware,1,Bajo,Nivel 3,2025-09-04
+INC-96C4076E,Media,157.34,Error de Aplicación,1,Medio,Nivel 3,2025-10-09
+INC-5CC44AAF,Media,1315.01,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-19
+INC-A7E76DE3,Media,322.38,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-28
+INC-CEB5F7D4,Baja,3569.25,Falla de Hardware,1,Bajo,Nivel 3,2025-09-22
+INC-63EB6CB8,Media,811.59,Error de Aplicación,1,Medio,Nivel 3,2025-07-30
+INC-CA30B83F,Alta,65.04,Error de Aplicación,1,Alto,Nivel 3,2025-08-12
+INC-92EBCEC4,Media,1378.52,Petición de Servicio,1,Medio,Nivel 3,2025-09-17
+INC-C5C0B961,Alta,141.13,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-20
+INC-FB969CBD,Media,1246.31,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-31
+INC-8F734DCA,Media,292.96,Problema de Infraestructura (por cambio no aprobado),0,Alto,Nivel 3,2025-06-17
+INC-0B4EAAC9,Baja,3706.56,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-14
+INC-2391E824,Media,78.26,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-09
+INC-9FC8B1A8,Baja,2269.48,Petición de Servicio,1,Bajo,Nivel 3,2025-04-29
+INC-34BEB066,Baja,3351.66,Error de Aplicación,1,Bajo,Nivel 3,2025-06-24
+INC-15EE0E8D,Alta,450.66,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-10-02
+INC-9510DB7B,Media,1314.7,Falla de Hardware,1,Medio,Nivel 3,2025-07-02
+INC-7DD45D7E,Media,1191.08,Error de Aplicación,1,Medio,Nivel 3,2025-04-17
+INC-85E22D13,Media,1285.7,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-14
+INC-AC50C62A,Media,334.92,Petición de Servicio,1,Medio,Nivel 3,2025-06-02
+INC-A405A18D,Baja,1313.57,Error de Aplicación,1,Bajo,Nivel 3,2025-04-20
+INC-57D30203,Baja,1333.67,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-13
+INC-D89E308B,Media,580.33,Falla de Hardware,1,Medio,Nivel 3,2025-04-26
+INC-6F7D5F2B,Media,602.78,Error de Aplicación,1,Medio,Nivel 3,2025-05-14
+INC-B4089DB8,Baja,2407.13,Error de Aplicación,1,Bajo,Nivel 3,2025-08-15
+INC-FBBE4985,Baja,791.5,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-20
+INC-844A4DCE,Baja,3023.24,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-28
+INC-52CC5675,Alta,105.4,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-18
+INC-7968C9F7,Media,488.23,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-03
+INC-262EC0B5,Alta,256.51,Petición de Servicio,1,Alto,Nivel 3,2025-06-17
+INC-E8387E36,Media,1159.09,Petición de Servicio,1,Medio,Nivel 3,2025-10-13
+INC-7B822266,Alta,362.76,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-10-09
+INC-E1536D76,Media,950.84,Error de Aplicación,1,Medio,Nivel 3,2025-06-22
+INC-D437EA05,Media,274.97,Falla de Hardware,1,Medio,Nivel 3,2025-10-07
+INC-D4A26D1D,Alta,276.17,Petición de Servicio,1,Alto,Nivel 3,2025-06-29
+INC-0D28EC4A,Media,180.68,Falla de Hardware,1,Medio,Nivel 3,2025-07-20
+INC-A277BD46,Media,580.76,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-06
+INC-3546A33C,Media,630.65,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-22
+INC-BD821CB8,Alta,47.92,Petición de Servicio,1,Alto,Nivel 3,2025-09-05
+INC-7CE1EC72,Media,438.1,Error de Aplicación,1,Medio,Nivel 3,2025-08-06
+INC-A1B91F60,Baja,4133.73,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-08-25
+INC-3BB96C54,Alta,459.13,Falla de Hardware,1,Alto,Nivel 3,2025-08-07
+INC-2AB14077,Alta,188.55,Error de Aplicación,1,Alto,Nivel 3,2025-08-04
+INC-22B18DB2,Media,119.48,Petición de Servicio,1,Medio,Nivel 3,2025-08-08
+INC-C1AE19D7,Baja,872.2,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-22
+INC-250A683B,Media,601.26,Petición de Servicio,1,Medio,Nivel 3,2025-08-20
+INC-3AAB8A70,Media,1367.94,Error de Aplicación,1,Medio,Nivel 3,2025-07-11
+INC-FB8792A6,Media,254.85,Error de Aplicación,1,Medio,Nivel 3,2025-05-05
+INC-C76504D5,Media,1113.65,Error de Aplicación,1,Medio,Nivel 3,2025-06-24
+INC-384F220B,Alta,78.91,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-04-26
+INC-6BAB9B2D,Media,1414.14,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-24
+INC-B70E8DC8,Baja,1722.79,Falla de Hardware,1,Bajo,Nivel 3,2025-09-04
+INC-7BA6ED82,Media,1129.82,Error de Aplicación,1,Medio,Nivel 3,2025-08-22
+INC-EE0A32C7,Baja,1558.88,Error de Aplicación,1,Bajo,Nivel 3,2025-07-24
+INC-1D6E1216,Baja,2756.21,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-12
+INC-0EF5AAC0,Alta,116.41,Falla de Hardware,1,Alto,Nivel 3,2025-05-18
+INC-4600A16E,Baja,733.29,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-08-06
+INC-898A1484,Alta,452.13,Falla de Hardware,1,Alto,Nivel 3,2025-05-10
+INC-3F0E9211,Media,1326.35,Petición de Servicio,1,Medio,Nivel 3,2025-05-21
+INC-84799C61,Alta,429.36,Error de Aplicación,1,Alto,Nivel 3,2025-07-08
+INC-D5DD6CEF,Alta,311.45,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-06-25
+INC-8BCB3911,Media,1175.41,Petición de Servicio,1,Medio,Nivel 3,2025-10-01
+INC-2B9C6CAE,Media,155.27,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-03
+INC-9350DCEE,Media,522.01,Error de Aplicación,1,Medio,Nivel 3,2025-10-05
+INC-D5825B16,Media,492.91,Falla de Hardware,1,Medio,Nivel 3,2025-07-24
+INC-7F4B92F8,Alta,316.04,Error de Aplicación,1,Alto,Nivel 3,2025-05-19
+INC-A8C8D555,Alta,190.18,Error de Aplicación,1,Alto,Nivel 3,2025-06-11
+INC-80000F11,Media,264.94,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-09-27
+INC-D48490F8,Media,883.12,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-10
+INC-F0F9E7C1,Baja,3540.41,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-10-04
+INC-F0442A34,Media,587.33,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-04-28
+INC-AD8ACEBC,Baja,675.53,Petición de Servicio,1,Bajo,Nivel 3,2025-04-27
+INC-B8D53B51,Media,331.43,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-25
+INC-260B56FD,Media,387.73,Petición de Servicio,1,Medio,Nivel 3,2025-09-03
+INC-95ACDC33,Media,473.86,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-27
+INC-0516F4BA,Media,947.06,Error de Aplicación,1,Medio,Nivel 3,2025-09-16
+INC-BD9650D3,Media,889.3,Petición de Servicio,1,Medio,Nivel 3,2025-07-31
+INC-18CEDB38,Baja,3043.54,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-19
+INC-DF56BF97,Media,560.25,Petición de Servicio,1,Medio,Nivel 3,2025-04-19
+INC-CCCCD66B,Baja,3580.79,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-07-09
+INC-8A794A0A,Baja,977.17,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-19
+INC-99E8EA7B,Baja,2089.97,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-14
+INC-35FEFA69,Baja,3483.94,Error en Plataforma Cloud (sin control),0,Alto,Nivel 3,2025-10-09
+INC-3CA65405,Media,308.62,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-03
+INC-F36851CF,Media,211.61,Falla de Hardware,1,Medio,Nivel 3,2025-08-01
+INC-E8C8E5EC,Media,1279.48,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-10-01
+INC-ABD650F4,Media,533.24,Petición de Servicio,1,Medio,Nivel 3,2025-08-28
+INC-1F261022,Media,1003.74,Error en Plataforma Cloud (sin control),0,Medio,Nivel 3,2025-05-06
+INC-7AD64C3A,Baja,226.46,Error de Aplicación,1,Bajo,Nivel 3,2025-09-02
+INC-88FDD00A,Media,1012.26,Falla de Hardware,1,Medio,Nivel 3,2025-07-21
+INC-FD0F6846,Media,496.22,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-18
+INC-D3619795,Alta,55.08,Falla de Hardware,1,Alto,Nivel 3,2025-09-18
+INC-647A2FBB,Media,901.54,Falla de Hardware,1,Medio,Nivel 3,2025-05-07
+INC-44B62386,Alta,138.36,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-08
+INC-A667EEE5,Baja,1744.59,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-04-29
+INC-BDC3323A,Media,171.2,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-11
+INC-282B40A8,Alta,96.22,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-21
+INC-5FEF7A6C,Alta,164.09,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-06-02
+INC-EFB70E77,Media,183.87,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-19
+INC-30374B75,Media,1316.94,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-09-12
+INC-C48C853C,Media,68.34,Error de Aplicación,1,Medio,Nivel 3,2025-09-09
+INC-CF558541,Alta,247.74,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-22
+INC-B1A38568,Media,230.08,Petición de Servicio,1,Medio,Nivel 3,2025-08-19
+INC-A0457F26,Media,484.6,Falla de Hardware,1,Medio,Nivel 3,2025-08-04
+INC-EC47B933,Media,1337.96,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-23
+INC-5CD154E1,Media,283.14,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-07
+INC-7E3C13BD,Media,1392.85,Petición de Servicio,1,Medio,Nivel 3,2025-04-30
+INC-AF88037C,Alta,122.61,Cambio No Autorizado en HCE,0,Crítico,Nivel 3,2025-07-16
+INC-816B7851,Baja,3234.58,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-15
+INC-4AD55974,Media,814.41,Petición de Servicio,1,Medio,Nivel 3,2025-08-18
+INC-712D675C,Media,1280.58,Falla de Hardware,1,Medio,Nivel 3,2025-05-09
+INC-CA820C32,Alta,279.3,Petición de Servicio,1,Alto,Nivel 3,2025-08-05
+INC-95729DE6,Media,797.69,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-18
+INC-4ABDA60E,Alta,117.96,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-20
+INC-2E0A601C,Media,289.4,Petición de Servicio,1,Medio,Nivel 3,2025-10-08
+INC-BF608ED8,Baja,3969.25,Petición de Servicio,1,Bajo,Nivel 3,2025-05-16
+INC-DA7B6EAC,Media,512.42,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-08-09
+INC-F30C283D,Alta,197.44,Falla de Hardware,1,Alto,Nivel 3,2025-07-15
+INC-2646D28F,Alta,371.92,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-24
+INC-D89A7516,Media,527.58,Petición de Servicio,1,Medio,Nivel 3,2025-07-08
+INC-95CBC119,Alta,458.43,Error de Aplicación,1,Alto,Nivel 3,2025-05-13
+INC-37B47063,Alta,362.07,Falla de Hardware,1,Alto,Nivel 3,2025-07-29
+INC-7AD9D9FC,Baja,2629.2,Petición de Servicio,1,Bajo,Nivel 3,2025-08-10
+INC-FC16C67F,Media,1275.64,Error de Aplicación,1,Medio,Nivel 3,2025-05-01
+INC-44195107,Media,128.46,Falla de Hardware,1,Medio,Nivel 3,2025-04-19
+INC-D62B172A,Baja,1199.66,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-04-26
+INC-6C37503C,Alta,239.27,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-08-14
+INC-804ACB90,Baja,1073.31,Falla de Hardware,1,Bajo,Nivel 3,2025-09-08
+INC-8A7FE7FB,Media,1086.59,Falla de Hardware,1,Medio,Nivel 3,2025-08-22
+INC-79EDFBB3,Baja,3980.67,Petición de Servicio,1,Bajo,Nivel 3,2025-04-27
+INC-25479CFD,Media,644.8,Error de Aplicación,1,Medio,Nivel 3,2025-10-09
+INC-547E0699,Baja,1556.96,Falla de Hardware,1,Bajo,Nivel 3,2025-08-27
+INC-B2FB583E,Baja,4158.51,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-24
+INC-0137DBE8,Media,673.9,Falla de Hardware,1,Medio,Nivel 3,2025-06-19
+INC-C77992C3,Baja,2174.0,Falla de Hardware,1,Bajo,Nivel 3,2025-04-30
+INC-CC397BE6,Media,545.28,Petición de Servicio,1,Medio,Nivel 3,2025-06-05
+INC-6C0AF343,Media,1315.18,Falla de Hardware,1,Medio,Nivel 3,2025-09-17
+INC-A5E45D76,Media,845.16,Error de Aplicación,1,Medio,Nivel 3,2025-06-27
+INC-38A2AB47,Media,1111.8,Petición de Servicio,1,Medio,Nivel 3,2025-06-24
+INC-30AD49C2,Alta,395.31,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-08-29
+INC-78673633,Media,531.75,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-21
+INC-F9611FA6,Media,658.5,Petición de Servicio,1,Medio,Nivel 3,2025-05-02
+INC-B8B9D91D,Baja,3683.58,Error de Aplicación,1,Bajo,Nivel 3,2025-07-03
+INC-AEFE6906,Baja,1645.67,Petición de Servicio,1,Bajo,Nivel 3,2025-07-26
+INC-3A6B104C,Media,1155.63,Petición de Servicio,1,Medio,Nivel 3,2025-06-11
+INC-F0BD6947,Media,1358.57,Petición de Servicio,1,Medio,Nivel 3,2025-07-30
+INC-B99C2437,Media,920.03,Petición de Servicio,1,Medio,Nivel 3,2025-08-26
+INC-2029A573,Alta,363.73,Falla de Hardware,1,Alto,Nivel 3,2025-06-03
+INC-76DEB5D9,Alta,392.29,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-05-03
+INC-54F575E4,Media,1226.15,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-05
+INC-3EF1A8BF,Media,605.17,Error de Aplicación,1,Medio,Nivel 3,2025-09-27
+INC-9A42181E,Baja,335.31,Falla de Hardware,1,Bajo,Nivel 3,2025-06-25
+INC-1D4C65E0,Media,614.59,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-07-05
+INC-D680E679,Media,989.78,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-07-18
+INC-473A935A,Media,681.48,Petición de Servicio,1,Medio,Nivel 3,2025-05-24
+INC-E598B0BA,Alta,367.03,Error en Plataforma Cloud (sin control),0,Crítico,Nivel 3,2025-07-26
+INC-02FB445E,Media,552.64,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-17
+INC-2116973A,Media,935.95,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-15
+INC-C70A6995,Media,317.26,Falla de Hardware,1,Medio,Nivel 3,2025-06-03
+INC-FAE877EC,Media,1094.13,Falla de Hardware,1,Medio,Nivel 3,2025-04-26
+INC-6495B25B,Baja,2411.92,Error de Aplicación,1,Bajo,Nivel 3,2025-05-22
+INC-1956D19B,Baja,977.07,Petición de Servicio,1,Bajo,Nivel 3,2025-09-20
+INC-9F66533B,Media,462.84,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-20
+INC-9A4E523F,Media,1093.08,Petición de Servicio,1,Medio,Nivel 3,2025-05-30
+INC-4D0D4958,Media,725.99,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-06-11
+INC-526F7D56,Alta,127.21,Petición de Servicio,1,Alto,Nivel 3,2025-05-28
+INC-F16D9466,Media,1394.83,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-08-08
+INC-103FBEE4,Alta,351.81,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-04
+INC-E4148A65,Media,1380.85,Petición de Servicio,1,Medio,Nivel 3,2025-10-07
+INC-529C5BB9,Media,649.4,Error de Aplicación,1,Medio,Nivel 3,2025-09-24
+INC-0A7AE8A6,Alta,243.8,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-05-07
+INC-C101569A,Baja,3891.41,Error de Aplicación,1,Bajo,Nivel 3,2025-07-04
+INC-FBEC7A58,Baja,2325.21,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-06-24
+INC-F8929045,Baja,3090.57,Falla de Hardware,1,Bajo,Nivel 3,2025-06-25
+INC-E5389DB4,Media,408.0,Falla de Hardware,1,Medio,Nivel 3,2025-06-22
+INC-34A101F8,Baja,1996.25,Petición de Servicio,1,Bajo,Nivel 3,2025-06-03
+INC-5B28CDCB,Alta,85.55,Incidente de Seguridad Menor,1,Alto,Nivel 3,2025-09-24
+INC-6B91DC68,Baja,985.12,Falla de Hardware,1,Bajo,Nivel 3,2025-05-22
+INC-805B7D7B,Alta,30.42,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-09-24
+INC-0A0E4550,Baja,284.91,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-22
+INC-6C3908DE,Media,1408.65,Falla de Hardware,1,Medio,Nivel 3,2025-09-12
+INC-45A37C74,Baja,1137.89,Falla de Hardware,1,Bajo,Nivel 3,2025-05-13
+INC-A254BEB5,Baja,2905.9,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-06-27
+INC-4F2DAE35,Alta,407.59,Falla de Hardware,1,Alto,Nivel 3,2025-07-26
+INC-DC2B2B54,Media,819.91,Petición de Servicio,1,Medio,Nivel 3,2025-07-21
+INC-C783EBD3,Baja,763.21,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-22
+INC-DBF669E3,Media,1064.8,Falla de Hardware,1,Medio,Nivel 3,2025-05-12
+INC-85FB65E9,Baja,2641.06,Cambio No Autorizado en HCE,0,Alto,Nivel 3,2025-06-21
+INC-33B60D13,Media,1069.13,Falla de Hardware,1,Medio,Nivel 3,2025-09-03
+INC-B11B678A,Media,1122.25,Petición de Servicio,1,Medio,Nivel 3,2025-05-08
+INC-EA0F5E25,Media,1406.07,Petición de Servicio,1,Medio,Nivel 3,2025-05-03
+INC-CD9837F3,Alta,288.1,Problema de Red/Conectividad,1,Alto,Nivel 3,2025-04-23
+INC-15672CE9,Baja,1554.89,Incidente de Seguridad Menor,1,Bajo,Nivel 3,2025-08-01
+INC-C6FDFD5C,Media,954.88,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-06-23
+INC-C9380230,Media,154.45,Falla de Hardware,1,Medio,Nivel 3,2025-08-22
+INC-4B23BAE9,Media,1298.41,Problema de Red/Conectividad,1,Medio,Nivel 3,2025-05-23
+INC-B4DD1146,Media,224.75,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-05-24
+INC-72A6B417,Baja,1496.94,Error de Aplicación,1,Bajo,Nivel 3,2025-07-21
+INC-84EC1F65,Baja,3546.13,Problema de Red/Conectividad,1,Bajo,Nivel 3,2025-09-02
+INC-8DD2136E,Media,884.29,Incidente de Seguridad Menor,1,Medio,Nivel 3,2025-04-17
