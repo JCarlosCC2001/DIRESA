@@ -1,70 +1,65 @@
-# gcti_analysis/main.py
 import os
 import sys
 import streamlit as st
 
-# Asegura que el paquete se pueda importar si se ejecuta directamente
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from analysis_utils import (
     generar_dataset_simulado,
     analizar_tmti,
-    analizar_cumplimiento_riesgo
+    analizar_cumplimiento_riesgo,
+    cargar_datos_reales,
+    mostrar_impacto_anemia,
+    mostrar_analisis_geografico
 )
 
-# -----------------------------------------------------------------
-# FUNCIÓN PRINCIPAL DE STREAMLIT (MAIN)
-# -----------------------------------------------------------------
 def main():
-    st.set_page_config(
-        page_title="GCTI DIRESA - Análisis Estadístico",
-        layout="wide",
-        page_icon="📊"
-    )
+    st.set_page_config(page_title="GCTI DIRESA Junín", layout="wide", page_icon="📊")
 
-    st.title("📈 Sistema Interactivo de Análisis de Métricas GCTI (DIRESA Junín) 🇵🇪")
+    st.title("📈 Sistema de Métricas GCTI (DIRESA Junín) 🇵🇪")
     st.markdown("---")
     
-    # Generar el DataFrame simulado llamando a la función del módulo utils
     df = generar_dataset_simulado()
 
-    # --------------------------
-    # Barra lateral
-    # --------------------------
-    st.sidebar.title("Métricas de Gobierno TI (COBIT 2019)")
-    st.sidebar.markdown("### Seleccione el Eje de Análisis:")
-
-    # Estado de la página
+    # Barra Lateral
+    st.sidebar.title("Menú de Control")
     if 'page' not in st.session_state:
         st.session_state.page = 'home'
 
-    if st.sidebar.button("📉 Eficiencia Operativa (TMTI)", key="tmti"):
+    if st.sidebar.button("📉 Eficiencia Operativa (TMTI)"):
         st.session_state.page = 'tmti'
 
-    if st.sidebar.button("🛡️ Cumplimiento y Gobernanza", key="compliance"):
+    if st.sidebar.button("🛡️ Cumplimiento y Riesgos"):
         st.session_state.page = 'compliance'
 
     st.sidebar.markdown("---")
+    st.sidebar.subheader("📂 Cargar Datos de Anemia")
+    archivo_real = st.sidebar.file_uploader("Archivo CSV/Excel (Junín)", type=["xlsx", "csv"])
 
-    if st.sidebar.checkbox("🧾 Ver Data Simulada (Head)"):
-        st.sidebar.dataframe(df.head())
+    df_real = None
+    if archivo_real:
+        df_real = cargar_datos_reales(archivo_real)
+        if df_real is not None:
+            st.sidebar.success("✅ Dataset real vinculado")
 
-    # --------------------------
-    # Contenido principal
-    # --------------------------
+    # Contenido Principal
     if st.session_state.page == 'tmti':
-        analizar_tmti(df)
+        tab_tec, tab_soc = st.tabs(["📊 Métricas Técnicas", "🏥 Impacto Social"])
+        
+        with tab_tec:
+            analizar_tmti(df)
+            
+        with tab_soc:
+            mostrar_impacto_anemia(df)
+            if df_real is not None:
+                st.markdown("---")
+                mostrar_analisis_geografico(df_real)
+
     elif st.session_state.page == 'compliance':
         analizar_cumplimiento_riesgo(df)
+        
     else:
-        st.info(
-            "👈 Utilice los botones de la barra lateral para ver el análisis estadístico "
-            "proyectado de las métricas clave del GCTI."
-        )
+        st.info("👈 Seleccione una métrica en la barra lateral para comenzar.")
 
-
-# -----------------------------------------------------------------
-# EJECUCIÓN PRINCIPAL
-# -----------------------------------------------------------------
 if __name__ == "__main__":
     main()

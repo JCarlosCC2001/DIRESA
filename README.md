@@ -1,9 +1,13 @@
-# GCTI DIRESA - Análisis Estadístico (COBIT 2019)
+Paso 1: Activar el Entorno Virtual (.venv)
+    Asegúrate de que el entorno virtual esté activo para usar las librerías correctas.
 
-Este proyecto implementa un modelo de Gobierno Corporativo de TI (GCTI) para la DIRESA Junín, utilizando métricas clave de COBIT 2019 (DSS02, BAI06, APO12, MEA01) para proyectar la optimización de servicios de salud.
+    Linux/macOS	source              --->    .venv/bin/activate
+    Windows (CMD o PowerShell)      --->    .\.venv\Scripts\activate
 
-La aplicación utiliza un dataset simulado (`analysis_utils.py`) y la librería Streamlit para presentar los resultados estadísticos de manera interactiva.
+Paso 2: Instalar Dependencias
+    Instala todas las librerías necesarias (solo si no lo has hecho antes):
+    Bash    --->    pip install -r requirements.txt
 
-## 📁 Estructura del Proyecto
-
-El código está organizado como un paquete modular Python (`gcti_analysis`):
+Paso 3: Iniciar la Aplicación Streamlit
+    Ejecuta el punto de entrada principal del paquete:
+    Bash    --->    streamlit run gcti_analysis/main.py
